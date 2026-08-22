@@ -90,6 +90,16 @@
         "Authors":  "Daedelus"
     },
     {
+        "Name":  "Brewin\u0027 And Chewin\u0027",
+        "ModId":  "brewinandchewin",
+        "Version":  "[46,)",
+        "FileName":  "BrewinAndChewin-1.20.1-3.2.1.jar",
+        "FileSize":  "1.15 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin",
+        "Description":  "Fermenting addon for Farmer\u0027s Delight.",
+        "Authors":  "Probleyes, Umpaz, MerchantPug"
+    },
+    {
         "Name":  "Chalk",
         "ModId":  "chalk",
         "Version":  "[40,)",
@@ -138,6 +148,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
         "Description":  "",
         "Authors":  "shedaniel"
+    },
+    {
+        "Name":  "Collector\u0027s Reap",
+        "ModId":  "collectorsreap",
+        "Version":  "[47,)",
+        "FileName":  "collectorsreap-1.20.1-1.5.5.jar",
+        "FileSize":  "1.48 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/collectors-reap",
+        "Description":  "Farmer\u0027s Delight addon with foods scavenged from the wild.",
+        "Authors":  "reNIK03, brdbrn"
     },
     {
         "Name":  "Create: Copycats+",
@@ -210,6 +230,16 @@
         "Authors":  "MRH0"
     },
     {
+        "Name":  "Cultural Delights",
+        "ModId":  "culturaldelights",
+        "Version":  "[47,)",
+        "FileName":  "culturaldelights-0.16.7.jar",
+        "FileSize":  "0.25 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/cultural-delights",
+        "Description":  "",
+        "Authors":  "Developer: Baisylia | Porting: OnesAndZer0s | Art: Baisylia, Raspmary, Bagels"
+    },
+    {
         "Name":  "Curios API",
         "ModId":  "curios",
         "Version":  "[41,)",
@@ -218,6 +248,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/curios",
         "Description":  "",
         "Authors":  "C4"
+    },
+    {
+        "Name":  "Delightful",
+        "ModId":  "delightful",
+        "Version":  "[47,)",
+        "FileName":  "Delightful-1.20.1-3.8.1.jar",
+        "FileSize":  "1.69 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/delightful",
+        "Description":  "Farmer\u0027s Delight addon with mod compatibility features and fun new foods.",
+        "Authors":  "brnbrd"
     },
     {
         "Name":  "Drink Beer Refill",
@@ -238,6 +278,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/embeddium",
         "Description":  "",
         "Authors":  "embeddedt"
+    },
+    {
+        "Name":  "End\u0027s Delight",
+        "ModId":  "ends_delight",
+        "Version":  "[47,)",
+        "FileName":  "ends_delight-2.6.1+forge.1.20.1.jar",
+        "FileSize":  "0.25 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/ends-delight",
+        "Description":  "",
+        "Authors":  "FoggyHillside"
     },
     {
         "Name":  "ExpandAbility",
@@ -400,6 +450,16 @@
         "Authors":  "MehVahdJukaar"
     },
     {
+        "Name":  "Nether\u0027s Delight",
+        "ModId":  "nethersdelight",
+        "Version":  "[47,)",
+        "FileName":  "nethersdelight-1.20.1-4.0.jar",
+        "FileSize":  "0.35 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/nethers-delight",
+        "Description":  "A nether expansion for the Farmer\u0027s Delight mod!",
+        "Authors":  "Umpaz, SoyTutta"
+    },
+    {
         "Name":  "Night Lights",
         "ModId":  "nightlights",
         "Version":  "[47,)",
@@ -408,6 +468,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/night-lights",
         "Description":  "",
         "Authors":  "Joosh and samgj15"
+    },
+    {
+        "Name":  "Ocean\u0027s Delight",
+        "ModId":  "oceansdelight",
+        "Version":  "[40,)",
+        "FileName":  "oceansdelight-1.0.2-1.20.jar",
+        "FileSize":  "0.09 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/oceans-delight",
+        "Description":  "",
+        "Authors":  "Scouter456"
     },
     {
         "Name":  "Playdate",
