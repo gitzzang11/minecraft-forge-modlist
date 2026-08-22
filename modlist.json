@@ -410,6 +410,16 @@
         "Authors":  "embeddedt"
     },
     {
+        "Name":  "Enchanting Infuser",
+        "ModId":  "enchantinginfuser",
+        "Version":  "8.0.3",
+        "FileName":  "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+        "FileSize":  "0.17 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser",
+        "Description":  "An all new enchanting table: Choose your enchantments for fair prices! Plus no more randomness!",
+        "Authors":  "Fuzs"
+    },
+    {
         "Name":  "End\u0027s Delight",
         "ModId":  "ends_delight",
         "Version":  "2.6.1+forge.1.20.1",
@@ -748,6 +758,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills",
         "Description":  "Adds a fully configurable skill system to the game.",
         "Authors":  "Pufferfish"
+    },
+    {
+        "Name":  "Puzzles Lib",
+        "ModId":  "puzzleslib",
+        "Version":  "8.1.33",
+        "FileName":  "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+        "FileSize":  "1.28 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+        "Description":  "Why\u0027s it called Puzzles you ask? That\u0027s the puzzle!",
+        "Authors":  "Fuzs"
     },
     {
         "Name":  "Quark",
