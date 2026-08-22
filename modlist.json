@@ -240,6 +240,16 @@
         "Authors":  "MarbleGateKeeper \u0026 LimonBlaze"
     },
     {
+        "Name":  "Create Jetpack",
+        "ModId":  "create_jetpack",
+        "Version":  "[47,)",
+        "FileName":  "create_jetpack-forge-4.4.6.jar",
+        "FileSize":  "0.61 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-jetpack",
+        "Description":  "",
+        "Authors":  "possible_triangle"
+    },
+    {
         "Name":  "Create: Power Loader",
         "ModId":  "create_power_loader",
         "Version":  "[47,)",
