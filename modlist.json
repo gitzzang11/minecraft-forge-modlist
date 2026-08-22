@@ -330,6 +330,16 @@
         "Authors":  "C4"
     },
     {
+        "Name":  "Default Skill Trees",
+        "ModId":  "default_skill_trees",
+        "Version":  "1.1",
+        "FileName":  "default_skill_trees-1.1.jar",
+        "FileSize":  "0.01 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/default-skill-trees",
+        "Description":  "Adds default skill trees for Pufferfish\u0027s Skills mod.",
+        "Authors":  "Pufferfish"
+    },
+    {
         "Name":  "Delightful",
         "ModId":  "delightful",
         "Version":  "${file.jarVersion}",
@@ -668,6 +678,26 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/polymorph",
         "Description":  "",
         "Authors":  "Illusive Soulworks"
+    },
+    {
+        "Name":  "Pufferfish\u0027s Attributes",
+        "ModId":  "puffish_attributes",
+        "Version":  "0.8.2",
+        "FileName":  "puffish_attributes-0.8.2-1.20-forge.jar",
+        "FileSize":  "0.23 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/pufferfishs-attributes",
+        "Description":  "Adds more attributes to the game.",
+        "Authors":  "Pufferfish"
+    },
+    {
+        "Name":  "Pufferfish\u0027s Skills",
+        "ModId":  "puffish_skills",
+        "Version":  "0.18.3",
+        "FileName":  "puffish_skills-0.18.3-1.20-forge.jar",
+        "FileSize":  "0.59 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills",
+        "Description":  "Adds a fully configurable skill system to the game.",
+        "Authors":  "Pufferfish"
     },
     {
         "Name":  "Quark",
