@@ -180,6 +180,16 @@
         "Authors":  ""
     },
     {
+        "Name":  "Collective",
+        "ModId":  "collective",
+        "Version":  "8.39",
+        "FileName":  "collective-1.20.1-8.39.jar",
+        "FileSize":  "0.71 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/collective",
+        "Description":  "",
+        "Authors":  "Rick South"
+    },
+    {
         "Name":  "Collector\u0027s Reap",
         "ModId":  "collectorsreap",
         "Version":  "${file.jarVersion}",
@@ -428,6 +438,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/idas",
         "Description":  "",
         "Authors":  "CraisinLord"
+    },
+    {
+        "Name":  "Infinite Trading",
+        "ModId":  "infinitetrading",
+        "Version":  "5.0",
+        "FileName":  "infinitetrading-1.20.1-5.0.jar",
+        "FileSize":  "0.03 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/infinite-trading",
+        "Description":  "",
+        "Authors":  "Rick South"
     },
     {
         "Name":  "Integrated API",
@@ -895,7 +915,17 @@
         "Version":  "26.4.2",
         "FileName":  "xaerominimap-forge-1.20.1-26.4.2.jar",
         "FileSize":  "2.09 MB",
-        "Url":  "https://www.curseforge.com/minecraft/search?page=1\u0026pageSize=20\u0026sortBy=relevancy\u0026class=mc-mods\u0026search=xaerominimap",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+        "Description":  "",
+        "Authors":  "xaero96"
+    },
+    {
+        "Name":  "Xaero\u0027s World Map",
+        "ModId":  "xaeroworldmap",
+        "Version":  "1.45.0",
+        "FileName":  "xaeroworldmap-forge-1.20.1-1.45.0.jar",
+        "FileSize":  "1.36 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
         "Description":  "",
         "Authors":  "xaero96"
     },
