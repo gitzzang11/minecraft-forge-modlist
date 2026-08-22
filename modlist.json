@@ -320,6 +320,16 @@
         "Authors":  "MRH0"
     },
     {
+        "Name":  "Create Goggles",
+        "ModId":  "creategoggles",
+        "Version":  "6.1.1",
+        "FileName":  "creategoggles-1.20.1-6.1.1-FORGE.jar",
+        "FileSize":  "0.37 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-goggles",
+        "Description":  "",
+        "Authors":  "Robocraft999"
+    },
+    {
         "Name":  "Create Stuff \u0027N Additions",
         "ModId":  "create_sa",
         "Version":  "2.1.2",
