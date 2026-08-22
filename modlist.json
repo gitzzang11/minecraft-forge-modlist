@@ -30,6 +30,16 @@
         "Authors":  "iamkaf"
     },
     {
+        "Name":  "Amendments",
+        "ModId":  "amendments",
+        "Version":  "1.20-2.2.6",
+        "FileName":  "amendments-1.20-2.2.6.jar",
+        "FileSize":  "1.25 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/amendments",
+        "Description":  "",
+        "Authors":  "MehVahdJukaar"
+    },
+    {
         "Name":  "Apple Crates",
         "ModId":  "applecrates",
         "Version":  "3.2.1",
