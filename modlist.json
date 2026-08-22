@@ -410,6 +410,26 @@
         "Authors":  "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
     },
     {
+        "Name":  "Integrated Dungeons and Structures",
+        "ModId":  "idas",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "idas_forge-1.13.0+1.20.1.jar",
+        "FileSize":  "13.75 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/idas",
+        "Description":  "",
+        "Authors":  "CraisinLord"
+    },
+    {
+        "Name":  "Integrated API",
+        "ModId":  "integrated_api",
+        "Version":  "1.8.0",
+        "FileName":  "integrated_api-forge-1.20.1-1.8.0.jar",
+        "FileSize":  "0.67 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/integrated-api",
+        "Description":  "",
+        "Authors":  "CraisinLord"
+    },
+    {
         "Name":  "Iron\u0027s Lib",
         "ModId":  "irons_lib",
         "Version":  "1.20.1-2.1.0",
@@ -650,6 +670,16 @@
         "Authors":  "Illusive Soulworks"
     },
     {
+        "Name":  "Quark",
+        "ModId":  "quark",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "Quark-4.0-462.jar",
+        "FileSize":  "14.24 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/quark",
+        "Description":  "",
+        "Authors":  "Vazkii, WireSegal, MCVinnyq, Sully"
+    },
+    {
         "Name":  "Redwolf Music Expansion",
         "ModId":  "red_exp",
         "Version":  "2.0.3",
@@ -835,7 +865,7 @@
         "Version":  "26.4.2",
         "FileName":  "xaerominimap-forge-1.20.1-26.4.2.jar",
         "FileSize":  "2.09 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+        "Url":  "https://www.curseforge.com/minecraft/search?page=1\u0026pageSize=20\u0026sortBy=relevancy\u0026class=mc-mods\u0026search=xaerominimap",
         "Description":  "",
         "Authors":  "xaero96"
     },
@@ -858,5 +888,15 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
         "Description":  "A complete redesign of Minecraft\u0027s dungeons",
         "Authors":  "YUNGNICKYOUNG, Acarii"
+    },
+    {
+        "Name":  "Zeta",
+        "ModId":  "zeta",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "Zeta-1.0-31.jar",
+        "FileSize":  "0.96 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/zeta",
+        "Description":  "",
+        "Authors":  "Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar"
     }
 ]
