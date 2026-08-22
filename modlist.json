@@ -220,6 +220,16 @@
         "Authors":  "BlayTheNinth"
     },
     {
+        "Name":  "Create: Central Kitchen",
+        "ModId":  "create_central_kitchen",
+        "Version":  "[47,)",
+        "FileName":  "create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
+        "FileSize":  "0.8 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen",
+        "Description":  "",
+        "Authors":  "LimonBlaze, MarbleGate and Etherwood"
+    },
+    {
         "Name":  "Create: Connected",
         "ModId":  "create_connected",
         "Version":  "[47,)",
