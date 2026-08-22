@@ -3,8 +3,8 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg?style=flat-square&logo=minecraft)](https://www.minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-47.4.10-orange.svg?style=flat-square)](https://files.minecraftforge.net/)
 [![Total Mods](https://img.shields.io/badge/Total_Mods-101-blue.svg?style=flat-square)]()
-[![Total Size](https://img.shields.io/badge/Total_Size-414.03%20MB-informational.svg?style=flat-square)]()
-[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2021%3A20%3A32-blueviolet.svg?style=flat-square)]()
+[![Total Size](https://img.shields.io/badge/Total_Size-414.04%20MB-informational.svg?style=flat-square)]()
+[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2021%3A36%3A10-blueviolet.svg?style=flat-square)]()
 
 마인크래프트 **Forge 1.20.1** 서버에 적용된 모드 목록 및 다운로드 저장소입니다.
 
@@ -72,7 +72,7 @@
 | 40 | [**Drink Beer Refill** 🔗](https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill) | `drinkbeer` | `drinkbeer-refill-1.20.1-1.0.5.jar` | 1.45 MB | Add placeable beer mug and drink it! |
 | 41 | [**Embeddium** 🔗](https://www.curseforge.com/minecraft/mc-mods/embeddium) | `embeddium` | `embeddium-0.3.31+mc1.20.1.jar` | 1.26 MB |  |
 | 42 | [**Enchanting Infuser** 🔗](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser) | `enchantinginfuser` | `EnchantingInfuser-v8.0.3-1.20.1-Forge.jar` | 0.17 MB | An all new enchanting table: Choose your enchantments for fair prices! Plus no more randomness! |
-| 43 | [**End's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/ends-delight) | `ends_delight` | `ends_delight-2.6.1+forge.1.20.1.jar` | 0.25 MB |  |
+| 43 | [**End's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/ends-delight) | `ends_delight` | `ends_delight-2.6+forge.1.20.1.jar` | 0.26 MB |  |
 | 44 | [**ExpandAbility** 🔗](https://www.curseforge.com/minecraft/mc-mods/expandability) | `expandability` | `expandability-forge-9.0.4.jar` | 0.08 MB |  |
 | 45 | [**Farmer's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | `farmersdelight` | `FarmersDelight-1.20.1-1.3.3.jar` | 3.16 MB | A cozy farming and cooking expansion for Minecraft! |
 | 46 | [**Ferrite Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | `ferritecore` | `ferritecore-6.0.1-forge.jar` | 0.12 MB |  |
@@ -137,4 +137,4 @@
 ## 🔄 동기화 안내
 이 저장소는 서버의 `Sync-ModList.bat` 스크립트를 통해 자동으로 생성 및 업데이트됩니다.
 
-- **마지막 업데이트 일시:** 2026-08-22 21:20:32 (KST)
+- **마지막 업데이트 일시:** 2026-08-22 21:36:10 (KST)

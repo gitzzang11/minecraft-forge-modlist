@@ -422,9 +422,9 @@
     {
         "Name":  "End\u0027s Delight",
         "ModId":  "ends_delight",
-        "Version":  "2.6.1+forge.1.20.1",
-        "FileName":  "ends_delight-2.6.1+forge.1.20.1.jar",
-        "FileSize":  "0.25 MB",
+        "Version":  "2.6+forge.1.20.1",
+        "FileName":  "ends_delight-2.6+forge.1.20.1.jar",
+        "FileSize":  "0.26 MB",
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/ends-delight",
         "Description":  "",
         "Authors":  "FoggyHillside"
