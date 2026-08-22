@@ -4,14 +4,14 @@
 [![Forge](https://img.shields.io/badge/Forge-47.4.10-orange.svg?style=flat-square)](https://files.minecraftforge.net/)
 [![Total Mods](https://img.shields.io/badge/Total_Mods-47-blue.svg?style=flat-square)]()
 [![Total Size](https://img.shields.io/badge/Total_Size-334.94%20MB-informational.svg?style=flat-square)]()
-[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2020%3A39%3A29-blueviolet.svg?style=flat-square)]()
+[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2020%3A39%3A37-blueviolet.svg?style=flat-square)]()
 
 마인크래프트 **Forge 1.20.1** 서버에 적용된 모드 목록입니다.  
 서버 접속을 위해 클라이언트에도 동일한 모드가 설치되어 있어야 합니다.
 
 ---
 
-## 📦 모드 목록 (총 )
+## 📦 모드 목록 (총 47개)
 
 | 번호 | 모드 이름 | Mod ID | 파일명 | 용량 | 설명 |
 | :---: | :--- | :--- | :--- | :---: | :--- |
@@ -68,4 +68,4 @@
 ## 🔄 자동 동기화 안내
 이 목록은 서버의 `Sync-ModList.bat` 스크립트를 통해 자동으로 생성 및 업데이트됩니다.
 
-- **업데이트 일시:** 2026-08-22 20:39:29 (KST)
+- **업데이트 일시:** 2026-08-22 20:39:37 (KST)
