@@ -320,6 +320,26 @@
         "Authors":  "MRH0"
     },
     {
+        "Name":  "Create Stuff \u0027N Additions",
+        "ModId":  "create_sa",
+        "Version":  "2.1.2",
+        "FileName":  "create-stuff-additions1.20.1_v2.1.2.jar",
+        "FileSize":  "1.3 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
+        "Description":  "Create Stuff \u0026 Additions is a mod that uses the resources of Create to offer a new set of equipment, tools and gadget! Equipmen...",
+        "Authors":  "Furti_Two"
+    },
+    {
+        "Name":  "CreateStuffAdditionsFix",
+        "ModId":  "createstuffadditionsfix",
+        "Version":  "0.0.0.1",
+        "FileName":  "createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar",
+        "FileSize":  "0 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/createstuffadditions-fix",
+        "Description":  "",
+        "Authors":  "Noobanidus"
+    },
+    {
         "Name":  "Cultural Delights",
         "ModId":  "culturaldelights",
         "Version":  "0.16.6",
