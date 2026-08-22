@@ -4,14 +4,29 @@
 [![Forge](https://img.shields.io/badge/Forge-47.4.10-orange.svg?style=flat-square)](https://files.minecraftforge.net/)
 [![Total Mods](https://img.shields.io/badge/Total_Mods-47-blue.svg?style=flat-square)]()
 [![Total Size](https://img.shields.io/badge/Total_Size-334.94%20MB-informational.svg?style=flat-square)]()
-[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2020%3A39%3A37-blueviolet.svg?style=flat-square)]()
+[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2020%3A42%3A17-blueviolet.svg?style=flat-square)]()
 
-마인크래프트 **Forge 1.20.1** 서버에 적용된 모드 목록입니다.  
-서버 접속을 위해 클라이언트에도 동일한 모드가 설치되어 있어야 합니다.
+마인크래프트 **Forge 1.20.1** 서버에 적용된 모드 목록 및 다운로드 저장소입니다.
 
 ---
 
-## 📦 모드 목록 (총 47개)
+## 📥 모드팩 원클릭 다운로드
+
+서버 접속에 필요한 모든 모드 파일(.jar)을 하나의 압축 파일로 다운로드할 수 있습니다.
+
+[![Download Modpack](https://img.shields.io/badge/📥_Download_Mods_Pack_(ZIP)-335MB-2ea44f?style=for-the-badge&logo=github)](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip)
+
+- **[👉 GitHub 최신 릴리즈 페이지 바로가기](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest)**
+- **[👉 최신 mods-forge-1.20.1.zip 다이렉트 다운로드](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip)**
+
+> **설치 방법:**  
+> 1. 위 버튼 또는 링크를 눌러 mods-forge-1.20.1.zip을 다운로드합니다.  
+> 2. 압축을 해제한 후 나오는 모든 .jar 파일들을 본인의 .minecraft/mods 폴더에 넣습니다.  
+> 3. 마인크래프트 실행기에서 **Forge 1.20.1 (47.4.10 권장)** 버전으로 실행 후 서버에 접속합니다.
+
+---
+
+## 📦 모드 상세 목록 (총 47개)
 
 | 번호 | 모드 이름 | Mod ID | 파일명 | 용량 | 설명 |
 | :---: | :--- | :--- | :--- | :---: | :--- |
@@ -65,7 +80,7 @@
 
 ---
 
-## 🔄 자동 동기화 안내
-이 목록은 서버의 `Sync-ModList.bat` 스크립트를 통해 자동으로 생성 및 업데이트됩니다.
+## 🔄 동기화 안내
+이 저장소는 서버의 `Sync-ModList.bat` 스크립트를 통해 자동으로 생성 및 업데이트됩니다.
 
-- **업데이트 일시:** 2026-08-22 20:39:37 (KST)
+- **마지막 업데이트 일시:** 2026-08-22 20:42:17 (KST)
