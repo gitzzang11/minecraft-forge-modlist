@@ -50,6 +50,16 @@
         "Authors":  "shedaniel"
     },
     {
+        "Name":  "Artifacts",
+        "ModId":  "artifacts",
+        "Version":  "[47,)",
+        "FileName":  "artifacts-forge-9.5.19.jar",
+        "FileSize":  "0.81 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/artifacts",
+        "Description":  "",
+        "Authors":  "ochotonida"
+    },
+    {
         "Name":  "Balm",
         "ModId":  "balm",
         "Version":  "[46,)",
@@ -58,6 +68,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/balm",
         "Description":  "",
         "Authors":  "BlayTheNinth"
+    },
+    {
+        "Name":  "Create: Bells \u0026 Whistles",
+        "ModId":  "bellsandwhistles",
+        "Version":  "[47,)",
+        "FileName":  "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+        "FileSize":  "0.19 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles",
+        "Description":  "",
+        "Authors":  "lev"
     },
     {
         "Name":  "Better Combat",
@@ -120,6 +140,16 @@
         "Authors":  "shedaniel"
     },
     {
+        "Name":  "Create: Copycats+",
+        "ModId":  "copycats",
+        "Version":  "[47,)",
+        "FileName":  "copycats-3.0.8+mc.1.20.1-forge.jar",
+        "FileSize":  "1.91 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/copycats",
+        "Description":  "",
+        "Authors":  "Lysine, Bennyboy1695, Redcat_XVIII"
+    },
+    {
         "Name":  "Corpse",
         "ModId":  "corpse",
         "Version":  "*",
@@ -130,6 +160,16 @@
         "Authors":  "Max Henkel"
     },
     {
+        "Name":  "Create: Connected",
+        "ModId":  "create_connected",
+        "Version":  "[47,)",
+        "FileName":  "create_connected-1.2.3-mc1.20.1-all.jar",
+        "FileSize":  "6.48 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-connected",
+        "Description":  "",
+        "Authors":  "Lysine"
+    },
+    {
         "Name":  "Create Enchantment Industry",
         "ModId":  "create_enchantment_industry",
         "Version":  "[47,)",
@@ -138,6 +178,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry",
         "Description":  "",
         "Authors":  "MarbleGateKeeper \u0026 LimonBlaze"
+    },
+    {
+        "Name":  "Create: Power Loader",
+        "ModId":  "create_power_loader",
+        "Version":  "[47,)",
+        "FileName":  "create_power_loader-2.0.3-mc1.20.1.jar",
+        "FileSize":  "0.22 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-power-loader",
+        "Description":  "",
+        "Authors":  "Lysine"
     },
     {
         "Name":  "Create",
@@ -188,6 +238,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/embeddium",
         "Description":  "",
         "Authors":  "embeddedt"
+    },
+    {
+        "Name":  "ExpandAbility",
+        "ModId":  "expandability",
+        "Version":  "[46,)",
+        "FileName":  "expandability-forge-9.0.4.jar",
+        "FileSize":  "0.08 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/expandability",
+        "Description":  "",
+        "Authors":  "Florens"
     },
     {
         "Name":  "Farmer\u0027s Delight",
@@ -310,6 +370,16 @@
         "Authors":  "iamkaf"
     },
     {
+        "Name":  "Lootr",
+        "ModId":  "lootr",
+        "Version":  "[44,)",
+        "FileName":  "lootr-forge-1.20-0.7.35.94.jar",
+        "FileSize":  "0.44 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/lootr",
+        "Description":  "",
+        "Authors":  "Noobanidus"
+    },
+    {
         "Name":  "ModernFix",
         "ModId":  "modernfix",
         "Version":  "[46,)",
@@ -420,6 +490,16 @@
         "Authors":  "P3pp3rF1y"
     },
     {
+        "Name":  "Sophisticated Storage",
+        "ModId":  "sophisticatedstorage",
+        "Version":  "[47,)",
+        "FileName":  "sophisticatedstorage-1.20.1-1.4.85.2124.jar",
+        "FileSize":  "1.78 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage",
+        "Description":  "",
+        "Authors":  "P3pp3rF1y, Ridanisaurus"
+    },
+    {
         "Name":  "Create: Steam \u0027n\u0027 Rails",
         "ModId":  "railways",
         "Version":  "[47,)",
@@ -428,6 +508,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
         "Description":  "",
         "Authors":  "The Railways Team"
+    },
+    {
+        "Name":  "Supplementaries",
+        "ModId":  "supplementaries",
+        "Version":  "[4,)",
+        "FileName":  "supplementaries-1.20-3.1.43-forge.jar",
+        "FileSize":  "13.03 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+        "Description":  "",
+        "Authors":  "MehVahdJukaar, Plantkillable"
     },
     {
         "Name":  "Valhelsia Core",
@@ -468,5 +558,25 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/waystones",
         "Description":  "",
         "Authors":  "BlayTheNinth"
+    },
+    {
+        "Name":  "YUNG\u0027s API",
+        "ModId":  "yungsapi",
+        "Version":  "[46,)",
+        "FileName":  "YungsApi-1.20-Forge-4.0.6.jar",
+        "FileSize":  "0.35 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
+        "Description":  "API Library for YUNG\u0027s minecraft mods.",
+        "Authors":  "YUNGNICKYOUNG"
+    },
+    {
+        "Name":  "YUNG\u0027s Better Dungeons",
+        "ModId":  "betterdungeons",
+        "Version":  "[46,)",
+        "FileName":  "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+        "FileSize":  "0.76 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
+        "Description":  "A complete redesign of Minecraft\u0027s dungeons",
+        "Authors":  "YUNGNICKYOUNG, Acarii"
     }
 ]
