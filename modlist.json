@@ -710,6 +710,16 @@
         "Authors":  ""
     },
     {
+        "Name":  "Create: Trading Floor",
+        "ModId":  "trading_floor",
+        "Version":  "[47,)",
+        "FileName":  "trading_floor-forge-1.20.1-2.0.5.jar",
+        "FileSize":  "0.28 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-trading-floor",
+        "Description":  "",
+        "Authors":  "Cake, Tazer"
+    },
+    {
         "Name":  "Valhelsia Core",
         "ModId":  "valhelsia_core",
         "Version":  "[45,)",
@@ -755,7 +765,7 @@
         "Version":  "[46, 48)",
         "FileName":  "xaerominimap-forge-1.20.1-26.4.2.jar",
         "FileSize":  "2.09 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+        "Url":  "https://www.curseforge.com/minecraft/search?page=1\u0026pageSize=20\u0026sortBy=relevancy\u0026class=mc-mods\u0026search=xaerominimap",
         "Description":  "",
         "Authors":  "xaero96"
     },
