@@ -2,9 +2,9 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg?style=flat-square&logo=minecraft)](https://www.minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-47.4.10-orange.svg?style=flat-square)](https://files.minecraftforge.net/)
-[![Total Mods](https://img.shields.io/badge/Total_Mods-75-blue.svg?style=flat-square)]()
-[![Total Size](https://img.shields.io/badge/Total_Size-370.19%20MB-informational.svg?style=flat-square)]()
-[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2020%3A54%3A55-blueviolet.svg?style=flat-square)]()
+[![Total Mods](https://img.shields.io/badge/Total_Mods-76-blue.svg?style=flat-square)]()
+[![Total Size](https://img.shields.io/badge/Total_Size-371.05%20MB-informational.svg?style=flat-square)]()
+[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2020%3A55%3A56-blueviolet.svg?style=flat-square)]()
 
 마인크래프트 **Forge 1.20.1** 서버에 적용된 모드 목록 및 다운로드 저장소입니다.
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 📦 모드 상세 목록 (총 75개)
+## 📦 모드 상세 목록 (총 76개)
 
 | 번호 | 모드 이름 (공식 사이트 링크) | Mod ID | 파일명 | 용량 | 설명 |
 | :---: | :--- | :--- | :--- | :---: | :--- |
@@ -98,17 +98,18 @@
 | 66 | [**Sophisticated Storage** 🔗](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) | `sophisticatedstorage` | `sophisticatedstorage-1.20.1-1.4.85.2124.jar` | 1.78 MB |  |
 | 67 | [**Create: Steam 'n' Rails** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) | `railways` | `Steam_Rails-1.7.2+forge-mc1.20.1.jar` | 16.04 MB |  |
 | 68 | [**Supplementaries** 🔗](https://www.curseforge.com/minecraft/mc-mods/supplementaries) | `supplementaries` | `supplementaries-1.20-3.1.43-forge.jar` | 13.03 MB |  |
-| 69 | [**Valhelsia Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) | `valhelsia_core` | `valhelsia_core-forge-1.20.1-1.1.2.jar` | 0.19 MB |  |
-| 70 | [**Valhelsia Furniture** 🔗](https://www.curseforge.com/minecraft/mc-mods/valhelsia-furniture) | `valhelsia_furniture` | `valhelsia_furniture-forge-1.20.1-1.1.3.jar` | 4.31 MB |  |
-| 71 | [**Wares** 🔗](https://www.curseforge.com/minecraft/mc-mods/wares) | `wares` | `wares-1.20.1-1.2.10.jar` | 0.45 MB |  |
-| 72 | [**Waystones** 🔗](https://www.curseforge.com/minecraft/mc-mods/waystones) | `waystones` | `waystones-forge-1.20.1-14.1.20.jar` | 0.51 MB |  |
-| 73 | [**Xaero's Minimap** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | `xaerominimap` | `xaerominimap-forge-1.20.1-26.4.2.jar` | 2.09 MB |  |
-| 74 | [**YUNG's API** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-api) | `yungsapi` | `YungsApi-1.20-Forge-4.0.6.jar` | 0.35 MB | API Library for YUNG's minecraft mods. |
-| 75 | [**YUNG's Better Dungeons** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) | `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0.76 MB | A complete redesign of Minecraft's dungeons |
+| 69 | [**Create: Totem Factory** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-totem-factory) | `totemfactory` | `TotemFactory-1.1.2+mc1.20.1-Forge.jar` | 0.87 MB | The industrial revolution has come to Minecraft, and with it, new knowledge and discoveries both in the field of science and ma... |
+| 70 | [**Valhelsia Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) | `valhelsia_core` | `valhelsia_core-forge-1.20.1-1.1.2.jar` | 0.19 MB |  |
+| 71 | [**Valhelsia Furniture** 🔗](https://www.curseforge.com/minecraft/mc-mods/valhelsia-furniture) | `valhelsia_furniture` | `valhelsia_furniture-forge-1.20.1-1.1.3.jar` | 4.31 MB |  |
+| 72 | [**Wares** 🔗](https://www.curseforge.com/minecraft/mc-mods/wares) | `wares` | `wares-1.20.1-1.2.10.jar` | 0.45 MB |  |
+| 73 | [**Waystones** 🔗](https://www.curseforge.com/minecraft/mc-mods/waystones) | `waystones` | `waystones-forge-1.20.1-14.1.20.jar` | 0.51 MB |  |
+| 74 | [**Xaero's Minimap** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | `xaerominimap` | `xaerominimap-forge-1.20.1-26.4.2.jar` | 2.09 MB |  |
+| 75 | [**YUNG's API** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-api) | `yungsapi` | `YungsApi-1.20-Forge-4.0.6.jar` | 0.35 MB | API Library for YUNG's minecraft mods. |
+| 76 | [**YUNG's Better Dungeons** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) | `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0.76 MB | A complete redesign of Minecraft's dungeons |
 
 ---
 
 ## 🔄 동기화 안내
 이 저장소는 서버의 `Sync-ModList.bat` 스크립트를 통해 자동으로 생성 및 업데이트됩니다.
 
-- **마지막 업데이트 일시:** 2026-08-22 20:54:55 (KST)
+- **마지막 업데이트 일시:** 2026-08-22 20:55:56 (KST)

@@ -680,6 +680,16 @@
         "Authors":  "MehVahdJukaar, Plantkillable"
     },
     {
+        "Name":  "Create: Totem Factory",
+        "ModId":  "totemfactory",
+        "Version":  "[47,)",
+        "FileName":  "TotemFactory-1.1.2+mc1.20.1-Forge.jar",
+        "FileSize":  "0.87 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-totem-factory",
+        "Description":  "The industrial revolution has come to Minecraft, and with it, new knowledge and discoveries both in the field of science and ma...",
+        "Authors":  ""
+    },
+    {
         "Name":  "Valhelsia Core",
         "ModId":  "valhelsia_core",
         "Version":  "[45,)",
