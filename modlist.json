@@ -210,6 +210,16 @@
         "Authors":  "reNIK03, brdbrn"
     },
     {
+        "Name":  "Construction Wand",
+        "ModId":  "constructionwand",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "constructionwand-1.20.1-2.11.jar",
+        "FileSize":  "0.2 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/construction-wand",
+        "Description":  "",
+        "Authors":  "ThetaDev"
+    },
+    {
         "Name":  "Controlling",
         "ModId":  "controlling",
         "Version":  "${file.jarVersion}",
@@ -568,16 +578,6 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
         "Description":  "",
         "Authors":  "way2muchnoise"
-    },
-    {
-        "Name":  "Korean Patch",
-        "ModId":  "koreanpatch",
-        "Version":  "1.9.6+mc1.20.1",
-        "FileName":  "koreanpatch-forge-1.9.6+mc1.20.1.jar",
-        "FileSize":  "0.36 MB",
-        "Url":  "https://modrinth.com/mod/korean-chat-patch",
-        "Description":  "",
-        "Authors":  "Najoan"
     },
     {
         "Name":  "kotlinforforge-4.12.0-all",

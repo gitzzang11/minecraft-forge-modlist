@@ -3,8 +3,8 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg?style=flat-square&logo=minecraft)](https://www.minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-47.4.10-orange.svg?style=flat-square)](https://files.minecraftforge.net/)
 [![Total Mods](https://img.shields.io/badge/Total_Mods-102-blue.svg?style=flat-square)]()
-[![Total Size](https://img.shields.io/badge/Total_Size-415.3%20MB-informational.svg?style=flat-square)]()
-[![Last Updated](https://img.shields.io/badge/Updated-2026-08-22%2021%3A38%3A45-blueviolet.svg?style=flat-square)]()
+[![Total Size](https://img.shields.io/badge/Total_Size-415.14%20MB-informational.svg?style=flat-square)]()
+[![Last Updated](https://img.shields.io/badge/Updated-2026-08-23%2018%3A59%3A15-blueviolet.svg?style=flat-square)]()
 
 마인크래프트 **Forge 1.20.1** 서버에 적용된 모드 목록 및 다운로드 저장소입니다.
 
@@ -51,43 +51,43 @@
 | 19 | [**Cloth Config v10 API** 🔗](https://www.curseforge.com/minecraft/mc-mods/cloth-config) | `cloth_config` | `cloth-config-11.1.136-forge.jar` | 1.13 MB |  |
 | 20 | [**Collective** 🔗](https://www.curseforge.com/minecraft/mc-mods/collective) | `collective` | `collective-1.20.1-8.39.jar` | 0.71 MB |  |
 | 21 | [**Collector's Reap** 🔗](https://www.curseforge.com/minecraft/mc-mods/collectors-reap) | `collectorsreap` | `collectorsreap-1.20.1-1.5.5.jar` | 1.48 MB | Farmer's Delight addon with foods scavenged from the wild. |
-| 22 | [**Controlling** 🔗](https://www.curseforge.com/minecraft/mc-mods/controlling) | `controlling` | `Controlling-forge-1.20.1-12.0.2.jar` | 0.11 MB |  |
-| 23 | [**Create: Copycats+** 🔗](https://www.curseforge.com/minecraft/mc-mods/copycats) | `copycats` | `copycats-3.0.8+mc.1.20.1-forge.jar` | 1.91 MB |  |
-| 24 | [**Corn Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/corn-delight) | `corn_delight` | `corn_delight-1.2.11-1.20.1.jar` | 0.17 MB |  |
-| 25 | [**Corpse** 🔗](https://www.curseforge.com/minecraft/mc-mods/corpse) | `corpse` | `corpse-forge-1.20.1-1.0.23.jar` | 0.23 MB |  |
-| 26 | [**CraftingTweaks** 🔗](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | `craftingtweaks` | `craftingtweaks-forge-1.20.1-18.2.9.jar` | 0.22 MB |  |
-| 27 | [**Create: Central Kitchen** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen) | `create_central_kitchen` | `create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar` | 0.8 MB |  |
-| 28 | [**Create: Connected** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-connected) | `create_connected` | `create_connected-1.2.3-mc1.20.1-all.jar` | 6.48 MB |  |
-| 29 | [**Create Enchantment Industry** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) | `create_enchantment_industry` | `create_enchantment_industry-1.4.1-for-create-6.0.8.jar` | 0.48 MB |  |
-| 30 | [**Create Jetpack** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-jetpack) | `create_jetpack` | `create_jetpack-forge-4.4.6.jar` | 0.61 MB |  |
-| 31 | [**Create: Power Loader** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-power-loader) | `create_power_loader` | `create_power_loader-2.0.3-mc1.20.1.jar` | 0.22 MB |  |
-| 32 | [**Create** 🔗](https://www.curseforge.com/minecraft/mc-mods/create) | `create` | `create-1.20.1-6.0.8.jar` | 18.28 MB |  |
-| 33 | [**Create Crafts & Additions** 🔗](https://www.curseforge.com/minecraft/mc-mods/createaddition) | `createaddition` | `createaddition-1.20.1-1.3.3.jar` | 1.5 MB |  |
-| 34 | [**Create Goggles** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-goggles) | `creategoggles` | `creategoggles-1.20.1-6.1.1-FORGE.jar` | 0.37 MB |  |
-| 35 | [**Create Stuff 'N Additions** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions) | `create_sa` | `create-stuff-additions1.20.1_v2.1.2.jar` | 1.3 MB | Create Stuff & Additions is a mod that uses the resources of Create to offer a new set of equipment, tools and gadget! Equipmen... |
-| 36 | [**CreateStuffAdditionsFix** 🔗](https://www.curseforge.com/minecraft/mc-mods/createstuffadditions-fix) | `createstuffadditionsfix` | `createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar` | 0 MB |  |
-| 37 | [**Cultural Delights** 🔗](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) | `culturaldelights` | `culturaldelights-0.16.7.jar` | 0.25 MB |  |
-| 38 | [**Curios API** 🔗](https://www.curseforge.com/minecraft/mc-mods/curios) | `curios` | `curios-forge-5.14.1+1.20.1.jar` | 0.38 MB |  |
-| 39 | [**Default Skill Trees** 🔗](https://www.curseforge.com/minecraft/mc-mods/default-skill-trees) | `default_skill_trees` | `default_skill_trees-1.1.jar` | 0.01 MB | Adds default skill trees for Pufferfish's Skills mod. |
-| 40 | [**Delightful** 🔗](https://www.curseforge.com/minecraft/mc-mods/delightful) | `delightful` | `Delightful-1.20.1-3.8.1.jar` | 1.69 MB | Farmer's Delight addon with mod compatibility features and fun new foods. |
-| 41 | [**Drink Beer Refill** 🔗](https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill) | `drinkbeer` | `drinkbeer-refill-1.20.1-1.0.5.jar` | 1.45 MB | Add placeable beer mug and drink it! |
-| 42 | [**Embeddium** 🔗](https://www.curseforge.com/minecraft/mc-mods/embeddium) | `embeddium` | `embeddium-0.3.31+mc1.20.1.jar` | 1.26 MB |  |
-| 43 | [**Enchanting Infuser** 🔗](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser) | `enchantinginfuser` | `EnchantingInfuser-v8.0.3-1.20.1-Forge.jar` | 0.17 MB | An all new enchanting table: Choose your enchantments for fair prices! Plus no more randomness! |
-| 44 | [**End's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/ends-delight) | `ends_delight` | `ends_delight-2.6+forge.1.20.1.jar` | 0.26 MB |  |
-| 45 | [**ExpandAbility** 🔗](https://www.curseforge.com/minecraft/mc-mods/expandability) | `expandability` | `expandability-forge-9.0.4.jar` | 0.08 MB |  |
-| 46 | [**Farmer's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | `farmersdelight` | `FarmersDelight-1.20.1-1.3.3.jar` | 3.16 MB | A cozy farming and cooking expansion for Minecraft! |
-| 47 | [**Ferrite Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | `ferritecore` | `ferritecore-6.0.1-forge.jar` | 0.12 MB |  |
-| 48 | [**GeckoLib 4** 🔗](https://www.curseforge.com/minecraft/mc-mods/geckolib) | `geckolib` | `geckolib-forge-1.20.1-4.8.4.jar` | 0.99 MB |  |
-| 49 | [**Integrated Dungeons and Structures** 🔗](https://www.curseforge.com/minecraft/mc-mods/idas) | `idas` | `idas_forge-1.13.0+1.20.1.jar` | 13.75 MB |  |
-| 50 | [**Infinite Trading** 🔗](https://www.curseforge.com/minecraft/mc-mods/infinite-trading) | `infinitetrading` | `infinitetrading-1.20.1-5.0.jar` | 0.03 MB |  |
-| 51 | [**Integrated API** 🔗](https://www.curseforge.com/minecraft/mc-mods/integrated-api) | `integrated_api` | `integrated_api-forge-1.20.1-1.8.0.jar` | 0.67 MB |  |
-| 52 | [**Iron's Lib** 🔗](https://www.curseforge.com/minecraft/mc-mods/irons-library) | `irons_lib` | `irons_lib-1.20.1-2.1.0.jar` | 0.41 MB |  |
-| 53 | [**Iron's Spells 'n Spellbooks** 🔗](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) | `irons_spellbooks` | `irons_spellbooks-1.20.1-3.16.3.jar` | 14.85 MB |  |
-| 54 | [**Jade** 🔗](https://www.curseforge.com/minecraft/mc-mods/jade) | `jade` | `Jade-1.20.1-Forge-11.13.3.jar` | 0.53 MB | Minecraft mod shows what you are looking at. (Hwyla fork) |
-| 55 | [**Jade Addons** 🔗](https://www.curseforge.com/minecraft/mc-mods/jade-addons) | `jadeaddons` | `JadeAddons-1.20.1-Forge-5.5.1.jar` | 0.09 MB | Jade additional mod supports |
-| 56 | [**Just Enough Items** 🔗](https://www.curseforge.com/minecraft/mc-mods/jei) | `jei` | `jei-1.20.1-forge-15.49.0.191.jar` | 1.59 MB |  |
-| 57 | [**Just Enough Resources** 🔗](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | `jeresources` | `JustEnoughResources-1.20.1-1.4.0.247.jar` | 0.26 MB |  |
-| 58 | [**Korean Patch** 🔗](https://modrinth.com/mod/korean-chat-patch) | `koreanpatch` | `koreanpatch-forge-1.9.6+mc1.20.1.jar` | 0.36 MB |  |
+| 22 | [**Construction Wand** 🔗](https://www.curseforge.com/minecraft/mc-mods/construction-wand) | `constructionwand` | `constructionwand-1.20.1-2.11.jar` | 0.2 MB |  |
+| 23 | [**Controlling** 🔗](https://www.curseforge.com/minecraft/mc-mods/controlling) | `controlling` | `Controlling-forge-1.20.1-12.0.2.jar` | 0.11 MB |  |
+| 24 | [**Create: Copycats+** 🔗](https://www.curseforge.com/minecraft/mc-mods/copycats) | `copycats` | `copycats-3.0.8+mc.1.20.1-forge.jar` | 1.91 MB |  |
+| 25 | [**Corn Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/corn-delight) | `corn_delight` | `corn_delight-1.2.11-1.20.1.jar` | 0.17 MB |  |
+| 26 | [**Corpse** 🔗](https://www.curseforge.com/minecraft/mc-mods/corpse) | `corpse` | `corpse-forge-1.20.1-1.0.23.jar` | 0.23 MB |  |
+| 27 | [**CraftingTweaks** 🔗](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | `craftingtweaks` | `craftingtweaks-forge-1.20.1-18.2.9.jar` | 0.22 MB |  |
+| 28 | [**Create: Central Kitchen** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen) | `create_central_kitchen` | `create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar` | 0.8 MB |  |
+| 29 | [**Create: Connected** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-connected) | `create_connected` | `create_connected-1.2.3-mc1.20.1-all.jar` | 6.48 MB |  |
+| 30 | [**Create Enchantment Industry** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) | `create_enchantment_industry` | `create_enchantment_industry-1.4.1-for-create-6.0.8.jar` | 0.48 MB |  |
+| 31 | [**Create Jetpack** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-jetpack) | `create_jetpack` | `create_jetpack-forge-4.4.6.jar` | 0.61 MB |  |
+| 32 | [**Create: Power Loader** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-power-loader) | `create_power_loader` | `create_power_loader-2.0.3-mc1.20.1.jar` | 0.22 MB |  |
+| 33 | [**Create** 🔗](https://www.curseforge.com/minecraft/mc-mods/create) | `create` | `create-1.20.1-6.0.8.jar` | 18.28 MB |  |
+| 34 | [**Create Crafts & Additions** 🔗](https://www.curseforge.com/minecraft/mc-mods/createaddition) | `createaddition` | `createaddition-1.20.1-1.3.3.jar` | 1.5 MB |  |
+| 35 | [**Create Goggles** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-goggles) | `creategoggles` | `creategoggles-1.20.1-6.1.1-FORGE.jar` | 0.37 MB |  |
+| 36 | [**Create Stuff 'N Additions** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions) | `create_sa` | `create-stuff-additions1.20.1_v2.1.2.jar` | 1.3 MB | Create Stuff & Additions is a mod that uses the resources of Create to offer a new set of equipment, tools and gadget! Equipmen... |
+| 37 | [**CreateStuffAdditionsFix** 🔗](https://www.curseforge.com/minecraft/mc-mods/createstuffadditions-fix) | `createstuffadditionsfix` | `createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar` | 0 MB |  |
+| 38 | [**Cultural Delights** 🔗](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) | `culturaldelights` | `culturaldelights-0.16.7.jar` | 0.25 MB |  |
+| 39 | [**Curios API** 🔗](https://www.curseforge.com/minecraft/mc-mods/curios) | `curios` | `curios-forge-5.14.1+1.20.1.jar` | 0.38 MB |  |
+| 40 | [**Default Skill Trees** 🔗](https://www.curseforge.com/minecraft/mc-mods/default-skill-trees) | `default_skill_trees` | `default_skill_trees-1.1.jar` | 0.01 MB | Adds default skill trees for Pufferfish's Skills mod. |
+| 41 | [**Delightful** 🔗](https://www.curseforge.com/minecraft/mc-mods/delightful) | `delightful` | `Delightful-1.20.1-3.8.1.jar` | 1.69 MB | Farmer's Delight addon with mod compatibility features and fun new foods. |
+| 42 | [**Drink Beer Refill** 🔗](https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill) | `drinkbeer` | `drinkbeer-refill-1.20.1-1.0.5.jar` | 1.45 MB | Add placeable beer mug and drink it! |
+| 43 | [**Embeddium** 🔗](https://www.curseforge.com/minecraft/mc-mods/embeddium) | `embeddium` | `embeddium-0.3.31+mc1.20.1.jar` | 1.26 MB |  |
+| 44 | [**Enchanting Infuser** 🔗](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser) | `enchantinginfuser` | `EnchantingInfuser-v8.0.3-1.20.1-Forge.jar` | 0.17 MB | An all new enchanting table: Choose your enchantments for fair prices! Plus no more randomness! |
+| 45 | [**End's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/ends-delight) | `ends_delight` | `ends_delight-2.6+forge.1.20.1.jar` | 0.26 MB |  |
+| 46 | [**ExpandAbility** 🔗](https://www.curseforge.com/minecraft/mc-mods/expandability) | `expandability` | `expandability-forge-9.0.4.jar` | 0.08 MB |  |
+| 47 | [**Farmer's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | `farmersdelight` | `FarmersDelight-1.20.1-1.3.3.jar` | 3.16 MB | A cozy farming and cooking expansion for Minecraft! |
+| 48 | [**Ferrite Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | `ferritecore` | `ferritecore-6.0.1-forge.jar` | 0.12 MB |  |
+| 49 | [**GeckoLib 4** 🔗](https://www.curseforge.com/minecraft/mc-mods/geckolib) | `geckolib` | `geckolib-forge-1.20.1-4.8.4.jar` | 0.99 MB |  |
+| 50 | [**Integrated Dungeons and Structures** 🔗](https://www.curseforge.com/minecraft/mc-mods/idas) | `idas` | `idas_forge-1.13.0+1.20.1.jar` | 13.75 MB |  |
+| 51 | [**Infinite Trading** 🔗](https://www.curseforge.com/minecraft/mc-mods/infinite-trading) | `infinitetrading` | `infinitetrading-1.20.1-5.0.jar` | 0.03 MB |  |
+| 52 | [**Integrated API** 🔗](https://www.curseforge.com/minecraft/mc-mods/integrated-api) | `integrated_api` | `integrated_api-forge-1.20.1-1.8.0.jar` | 0.67 MB |  |
+| 53 | [**Iron's Lib** 🔗](https://www.curseforge.com/minecraft/mc-mods/irons-library) | `irons_lib` | `irons_lib-1.20.1-2.1.0.jar` | 0.41 MB |  |
+| 54 | [**Iron's Spells 'n Spellbooks** 🔗](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) | `irons_spellbooks` | `irons_spellbooks-1.20.1-3.16.3.jar` | 14.85 MB |  |
+| 55 | [**Jade** 🔗](https://www.curseforge.com/minecraft/mc-mods/jade) | `jade` | `Jade-1.20.1-Forge-11.13.3.jar` | 0.53 MB | Minecraft mod shows what you are looking at. (Hwyla fork) |
+| 56 | [**Jade Addons** 🔗](https://www.curseforge.com/minecraft/mc-mods/jade-addons) | `jadeaddons` | `JadeAddons-1.20.1-Forge-5.5.1.jar` | 0.09 MB | Jade additional mod supports |
+| 57 | [**Just Enough Items** 🔗](https://www.curseforge.com/minecraft/mc-mods/jei) | `jei` | `jei-1.20.1-forge-15.49.0.191.jar` | 1.59 MB |  |
+| 58 | [**Just Enough Resources** 🔗](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | `jeresources` | `JustEnoughResources-1.20.1-1.4.0.247.jar` | 0.26 MB |  |
 | 59 | [**kotlinforforge-4.12.0-all** 🔗](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) | `kotlinforforge` | `kotlinforforge-4.12.0-all.jar` | 7.1 MB |  |
 | 60 | [**cataclysm** 🔗](https://www.curseforge.com/minecraft/mc-mods/l_enders-cataclysm) | `cataclysm` | `L_Enders_Cataclysm-3.31.jar` | 70.49 MB |  |
 | 61 | [**Labels** 🔗](https://www.curseforge.com/minecraft/mc-mods/labels) | `labels` | `labels-1.20-2.0.0.jar` | 0.24 MB |  |
@@ -138,4 +138,4 @@
 ## 🔄 동기화 안내
 이 저장소는 서버의 `Sync-ModList.bat` 스크립트를 통해 자동으로 생성 및 업데이트됩니다.
 
-- **마지막 업데이트 일시:** 2026-08-22 21:38:45 (KST)
+- **마지막 업데이트 일시:** 2026-08-23 18:59:15 (KST)
