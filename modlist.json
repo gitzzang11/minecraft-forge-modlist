@@ -130,6 +130,16 @@
         "Authors":  "Probleyes, Umpaz, MerchantPug"
     },
     {
+        "Name":  "Caelus API",
+        "ModId":  "caelus",
+        "Version":  "3.2.0+1.20.1",
+        "FileName":  "caelus-forge-3.2.0+1.20.1.jar",
+        "FileSize":  "0.04 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/caelus",
+        "Description":  "",
+        "Authors":  "C4"
+    },
+    {
         "Name":  "Carry On",
         "ModId":  "carryon",
         "Version":  "${file.jarVersion}",
@@ -418,6 +428,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill",
         "Description":  "Add placeable beer mug and drink it!",
         "Authors":  "MarbleGateKeeper"
+    },
+    {
+        "Name":  "Elytra Slot",
+        "ModId":  "elytraslot",
+        "Version":  "6.4.4+1.20.1",
+        "FileName":  "elytraslot-forge-6.4.4+1.20.1.jar",
+        "FileSize":  "0.1 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/elytra-slot",
+        "Description":  "",
+        "Authors":  "Illusive Soulworks"
     },
     {
         "Name":  "Embeddium",
