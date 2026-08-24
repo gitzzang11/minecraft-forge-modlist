@@ -220,6 +220,16 @@
         "Authors":  "reNIK03, brdbrn"
     },
     {
+        "Name":  "Colytra",
+        "ModId":  "colytra",
+        "Version":  "6.2.2+1.20.1",
+        "FileName":  "colytra-forge-6.2.2+1.20.1.jar",
+        "FileSize":  "0.18 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/colytra",
+        "Description":  "",
+        "Authors":  "Illusive Soulworks"
+    },
+    {
         "Name":  "Construction Wand",
         "ModId":  "constructionwand",
         "Version":  "${file.jarVersion}",
@@ -428,16 +438,6 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill",
         "Description":  "Add placeable beer mug and drink it!",
         "Authors":  "MarbleGateKeeper"
-    },
-    {
-        "Name":  "Elytra Slot",
-        "ModId":  "elytraslot",
-        "Version":  "6.4.4+1.20.1",
-        "FileName":  "elytraslot-forge-6.4.4+1.20.1.jar",
-        "FileSize":  "0.1 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/elytra-slot",
-        "Description":  "",
-        "Authors":  "Illusive Soulworks"
     },
     {
         "Name":  "Embeddium",
