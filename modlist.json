@@ -310,6 +310,16 @@
         "Authors":  "Lysine"
     },
     {
+        "Name":  "Create: Copper and Zinc",
+        "ModId":  "create_copper_and_zinc",
+        "Version":  "2.0.0",
+        "FileName":  "create_copper_and_zinc-2.0.0-forge-1.20.1.jar",
+        "FileSize":  "0.09 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-copper-zinc",
+        "Description":  "This mod adds recipes for Asurine and Veridium, providing a renewable source of Copper and Zinc to the player.",
+        "Authors":  "robinfrt"
+    },
+    {
         "Name":  "Create Enchantment Industry",
         "ModId":  "create_enchantment_industry",
         "Version":  "${file.jarVersion}",
@@ -328,6 +338,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-jetpack",
         "Description":  "",
         "Authors":  "possible_triangle"
+    },
+    {
+        "Name":  "Create: Netherless",
+        "ModId":  "create_netherless",
+        "Version":  "2.0.0",
+        "FileName":  "create_netherless-2.0.0-1.20.1.jar",
+        "FileSize":  "0.03 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-netherless",
+        "Description":  "Adds recipes for nether ressources thanks to the Create mod!",
+        "Authors":  "DariusZeBaguette, Supermarshadow"
     },
     {
         "Name":  "Create: Power Loader",
@@ -508,6 +528,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/geckolib",
         "Description":  "",
         "Authors":  "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
+    },
+    {
+        "Name":  "Create: Gunpowder Recipe",
+        "ModId":  "gunpowder_mod",
+        "Version":  "1.0.0",
+        "FileName":  "gunpowder_forge_1.0.0.jar",
+        "FileSize":  "0 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-gunpowder-recipe",
+        "Description":  "Adds a Create mixing recipe for Gunpowder (Sand + Gravel + Flint).",
+        "Authors":  "TvojeJmeno"
     },
     {
         "Name":  "Integrated Dungeons and Structures",
