@@ -530,16 +530,6 @@
         "Authors":  "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
     },
     {
-        "Name":  "Create: Gunpowder Recipe",
-        "ModId":  "gunpowder_mod",
-        "Version":  "1.0.0",
-        "FileName":  "gunpowder_forge_1.0.0.jar",
-        "FileSize":  "0 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-gunpowder-recipe",
-        "Description":  "Adds a Create mixing recipe for Gunpowder (Sand + Gravel + Flint).",
-        "Authors":  "TvojeJmeno"
-    },
-    {
         "Name":  "Integrated Dungeons and Structures",
         "ModId":  "idas",
         "Version":  "${file.jarVersion}",
