@@ -4,7 +4,7 @@
 [![Forge](https://img.shields.io/badge/Forge-47.4.10-orange.svg?style=flat-square)](https://files.minecraftforge.net/)
 [![Total Mods](https://img.shields.io/badge/Total_Mods-114-blue.svg?style=flat-square)]()
 [![Total Size](https://img.shields.io/badge/Total_Size-420.55%20MB-informational.svg?style=flat-square)]()
-[![Last Updated](https://img.shields.io/badge/Updated-2026-08-31%2021%3A35%3A25-blueviolet.svg?style=flat-square)]()
+[![Last Updated](https://img.shields.io/badge/Updated-2026-08-31%2021%3A35%3A48-blueviolet.svg?style=flat-square)]()
 
 留덉씤?щ옒?꾪듃 **Forge 1.20.1** ?쒕쾭???곸슜??紐⑤뱶 紐⑸줉 諛??ㅼ슫濡쒕뱶 ??μ냼?낅땲??
 
@@ -85,7 +85,7 @@
 | 53 | [**Farmer's Delight** ?뵕](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | `farmersdelight` | `FarmersDelight-1.20.1-1.3.3.jar` | 3.16 MB | A cozy farming and cooking expansion for Minecraft! |
 | 54 | [**FastFurnace** ?뵕](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) | `fastfurnace` | `FastFurnace-1.20.1-8.0.2.jar` | 0.01 MB |  |
 | 55 | [**Fast Suite** ?뵕](https://www.curseforge.com/minecraft/mc-mods/fastsuite) | `fastsuite` | `FastSuite-1.20.1-5.1.2.jar` | 0.03 MB |  |
-| 56 | [**Fast Workbench** ?뵕](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=relevancy&class=mc-mods&search=fastbench) | `fastbench` | `FastWorkbench-1.20.1-8.0.4.jar` | 0.03 MB |  |
+| 56 | [**Fast Workbench** ?뵕](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | `fastbench` | `FastWorkbench-1.20.1-8.0.4.jar` | 0.03 MB |  |
 | 57 | [**Ferrite Core** ?뵕](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | `ferritecore` | `ferritecore-6.0.1-forge.jar` | 0.12 MB |  |
 | 58 | [**GeckoLib 4** ?뵕](https://www.curseforge.com/minecraft/mc-mods/geckolib) | `geckolib` | `geckolib-forge-1.20.1-4.8.4.jar` | 0.99 MB |  |
 | 59 | [**Integrated Dungeons and Structures** ?뵕](https://www.curseforge.com/minecraft/mc-mods/idas) | `idas` | `idas_forge-1.13.0+1.20.1.jar` | 13.75 MB |  |
@@ -150,4 +150,4 @@
 ## ?봽 ?숆린???덈궡
 ????μ냼???쒕쾭??`Sync-ModList.bat` ?ㅽ겕由쏀듃瑜??듯빐 ?먮룞?쇰줈 ?앹꽦 諛??낅뜲?댄듃?⑸땲??
 
-- **留덉?留??낅뜲?댄듃 ?쇱떆:** 2026-08-31 21:35:25 (KST)
+- **留덉?留??낅뜲?댄듃 ?쇱떆:** 2026-08-31 21:35:48 (KST)
