@@ -250,6 +250,16 @@
         "Authors":  "Illusive Soulworks"
     },
     {
+        "Name":  "Connectivity Mod",
+        "ModId":  "connectivity",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "connectivity-1.20.1-7.6.jar",
+        "FileSize":  "0.12 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+        "Description":  "",
+        "Authors":  "Someaddons"
+    },
+    {
         "Name":  "Construction Wand",
         "ModId":  "constructionwand",
         "Version":  "${file.jarVersion}",
@@ -438,6 +448,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/cultural-delights",
         "Description":  "",
         "Authors":  "Developer: Baisylia | Porting: OnesAndZer0s | Art: Baisylia, Raspmary, Bagels"
+    },
+    {
+        "Name":  "Cupboard utilities",
+        "ModId":  "cupboard",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "cupboard-1.20.1-4.1.jar",
+        "FileSize":  "0.03 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+        "Description":  "",
+        "Authors":  "Someaddon"
     },
     {
         "Name":  "Curios API",
