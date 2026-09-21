@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Minecraft-1.20.1-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.20.1" />
   <img src="https://img.shields.io/badge/Forge-47.4.10-orange?style=for-the-badge" alt="Forge 47.4.10" />
   <img src="https://img.shields.io/badge/Total_Mods-131개-0284c7?style=for-the-badge" alt="Total Mods" />
-  <img src="https://img.shields.io/badge/Total_Size-670.82_MB-6366f1?style=for-the-badge" alt="Total Size" />
+  <img src="https://img.shields.io/badge/Total_Size-665.84_MB-6366f1?style=for-the-badge" alt="Total Size" />
   <img src="https://img.shields.io/badge/Java-17_LTS-b45309?style=for-the-badge" alt="Java 17" />
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip">
-    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-671MB-10B981?style=for-the-badge" alt="Direct Download" />
+    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-666MB-10B981?style=for-the-badge" alt="Direct Download" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 | 4 | [**Amendments** 🔗](https://www.curseforge.com/minecraft/mc-mods/amendments) | `amendments` | `amendments-1.20-2.2.6.jar` | 1.25 MB |
 | 5 | [**Apple Crates** 🔗](https://www.curseforge.com/minecraft/mc-mods/apple-crates) | `applecrates` | `applecrates-forge-1.20.1-3.2.1.jar` | 0.23 MB |
 | 6 | [**AppleSkin** 🔗](https://www.curseforge.com/minecraft/mc-mods/appleskin) | `appleskin` | `appleskin-forge-mc1.20.1-2.5.1.jar` | 0.05 MB |
-| 7 | [**Aquamirae** 🔗](https://www.curseforge.com/minecraft/mc-mods/aquamirae) | `aquamirae` | `aquamirae-forge-1.20.1-7.1.14.jar` | 24.72 MB |
+| 7 | [**Aquamirae** 🔗](https://www.curseforge.com/minecraft/mc-mods/aquamirae) | `aquamirae` | `aquamirae-forge-1.20.1-7.1.13.jar` | 24.72 MB |
 | 8 | [**Architectury** 🔗](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | `architectury` | `architectury-9.2.14-forge.jar` | 0.55 MB |
 | 9 | [**Artifacts** 🔗](https://www.curseforge.com/minecraft/mc-mods/artifacts) | `artifacts` | `artifacts-forge-9.5.19.jar` | 0.81 MB |
 | 10 | [**Balm** 🔗](https://www.curseforge.com/minecraft/mc-mods/balm) | `balm` | `balm-forge-1.20.1-7.3.42.jar` | 0.54 MB |
@@ -122,7 +122,7 @@
 | 64 | [**Fast Suite** 🔗](https://www.curseforge.com/minecraft/mc-mods/fastsuite) | `fastsuite` | `FastSuite-1.20.1-5.1.2.jar` | 0.03 MB |
 | 65 | [**Fast Workbench** 🔗](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | `fastbench` | `FastWorkbench-1.20.1-8.0.4.jar` | 0.03 MB |
 | 66 | [**Ferrite Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | `ferritecore` | `ferritecore-6.0.1-forge.jar` | 0.12 MB |
-| 67 | [**Fragmentum** 🔗](https://www.curseforge.com/minecraft/mc-mods/fragmentum) | `fragmentum` | `fragmentum-5.0.0+1.20.1-forge.jar` | 7.58 MB |
+| 67 | [**Fragmentum** 🔗](https://www.curseforge.com/minecraft/mc-mods/fragmentum) | `fragmentum` | `fragmentum-forge-1.20.1-1.5.2.jar` | 2.61 MB |
 | 68 | [**GeckoLib 4** 🔗](https://www.curseforge.com/minecraft/mc-mods/geckolib) | `geckolib` | `geckolib-forge-1.20.1-4.8.4.jar` | 0.99 MB |
 | 69 | [**Integrated Dungeons and Structures** 🔗](https://www.curseforge.com/minecraft/mc-mods/idas) | `idas` | `idas_forge-1.13.0+1.20.1.jar` | 13.75 MB |
 | 70 | [**Improved Mobs Mod** 🔗](https://www.curseforge.com/minecraft/mc-mods/improved-mobs) | `improvedmobs` | `improvedmobs-1.20.1-1.13.7-forge.jar` | 0.32 MB |
@@ -191,5 +191,5 @@
 ---
 
 ## 🔄 동기화 정보
-- **최신 갱신 일시:** 2026-09-21 16:43:41 (KST)
+- **최신 갱신 일시:** 2026-09-21 20:02:09 (KST)
 - **동기화 방식:** 서버 엔진 통합 자동 빌드 & 동기화 파이프라인

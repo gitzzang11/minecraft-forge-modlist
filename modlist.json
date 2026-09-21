@@ -62,8 +62,8 @@
     {
         "Name":  "Aquamirae",
         "ModId":  "aquamirae",
-        "Version":  "7.1.14",
-        "FileName":  "aquamirae-forge-1.20.1-7.1.14.jar",
+        "Version":  "7.1.13",
+        "FileName":  "aquamirae-forge-1.20.1-7.1.13.jar",
         "FileSize":  "24.72 MB",
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/aquamirae",
         "Description":  "",
@@ -662,11 +662,11 @@
     {
         "Name":  "Fragmentum",
         "ModId":  "fragmentum",
-        "Version":  "5.0.0",
-        "FileName":  "fragmentum-5.0.0+1.20.1-forge.jar",
-        "FileSize":  "7.58 MB",
+        "Version":  "1.5.2",
+        "FileName":  "fragmentum-forge-1.20.1-1.5.2.jar",
+        "FileSize":  "2.61 MB",
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/fragmentum",
-        "Description":  "The lightweight framework for the Obscuria Collection multi-loader mods.",
+        "Description":  "",
         "Authors":  "Obscuria"
     },
     {
