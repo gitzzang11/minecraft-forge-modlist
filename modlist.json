@@ -60,6 +60,16 @@
         "Authors":  "squeek"
     },
     {
+        "Name":  "Aquamirae",
+        "ModId":  "aquamirae",
+        "Version":  "7.1.14",
+        "FileName":  "aquamirae-forge-1.20.1-7.1.14.jar",
+        "FileSize":  "24.72 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/aquamirae",
+        "Description":  "",
+        "Authors":  "Obscuria"
+    },
+    {
         "Name":  "Architectury",
         "ModId":  "architectury",
         "Version":  "9.2.14",
@@ -110,6 +120,26 @@
         "Authors":  "Daedelus"
     },
     {
+        "Name":  "Bosses\u0027Rise",
+        "ModId":  "block_factorys_bosses",
+        "Version":  "2.1.2",
+        "FileName":  "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+        "FileSize":  "22.85 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/bossesrise",
+        "Description":  "",
+        "Authors":  "Block Factory"
+    },
+    {
+        "Name":  "Blue Skies",
+        "ModId":  "blue_skies",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "blue_skies-1.20.1-1.3.31.jar",
+        "FileSize":  "79.69 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/blue-skies",
+        "Description":  "",
+        "Authors":  "KingPhygieBoo, Silver_David, Lachney"
+    },
+    {
         "Name":  "Blueprint",
         "ModId":  "blueprint",
         "Version":  "7.1.3",
@@ -118,6 +148,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/blueprint",
         "Description":  "",
         "Authors":  "Team Abnormals"
+    },
+    {
+        "Name":  "Born in Chaos",
+        "ModId":  "born_in_chaos_v1",
+        "Version":  "1.7.5",
+        "FileName":  "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+        "FileSize":  "11.29 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/born-in-chaos",
+        "Description":  "Adds a lot of hostile mobs, with their own characteristics that can complicate your survival",
+        "Authors":  "Mongoose_artist, MCreator"
     },
     {
         "Name":  "Brewin\u0027 And Chewin\u0027",
@@ -158,6 +198,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/chalk",
         "Description":  "",
         "Authors":  "mortuusars"
+    },
+    {
+        "Name":  "Champions Unofficial",
+        "ModId":  "champions",
+        "Version":  "20.1.1.6",
+        "FileName":  "champions-forge-20.1.1.6.jar",
+        "FileSize":  "0.57 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/champions-unofficial",
+        "Description":  "Creates elite mobs with enhanced stats and extra abilities.",
+        "Authors":  "CrychicTeam, TheIllusiveC4"
     },
     {
         "Name":  "Chat Heads",
@@ -470,6 +520,16 @@
         "Authors":  "C4"
     },
     {
+        "Name":  "Deeper and Darker",
+        "ModId":  "deeperdarker",
+        "Version":  "1.3.3",
+        "FileName":  "deeperdarker-forge-1.20.1-1.3.3.jar",
+        "FileSize":  "17.02 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+        "Description":  "",
+        "Authors":  "Kyanite Team"
+    },
+    {
         "Name":  "Default Skill Trees",
         "ModId":  "default_skill_trees",
         "Version":  "1.1",
@@ -498,6 +558,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill",
         "Description":  "Add placeable beer mug and drink it!",
         "Authors":  "MarbleGateKeeper"
+    },
+    {
+        "Name":  "EEEAB\u0027s Mobs",
+        "ModId":  "eeeabsmobs",
+        "Version":  "1.20.1-0.98.1",
+        "FileName":  "eeeabsmobs-1.20.1-0.98.1.jar",
+        "FileSize":  "28.06 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs",
+        "Description":  "",
+        "Authors":  "EEEAB"
     },
     {
         "Name":  "Embeddium",
@@ -590,6 +660,16 @@
         "Authors":  "malte0811"
     },
     {
+        "Name":  "Fragmentum",
+        "ModId":  "fragmentum",
+        "Version":  "5.0.0",
+        "FileName":  "fragmentum-5.0.0+1.20.1-forge.jar",
+        "FileSize":  "7.58 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/fragmentum",
+        "Description":  "The lightweight framework for the Obscuria Collection multi-loader mods.",
+        "Authors":  "Obscuria"
+    },
+    {
         "Name":  "GeckoLib 4",
         "ModId":  "geckolib",
         "Version":  "4.8.4",
@@ -608,6 +688,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/idas",
         "Description":  "",
         "Authors":  "CraisinLord"
+    },
+    {
+        "Name":  "Improved Mobs Mod",
+        "ModId":  "improvedmobs",
+        "Version":  "1.20.1-1.13.7",
+        "FileName":  "improvedmobs-1.20.1-1.13.7-forge.jar",
+        "FileSize":  "0.32 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/improved-mobs",
+        "Description":  "",
+        "Authors":  "Flemmli97"
     },
     {
         "Name":  "Infinite Trading",
@@ -790,6 +880,26 @@
         "Authors":  "Ivan Molodetskikh (YaLTeR)"
     },
     {
+        "Name":  "Mowzie\u0027s Mobs",
+        "ModId":  "mowziesmobs",
+        "Version":  "1.8.2",
+        "FileName":  "mowziesmobs-1.8.2.jar",
+        "FileSize":  "34.36 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
+        "Description":  "Mowzie\u0027s Mobs adds a variety of high-quality fantasy creatures to your Minecraft world.",
+        "Authors":  "BobMowzie, Wadoo, Vakypanda, Noonyez, pau101"
+    },
+    {
+        "Name":  "Multiplayer Boss Attribute Modifier",
+        "ModId":  "multiplayer_boss_fight",
+        "Version":  "1.0.3",
+        "FileName":  "multiplayer_boss_fight-forge1.20.1-1.0.3.jar",
+        "FileSize":  "0.02 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/multiplayer-boss-attribute-modifier",
+        "Description":  "",
+        "Authors":  "P1nero"
+    },
+    {
         "Name":  "Mysterious Mountain Lib",
         "ModId":  "mysterious_mountain_lib",
         "Version":  "${file.jarVersion}",
@@ -920,6 +1030,16 @@
         "Authors":  "Sweetygamer"
     },
     {
+        "Name":  "ScalingMobs",
+        "ModId":  "scalingmobs",
+        "Version":  "1.0",
+        "FileName":  "scalingmobs-1.0.jar",
+        "FileSize":  "0.01 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/scaling-mobs",
+        "Description":  "ScalingMobs can adjust the difficulty of bosses and regular mobs added to the list. It works with virtually all mods and mobs.",
+        "Authors":  "24na7"
+    },
+    {
         "Name":  "Searchables",
         "ModId":  "searchables",
         "Version":  "${file.jarVersion}",
@@ -1020,6 +1140,16 @@
         "Authors":  "The Railways Team"
     },
     {
+        "Name":  "Structure Gel API",
+        "ModId":  "structure_gel",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "structure_gel-1.20.1-2.16.2.jar",
+        "FileSize":  "0.92 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/structure-gel-api",
+        "Description":  "",
+        "Authors":  "Silver_David, KingPhygieBoo, Jonathing"
+    },
+    {
         "Name":  "Supplementaries",
         "ModId":  "supplementaries",
         "Version":  "1.20-3.1.43",
@@ -1038,6 +1168,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/tectonic",
         "Description":  "Terrain shaping brought to new heights, grander and more varied than ever before!",
         "Authors":  "Apollo"
+    },
+    {
+        "Name":  "TenshiLib",
+        "ModId":  "tenshilib",
+        "Version":  "1.20.1-1.7.6",
+        "FileName":  "tenshilib-1.20.1-1.7.6-forge.jar",
+        "FileSize":  "0.44 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/tenshilib",
+        "Description":  "",
+        "Authors":  "Flemmli97"
     },
     {
         "Name":  "Terralith",
@@ -1068,6 +1208,16 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-trading-floor",
         "Description":  "",
         "Authors":  "Cake, Tazer"
+    },
+    {
+        "Name":  "The Twilight Forest",
+        "ModId":  "twilightforest",
+        "Version":  "${file.jarVersion}",
+        "FileName":  "twilightforest-1.20.1-4.3.2508-universal.jar",
+        "FileSize":  "22.25 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
+        "Description":  "",
+        "Authors":  "Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi"
     },
     {
         "Name":  "Valhelsia Core",
