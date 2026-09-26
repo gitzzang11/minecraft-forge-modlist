@@ -670,30 +670,14 @@
         "Authors":  "Obscuria"
     },
     {
-        "Name":  "
-Fzzy Config
-",
-        "ModId":  "
-fzzy_config
-",
-        "Version":  "
-0.7.7+1.20.1+forge
-",
-        "FileName":  "
-fzzy_config-0.7.7+1.20.1+forge.jar
-",
-        "FileSize":  "
-2.29 MB
-",
-        "Url":  "
-https://www.curseforge.com/minecraft/mc-mods/fzzy-config
-",
-        "Description":  "
-Configuration engine with automatic GUI generation, client-server syncing, powerful validation and error handling, and much more.
-",
-        "Authors":  "
-fzzyhmstrs
-"
+        "Name":  "Fzzy Config",
+        "ModId":  "fzzy_config",
+        "Version":  "0.7.7+1.20.1+forge",
+        "FileName":  "fzzy_config-0.7.7+1.20.1+forge.jar",
+        "FileSize":  "2.29 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
+        "Description":  "Configuration engine with automatic GUI generation, client-server syncing, powerful validation and error handling, and much more.",
+        "Authors":  "fzzyhmstrs"
     },
     {
         "Name":  "GeckoLib 4",
@@ -886,6 +870,16 @@ fzzyhmstrs
         "Authors":  "embeddedt"
     },
     {
+        "Name":  "MonoLib",
+        "ModId":  "monolib",
+        "Version":  "4.1.0",
+        "FileName":  "monolib-forge-1.20.1-4.1.0.jar",
+        "FileSize":  "0.19 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/monolib",
+        "Description":  "A non-invasive library mod for Fabric and (Neo)Forge.",
+        "Authors":  "Jason13"
+    },
+    {
         "Name":  "Moonlight Library",
         "ModId":  "moonlight",
         "Version":  "1.20-2.16.34",
@@ -894,6 +888,16 @@ fzzyhmstrs
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/moonlight-lib",
         "Description":  "",
         "Authors":  "MehVahdJukaar"
+    },
+    {
+        "Name":  "More Bows and Arrows",
+        "ModId":  "more_bows_and_arrows",
+        "Version":  "5.0.1",
+        "FileName":  "more_bows_and_arrows-merged-1.20.1-5.0.1.jar",
+        "FileSize":  "0.41 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/more-bows-and-arrows",
+        "Description":  "Add new mythical bows and deadly arrows to Minecraft!",
+        "Authors":  "Lupin, Jason13"
     },
     {
         "Name":  "Mouse Tweaks",
@@ -936,30 +940,14 @@ fzzyhmstrs
         "Authors":  "Syameimaru Zheng"
     },
     {
-        "Name":  "
-Narrow Zone
-",
-        "ModId":  "
-narrowzone
-",
-        "Version":  "
-1.0-1.20.1
-",
-        "FileName":  "
-narrowzone-1.0-1.20.1.jar
-",
-        "FileSize":  "
-0.09 MB
-",
-        "Url":  "
-https://www.curseforge.com/minecraft/mc-mods/narrow-zone
-",
-        "Description":  "
-Adds new bows and crossbows to enhance your Vanilla experience!
-",
-        "Authors":  "
-Lucas
-"
+        "Name":  "Narrow Zone",
+        "ModId":  "narrowzone",
+        "Version":  "1.0-1.20.1",
+        "FileName":  "narrowzone-1.0-1.20.1.jar",
+        "FileSize":  "0.09 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/narrow-zone",
+        "Description":  "Adds new bows and crossbows to enhance your Vanilla experience!",
+        "Authors":  "Lucas"
     },
     {
         "Name":  "Nether\u0027s Delight",
@@ -1122,30 +1110,14 @@ Lucas
         "Authors":  "Wesley1808"
     },
     {
-        "Name":  "
-Simply Bows
-",
-        "ModId":  "
-simplybows
-",
-        "Version":  "
-0.1.4
-",
-        "FileName":  "
-simplybows-forge-neoforge-0.1.4.jar
-",
-        "FileSize":  "
-3.86 MB
-",
-        "Url":  "
-https://www.curseforge.com/minecraft/mc-mods/simply-bows
-",
-        "Description":  "
-Adds unique bows with powerful abilities.
-",
-        "Authors":  "
-Sweenus, Hootea
-"
+        "Name":  "Simply Bows",
+        "ModId":  "simplybows",
+        "Version":  "0.1.4",
+        "FileName":  "simplybows-forge-neoforge-0.1.4.jar",
+        "FileSize":  "3.86 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/simply-bows",
+        "Description":  "Adds unique bows with powerful abilities.",
+        "Authors":  "Sweenus, Hootea"
     },
     {
         "Name":  "Simply Swords",
@@ -1158,30 +1130,14 @@ Sweenus, Hootea
         "Authors":  "Sweenus"
     },
     {
-        "Name":  "
-Simply Tooltips
-",
-        "ModId":  "
-simplytooltips
-",
-        "Version":  "
-0.1.5-1.20.1
-",
-        "FileName":  "
-SimplyTooltips-forge-0.1.5-1.20.1.jar
-",
-        "FileSize":  "
-5.17 MB
-",
-        "Url":  "
-https://www.curseforge.com/minecraft/mc-mods/simply-tooltips
-",
-        "Description":  "
-Modern data driven tooltip renderer for Simply mods. Optionally available for other vanilla and modded items.
-",
-        "Authors":  "
-Sweenus
-"
+        "Name":  "Simply Tooltips",
+        "ModId":  "simplytooltips",
+        "Version":  "0.1.5-1.20.1",
+        "FileName":  "SimplyTooltips-forge-0.1.5-1.20.1.jar",
+        "FileSize":  "5.17 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/simply-tooltips",
+        "Description":  "Modern data driven tooltip renderer for Simply mods. Optionally available for other vanilla and modded items.",
+        "Authors":  "Sweenus"
     },
     {
         "Name":  "Create Slice \u0026 Dice",
