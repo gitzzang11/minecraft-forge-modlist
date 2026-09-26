@@ -670,6 +670,32 @@
         "Authors":  "Obscuria"
     },
     {
+        "Name":  "
+Fzzy Config
+",
+        "ModId":  "
+fzzy_config
+",
+        "Version":  "
+0.7.7+1.20.1+forge
+",
+        "FileName":  "
+fzzy_config-0.7.7+1.20.1+forge.jar
+",
+        "FileSize":  "
+2.29 MB
+",
+        "Url":  "
+https://www.curseforge.com/minecraft/mc-mods/fzzy-config
+",
+        "Description":  "
+Configuration engine with automatic GUI generation, client-server syncing, powerful validation and error handling, and much more.
+",
+        "Authors":  "
+fzzyhmstrs
+"
+    },
+    {
         "Name":  "GeckoLib 4",
         "ModId":  "geckolib",
         "Version":  "4.8.4",
@@ -910,6 +936,32 @@
         "Authors":  "Syameimaru Zheng"
     },
     {
+        "Name":  "
+Narrow Zone
+",
+        "ModId":  "
+narrowzone
+",
+        "Version":  "
+1.0-1.20.1
+",
+        "FileName":  "
+narrowzone-1.0-1.20.1.jar
+",
+        "FileSize":  "
+0.09 MB
+",
+        "Url":  "
+https://www.curseforge.com/minecraft/mc-mods/narrow-zone
+",
+        "Description":  "
+Adds new bows and crossbows to enhance your Vanilla experience!
+",
+        "Authors":  "
+Lucas
+"
+    },
+    {
         "Name":  "Nether\u0027s Delight",
         "ModId":  "nethersdelight",
         "Version":  "1.20.1-4.0",
@@ -1070,6 +1122,32 @@
         "Authors":  "Wesley1808"
     },
     {
+        "Name":  "
+Simply Bows
+",
+        "ModId":  "
+simplybows
+",
+        "Version":  "
+0.1.4
+",
+        "FileName":  "
+simplybows-forge-neoforge-0.1.4.jar
+",
+        "FileSize":  "
+3.86 MB
+",
+        "Url":  "
+https://www.curseforge.com/minecraft/mc-mods/simply-bows
+",
+        "Description":  "
+Adds unique bows with powerful abilities.
+",
+        "Authors":  "
+Sweenus, Hootea
+"
+    },
+    {
         "Name":  "Simply Swords",
         "ModId":  "simplyswords",
         "Version":  "1.56.0-1.20.1",
@@ -1078,6 +1156,32 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/simply-swords",
         "Description":  "",
         "Authors":  "Sweenus"
+    },
+    {
+        "Name":  "
+Simply Tooltips
+",
+        "ModId":  "
+simplytooltips
+",
+        "Version":  "
+0.1.5-1.20.1
+",
+        "FileName":  "
+SimplyTooltips-forge-0.1.5-1.20.1.jar
+",
+        "FileSize":  "
+5.17 MB
+",
+        "Url":  "
+https://www.curseforge.com/minecraft/mc-mods/simply-tooltips
+",
+        "Description":  "
+Modern data driven tooltip renderer for Simply mods. Optionally available for other vanilla and modded items.
+",
+        "Authors":  "
+Sweenus
+"
     },
     {
         "Name":  "Create Slice \u0026 Dice",

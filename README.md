@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.20.1-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.20.1" />
   <img src="https://img.shields.io/badge/Forge-47.4.10-orange?style=for-the-badge" alt="Forge 47.4.10" />
-  <img src="https://img.shields.io/badge/Total_Mods-132개-0284c7?style=for-the-badge" alt="Total Mods" />
-  <img src="https://img.shields.io/badge/Total_Size-666.94_MB-6366f1?style=for-the-badge" alt="Total Size" />
+  <img src="https://img.shields.io/badge/Total_Mods-136개-0284c7?style=for-the-badge" alt="Total Mods" />
+  <img src="https://img.shields.io/badge/Total_Size-678.35_MB-6366f1?style=for-the-badge" alt="Total Size" />
   <img src="https://img.shields.io/badge/Java-17_LTS-b45309?style=for-the-badge" alt="Java 17" />
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip">
-    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-667MB-10B981?style=for-the-badge" alt="Direct Download" />
+    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-678MB-10B981?style=for-the-badge" alt="Direct Download" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📋 전체 모드 상세 목록 (총 132개)
+## 📋 전체 모드 상세 목록 (총 136개)
 
 | # | 모드 이름 (공식 사이트 링크) | Mod ID | 파일명 (.jar) | 파일 크기 |
 | :-: | :--- | :--- | :--- | :-: |
@@ -123,74 +123,78 @@
 | 65 | [**Fast Workbench** 🔗](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | `fastbench` | `FastWorkbench-1.20.1-8.0.4.jar` | 0.03 MB |
 | 66 | [**Ferrite Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | `ferritecore` | `ferritecore-6.0.1-forge.jar` | 0.12 MB |
 | 67 | [**Fragmentum** 🔗](https://www.curseforge.com/minecraft/mc-mods/fragmentum) | `fragmentum` | `fragmentum-forge-1.20.1-1.5.2.jar` | 2.61 MB |
-| 68 | [**GeckoLib 4** 🔗](https://www.curseforge.com/minecraft/mc-mods/geckolib) | `geckolib` | `geckolib-forge-1.20.1-4.8.4.jar` | 0.99 MB |
-| 69 | [**Integrated Dungeons and Structures** 🔗](https://www.curseforge.com/minecraft/mc-mods/idas) | `idas` | `idas_forge-1.13.0+1.20.1.jar` | 13.75 MB |
-| 70 | [**Improved Mobs Mod** 🔗](https://www.curseforge.com/minecraft/mc-mods/improved-mobs) | `improvedmobs` | `improvedmobs-1.20.1-1.13.7-forge.jar` | 0.32 MB |
-| 71 | [**Infinite Trading** 🔗](https://www.curseforge.com/minecraft/mc-mods/infinite-trading) | `infinitetrading` | `infinitetrading-1.20.1-5.0.jar` | 0.03 MB |
-| 72 | [**Integrated API** 🔗](https://www.curseforge.com/minecraft/mc-mods/integrated-api) | `integrated_api` | `integrated_api-forge-1.20.1-1.8.0.jar` | 0.67 MB |
-| 73 | [**Iron's Lib** 🔗](https://www.curseforge.com/minecraft/mc-mods/irons-library) | `irons_lib` | `irons_lib-1.20.1-2.1.0.jar` | 0.41 MB |
-| 74 | [**Iron's Spells 'n Spellbooks** 🔗](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) | `irons_spellbooks` | `irons_spellbooks-1.20.1-3.16.3.jar` | 14.85 MB |
-| 75 | [**Jade** 🔗](https://www.curseforge.com/minecraft/mc-mods/jade) | `jade` | `Jade-1.20.1-Forge-11.13.3.jar` | 0.53 MB |
-| 76 | [**Jade Addons** 🔗](https://www.curseforge.com/minecraft/mc-mods/jade-addons) | `jadeaddons` | `JadeAddons-1.20.1-Forge-5.5.1.jar` | 0.09 MB |
-| 77 | [**Just Enough Items** 🔗](https://www.curseforge.com/minecraft/mc-mods/jei) | `jei` | `jei-1.20.1-forge-15.49.0.191.jar` | 1.59 MB |
-| 78 | [**Just Enough Resources** 🔗](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | `jeresources` | `JustEnoughResources-1.20.1-1.4.0.247.jar` | 0.26 MB |
-| 79 | [**kotlinforforge-4.12.0-all** 🔗](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) | `kotlinforforge` | `kotlinforforge-4.12.0-all.jar` | 7.1 MB |
-| 80 | [**cataclysm** 🔗](https://www.curseforge.com/minecraft/mc-mods/l_enders-cataclysm) | `cataclysm` | `L_Enders_Cataclysm-3.31.jar` | 70.49 MB |
-| 81 | [**Labels** 🔗](https://www.curseforge.com/minecraft/mc-mods/labels) | `labels` | `labels-1.20-2.0.0.jar` | 0.24 MB |
-| 82 | [**LionfishAPI** 🔗](https://www.curseforge.com/minecraft/mc-mods/lionfish-api) | `lionfishapi` | `lionfishapi-3.0.jar` | 0.1 MB |
-| 83 | [**Liteminer** 🔗](https://www.curseforge.com/minecraft/mc-mods/liteminer) | `liteminer` | `liteminer-forge-1.20.1-1.0.3+1.20.1.jar` | 0.07 MB |
-| 84 | [**Lithostitched** 🔗](https://www.curseforge.com/minecraft/mc-mods/lithostitched) | `lithostitched` | `lithostitched-forge-1.20.1-1.4.11.jar` | 0.45 MB |
-| 85 | [**Lootr** 🔗](https://www.curseforge.com/minecraft/mc-mods/lootr) | `lootr` | `lootr-forge-1.20-0.7.35.94.jar` | 0.44 MB |
-| 86 | [**ModernFix** 🔗](https://www.curseforge.com/minecraft/mc-mods/modernfix) | `modernfix` | `modernfix-forge-5.27.77+mc1.20.1.jar` | 0.96 MB |
-| 87 | [**Moonlight Library** 🔗](https://www.curseforge.com/minecraft/mc-mods/moonlight-lib) | `moonlight` | `moonlight-1.20-2.16.34-forge.jar` | 1.35 MB |
-| 88 | [**Mouse Tweaks** 🔗](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | `mousetweaks` | `MouseTweaks-forge-mc1.20.1-2.25.1.jar` | 0.07 MB |
-| 89 | [**Mowzie's Mobs** 🔗](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs) | `mowziesmobs` | `mowziesmobs-1.8.2.jar` | 34.36 MB |
-| 90 | [**Multiplayer Boss Attribute Modifier** 🔗](https://www.curseforge.com/minecraft/mc-mods/multiplayer-boss-attribute-modifier) | `multiplayer_boss_fight` | `multiplayer_boss_fight-forge1.20.1-1.0.3.jar` | 0.02 MB |
-| 91 | [**Mysterious Mountain Lib** 🔗](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib) | `mysterious_mountain_lib` | `mysterious_mountain_lib-1.6.34-1.20.1.jar` | 0.31 MB |
-| 92 | [**Nether's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) | `nethersdelight` | `nethersdelight-1.20.1-4.0.jar` | 0.35 MB |
-| 93 | [**Night Lights** 🔗](https://www.curseforge.com/minecraft/mc-mods/night-lights) | `nightlights` | `nightlights-1.20.1-1.1.jar` | 0.36 MB |
-| 94 | [**Ocean's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/oceans-delight) | `oceansdelight` | `oceansdelight-1.0.2-1.20.jar` | 0.09 MB |
-| 95 | [**Open Modular Turrets Reborn** 🔗](https://www.curseforge.com/minecraft/mc-mods/open-modular-turrets-reborn) | `omtreborn` | `omtreborn-1.1.0.jar` | 1.1 MB |
-| 96 | [**Placebo** 🔗](https://www.curseforge.com/minecraft/mc-mods/placebo) | `placebo` | `Placebo-1.20.1-8.6.3.jar` | 0.27 MB |
-| 97 | [**Playdate** 🔗](https://www.curseforge.com/minecraft/mc-mods/playdate) | `playdate` | `playdate-2.0.0-forge.jar` | 0.8 MB |
-| 98 | [**Player Animator** 🔗](https://www.curseforge.com/minecraft/mc-mods/playeranimator) | `playeranimator` | `player-animation-lib-forge-1.0.2-rc1+1.20.jar` | 0.17 MB |
-| 99 | [**Polymorph** 🔗](https://www.curseforge.com/minecraft/mc-mods/polymorph) | `polymorph` | `polymorph-forge-0.49.10+1.20.1.jar` | 0.29 MB |
-| 100 | [**Pufferfish's Attributes** 🔗](https://www.curseforge.com/minecraft/mc-mods/pufferfishs-attributes) | `puffish_attributes` | `puffish_attributes-0.8.2-1.20-forge.jar` | 0.23 MB |
-| 101 | [**Pufferfish's Skills** 🔗](https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills) | `puffish_skills` | `puffish_skills-0.18.3-1.20-forge.jar` | 0.59 MB |
-| 102 | [**Puzzles Lib** 🔗](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) | `puzzleslib` | `PuzzlesLib-v8.1.33-1.20.1-Forge.jar` | 1.28 MB |
-| 103 | [**Quark** 🔗](https://www.curseforge.com/minecraft/mc-mods/quark) | `quark` | `Quark-4.0-462.jar` | 14.24 MB |
-| 104 | [**Redwolf Music Expansion** 🔗](https://www.curseforge.com/minecraft/mc-mods/redwolf-music-expansion) | `red_exp` | `red_exp-2.0.4-forge-1.20.1.jar` | 52.66 MB |
-| 105 | [**ScalingMobs** 🔗](https://www.curseforge.com/minecraft/mc-mods/scaling-mobs) | `scalingmobs` | `scalingmobs-1.0.jar` | 0.01 MB |
-| 106 | [**Searchables** 🔗](https://www.curseforge.com/minecraft/mc-mods/searchables) | `searchables` | `Searchables-forge-1.20.1-1.0.3.jar` | 0.07 MB |
-| 107 | [**ServerCore** 🔗](https://www.curseforge.com/minecraft/mc-mods/servercore) | `servercore` | `servercore-forge-1.5.2+1.20.1.jar` | 1.44 MB |
-| 108 | [**Simply Swords** 🔗](https://www.curseforge.com/minecraft/mc-mods/simply-swords) | `simplyswords` | `simplyswords-forge-1.56.0-1.20.1.jar` | 14.5 MB |
-| 109 | [**Create Slice & Dice** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-slice-dice) | `sliceanddice` | `sliceanddice-forge-3.6.0.jar` | 0.56 MB |
-| 110 | [**Sooty Chimneys** 🔗](https://www.curseforge.com/minecraft/mc-mods/sooty-chimneys) | `sootychimneys` | `sootychimneys-forge-1.20.1-1.3.4.jar` | 0.35 MB |
-| 111 | [**Sophisticated Backpacks** 🔗](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) | `sophisticatedbackpacks` | `sophisticatedbackpacks-1.20.1-3.24.67.2109.jar` | 1.11 MB |
-| 112 | [**Sophisticated Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) | `sophisticatedcore` | `sophisticatedcore-1.20.1-1.3.84.2308.jar` | 1.56 MB |
-| 113 | [**Sophisticated Storage** 🔗](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) | `sophisticatedstorage` | `sophisticatedstorage-1.20.1-1.4.85.2124.jar` | 1.78 MB |
-| 114 | [**spark** 🔗](https://www.curseforge.com/minecraft/mc-mods/spark) | `spark` | `spark-1.10.53-forge.jar` | 2.97 MB |
-| 115 | [**Create: Steam 'n' Rails** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) | `railways` | `Steam_Rails-1.7.2+forge-mc1.20.1.jar` | 16.04 MB |
-| 116 | [**Structure Gel API** 🔗](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api) | `structure_gel` | `structure_gel-1.20.1-2.16.2.jar` | 0.92 MB |
-| 117 | [**Supplementaries** 🔗](https://www.curseforge.com/minecraft/mc-mods/supplementaries) | `supplementaries` | `supplementaries-1.20-3.1.43-forge.jar` | 13.03 MB |
-| 118 | [**Tectonic** 🔗](https://www.curseforge.com/minecraft/mc-mods/tectonic) | `tectonic` | `tectonic-3.0.17-forge-1.20.1.jar` | 0.31 MB |
-| 119 | [**TenshiLib** 🔗](https://www.curseforge.com/minecraft/mc-mods/tenshilib) | `tenshilib` | `tenshilib-1.20.1-1.7.6-forge.jar` | 0.44 MB |
-| 120 | [**Terralith** 🔗](https://www.curseforge.com/minecraft/mc-mods/terralith) | `terralith` | `Terralith_1.20.x_v2.5.4.jar` | 3.01 MB |
-| 121 | [**Create: Totem Factory** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-totem-factory) | `totemfactory` | `TotemFactory-1.1.2+mc1.20.1-Forge.jar` | 0.87 MB |
-| 122 | [**Create: Trading Floor** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-trading-floor) | `trading_floor` | `trading_floor-forge-1.20.1-2.0.5.jar` | 0.28 MB |
-| 123 | [**The Twilight Forest** 🔗](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | `twilightforest` | `twilightforest-1.20.1-4.3.2508-universal.jar` | 22.25 MB |
-| 124 | [**Valhelsia Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) | `valhelsia_core` | `valhelsia_core-forge-1.20.1-1.1.2.jar` | 0.19 MB |
-| 125 | [**Valhelsia Furniture** 🔗](https://www.curseforge.com/minecraft/mc-mods/valhelsia-furniture) | `valhelsia_furniture` | `valhelsia_furniture-forge-1.20.1-1.1.3.jar` | 4.31 MB |
-| 126 | [**Wares** 🔗](https://www.curseforge.com/minecraft/mc-mods/wares) | `wares` | `wares-1.20.1-1.2.10.jar` | 0.45 MB |
-| 127 | [**Waystones** 🔗](https://www.curseforge.com/minecraft/mc-mods/waystones) | `waystones` | `waystones-forge-1.20.1-14.1.20.jar` | 0.51 MB |
-| 128 | [**Xaero's Minimap** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | `xaerominimap` | `xaerominimap-forge-1.20.1-26.4.2.jar` | 2.09 MB |
-| 129 | [**Xaero's World Map** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | `xaeroworldmap` | `xaeroworldmap-forge-1.20.1-1.45.0.jar` | 1.36 MB |
-| 130 | [**YUNG's API** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-api) | `yungsapi` | `YungsApi-1.20-Forge-4.0.6.jar` | 0.35 MB |
-| 131 | [**YUNG's Better Dungeons** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) | `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0.76 MB |
-| 132 | [**Zeta** 🔗](https://www.curseforge.com/minecraft/mc-mods/zeta) | `zeta` | `Zeta-1.0-31.jar` | 0.96 MB |
+| 68 | [**Fzzy Config** 🔗](https://www.curseforge.com/minecraft/mc-mods/fzzy-config) | `fzzy_config` | `fzzy_config-0.7.7+1.20.1+forge.jar` | 2.29 MB |
+| 69 | [**GeckoLib 4** 🔗](https://www.curseforge.com/minecraft/mc-mods/geckolib) | `geckolib` | `geckolib-forge-1.20.1-4.8.4.jar` | 0.99 MB |
+| 70 | [**Integrated Dungeons and Structures** 🔗](https://www.curseforge.com/minecraft/mc-mods/idas) | `idas` | `idas_forge-1.13.0+1.20.1.jar` | 13.75 MB |
+| 71 | [**Improved Mobs Mod** 🔗](https://www.curseforge.com/minecraft/mc-mods/improved-mobs) | `improvedmobs` | `improvedmobs-1.20.1-1.13.7-forge.jar` | 0.32 MB |
+| 72 | [**Infinite Trading** 🔗](https://www.curseforge.com/minecraft/mc-mods/infinite-trading) | `infinitetrading` | `infinitetrading-1.20.1-5.0.jar` | 0.03 MB |
+| 73 | [**Integrated API** 🔗](https://www.curseforge.com/minecraft/mc-mods/integrated-api) | `integrated_api` | `integrated_api-forge-1.20.1-1.8.0.jar` | 0.67 MB |
+| 74 | [**Iron's Lib** 🔗](https://www.curseforge.com/minecraft/mc-mods/irons-library) | `irons_lib` | `irons_lib-1.20.1-2.1.0.jar` | 0.41 MB |
+| 75 | [**Iron's Spells 'n Spellbooks** 🔗](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks) | `irons_spellbooks` | `irons_spellbooks-1.20.1-3.16.3.jar` | 14.85 MB |
+| 76 | [**Jade** 🔗](https://www.curseforge.com/minecraft/mc-mods/jade) | `jade` | `Jade-1.20.1-Forge-11.13.3.jar` | 0.53 MB |
+| 77 | [**Jade Addons** 🔗](https://www.curseforge.com/minecraft/mc-mods/jade-addons) | `jadeaddons` | `JadeAddons-1.20.1-Forge-5.5.1.jar` | 0.09 MB |
+| 78 | [**Just Enough Items** 🔗](https://www.curseforge.com/minecraft/mc-mods/jei) | `jei` | `jei-1.20.1-forge-15.49.0.191.jar` | 1.59 MB |
+| 79 | [**Just Enough Resources** 🔗](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | `jeresources` | `JustEnoughResources-1.20.1-1.4.0.247.jar` | 0.26 MB |
+| 80 | [**kotlinforforge-4.12.0-all** 🔗](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) | `kotlinforforge` | `kotlinforforge-4.12.0-all.jar` | 7.1 MB |
+| 81 | [**cataclysm** 🔗](https://www.curseforge.com/minecraft/mc-mods/l_enders-cataclysm) | `cataclysm` | `L_Enders_Cataclysm-3.31.jar` | 70.49 MB |
+| 82 | [**Labels** 🔗](https://www.curseforge.com/minecraft/mc-mods/labels) | `labels` | `labels-1.20-2.0.0.jar` | 0.24 MB |
+| 83 | [**LionfishAPI** 🔗](https://www.curseforge.com/minecraft/mc-mods/lionfish-api) | `lionfishapi` | `lionfishapi-3.0.jar` | 0.1 MB |
+| 84 | [**Liteminer** 🔗](https://www.curseforge.com/minecraft/mc-mods/liteminer) | `liteminer` | `liteminer-forge-1.20.1-1.0.3+1.20.1.jar` | 0.07 MB |
+| 85 | [**Lithostitched** 🔗](https://www.curseforge.com/minecraft/mc-mods/lithostitched) | `lithostitched` | `lithostitched-forge-1.20.1-1.4.11.jar` | 0.45 MB |
+| 86 | [**Lootr** 🔗](https://www.curseforge.com/minecraft/mc-mods/lootr) | `lootr` | `lootr-forge-1.20-0.7.35.94.jar` | 0.44 MB |
+| 87 | [**ModernFix** 🔗](https://www.curseforge.com/minecraft/mc-mods/modernfix) | `modernfix` | `modernfix-forge-5.27.77+mc1.20.1.jar` | 0.96 MB |
+| 88 | [**Moonlight Library** 🔗](https://www.curseforge.com/minecraft/mc-mods/moonlight-lib) | `moonlight` | `moonlight-1.20-2.16.34-forge.jar` | 1.35 MB |
+| 89 | [**Mouse Tweaks** 🔗](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | `mousetweaks` | `MouseTweaks-forge-mc1.20.1-2.25.1.jar` | 0.07 MB |
+| 90 | [**Mowzie's Mobs** 🔗](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs) | `mowziesmobs` | `mowziesmobs-1.8.2.jar` | 34.36 MB |
+| 91 | [**Multiplayer Boss Attribute Modifier** 🔗](https://www.curseforge.com/minecraft/mc-mods/multiplayer-boss-attribute-modifier) | `multiplayer_boss_fight` | `multiplayer_boss_fight-forge1.20.1-1.0.3.jar` | 0.02 MB |
+| 92 | [**Mysterious Mountain Lib** 🔗](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib) | `mysterious_mountain_lib` | `mysterious_mountain_lib-1.6.34-1.20.1.jar` | 0.31 MB |
+| 93 | [**Narrow Zone** 🔗](https://www.curseforge.com/minecraft/mc-mods/narrow-zone) | `narrowzone` | `narrowzone-1.0-1.20.1.jar` | 0.09 MB |
+| 94 | [**Nether's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) | `nethersdelight` | `nethersdelight-1.20.1-4.0.jar` | 0.35 MB |
+| 95 | [**Night Lights** 🔗](https://www.curseforge.com/minecraft/mc-mods/night-lights) | `nightlights` | `nightlights-1.20.1-1.1.jar` | 0.36 MB |
+| 96 | [**Ocean's Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/oceans-delight) | `oceansdelight` | `oceansdelight-1.0.2-1.20.jar` | 0.09 MB |
+| 97 | [**Open Modular Turrets Reborn** 🔗](https://www.curseforge.com/minecraft/mc-mods/open-modular-turrets-reborn) | `omtreborn` | `omtreborn-1.1.0.jar` | 1.1 MB |
+| 98 | [**Placebo** 🔗](https://www.curseforge.com/minecraft/mc-mods/placebo) | `placebo` | `Placebo-1.20.1-8.6.3.jar` | 0.27 MB |
+| 99 | [**Playdate** 🔗](https://www.curseforge.com/minecraft/mc-mods/playdate) | `playdate` | `playdate-2.0.0-forge.jar` | 0.8 MB |
+| 100 | [**Player Animator** 🔗](https://www.curseforge.com/minecraft/mc-mods/playeranimator) | `playeranimator` | `player-animation-lib-forge-1.0.2-rc1+1.20.jar` | 0.17 MB |
+| 101 | [**Polymorph** 🔗](https://www.curseforge.com/minecraft/mc-mods/polymorph) | `polymorph` | `polymorph-forge-0.49.10+1.20.1.jar` | 0.29 MB |
+| 102 | [**Pufferfish's Attributes** 🔗](https://www.curseforge.com/minecraft/mc-mods/pufferfishs-attributes) | `puffish_attributes` | `puffish_attributes-0.8.2-1.20-forge.jar` | 0.23 MB |
+| 103 | [**Pufferfish's Skills** 🔗](https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills) | `puffish_skills` | `puffish_skills-0.18.3-1.20-forge.jar` | 0.59 MB |
+| 104 | [**Puzzles Lib** 🔗](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) | `puzzleslib` | `PuzzlesLib-v8.1.33-1.20.1-Forge.jar` | 1.28 MB |
+| 105 | [**Quark** 🔗](https://www.curseforge.com/minecraft/mc-mods/quark) | `quark` | `Quark-4.0-462.jar` | 14.24 MB |
+| 106 | [**Redwolf Music Expansion** 🔗](https://www.curseforge.com/minecraft/mc-mods/redwolf-music-expansion) | `red_exp` | `red_exp-2.0.4-forge-1.20.1.jar` | 52.66 MB |
+| 107 | [**ScalingMobs** 🔗](https://www.curseforge.com/minecraft/mc-mods/scaling-mobs) | `scalingmobs` | `scalingmobs-1.0.jar` | 0.01 MB |
+| 108 | [**Searchables** 🔗](https://www.curseforge.com/minecraft/mc-mods/searchables) | `searchables` | `Searchables-forge-1.20.1-1.0.3.jar` | 0.07 MB |
+| 109 | [**ServerCore** 🔗](https://www.curseforge.com/minecraft/mc-mods/servercore) | `servercore` | `servercore-forge-1.5.2+1.20.1.jar` | 1.44 MB |
+| 110 | [**Simply Bows** 🔗](https://www.curseforge.com/minecraft/mc-mods/simply-bows) | `simplybows` | `simplybows-forge-neoforge-0.1.4.jar` | 3.86 MB |
+| 111 | [**Simply Swords** 🔗](https://www.curseforge.com/minecraft/mc-mods/simply-swords) | `simplyswords` | `simplyswords-forge-1.56.0-1.20.1.jar` | 14.5 MB |
+| 112 | [**Simply Tooltips** 🔗](https://www.curseforge.com/minecraft/mc-mods/simply-tooltips) | `simplytooltips` | `SimplyTooltips-forge-0.1.5-1.20.1.jar` | 5.17 MB |
+| 113 | [**Create Slice & Dice** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-slice-dice) | `sliceanddice` | `sliceanddice-forge-3.6.0.jar` | 0.56 MB |
+| 114 | [**Sooty Chimneys** 🔗](https://www.curseforge.com/minecraft/mc-mods/sooty-chimneys) | `sootychimneys` | `sootychimneys-forge-1.20.1-1.3.4.jar` | 0.35 MB |
+| 115 | [**Sophisticated Backpacks** 🔗](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) | `sophisticatedbackpacks` | `sophisticatedbackpacks-1.20.1-3.24.67.2109.jar` | 1.11 MB |
+| 116 | [**Sophisticated Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) | `sophisticatedcore` | `sophisticatedcore-1.20.1-1.3.84.2308.jar` | 1.56 MB |
+| 117 | [**Sophisticated Storage** 🔗](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) | `sophisticatedstorage` | `sophisticatedstorage-1.20.1-1.4.85.2124.jar` | 1.78 MB |
+| 118 | [**spark** 🔗](https://www.curseforge.com/minecraft/mc-mods/spark) | `spark` | `spark-1.10.53-forge.jar` | 2.97 MB |
+| 119 | [**Create: Steam 'n' Rails** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) | `railways` | `Steam_Rails-1.7.2+forge-mc1.20.1.jar` | 16.04 MB |
+| 120 | [**Structure Gel API** 🔗](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api) | `structure_gel` | `structure_gel-1.20.1-2.16.2.jar` | 0.92 MB |
+| 121 | [**Supplementaries** 🔗](https://www.curseforge.com/minecraft/mc-mods/supplementaries) | `supplementaries` | `supplementaries-1.20-3.1.43-forge.jar` | 13.03 MB |
+| 122 | [**Tectonic** 🔗](https://www.curseforge.com/minecraft/mc-mods/tectonic) | `tectonic` | `tectonic-3.0.17-forge-1.20.1.jar` | 0.31 MB |
+| 123 | [**TenshiLib** 🔗](https://www.curseforge.com/minecraft/mc-mods/tenshilib) | `tenshilib` | `tenshilib-1.20.1-1.7.6-forge.jar` | 0.44 MB |
+| 124 | [**Terralith** 🔗](https://www.curseforge.com/minecraft/mc-mods/terralith) | `terralith` | `Terralith_1.20.x_v2.5.4.jar` | 3.01 MB |
+| 125 | [**Create: Totem Factory** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-totem-factory) | `totemfactory` | `TotemFactory-1.1.2+mc1.20.1-Forge.jar` | 0.87 MB |
+| 126 | [**Create: Trading Floor** 🔗](https://www.curseforge.com/minecraft/mc-mods/create-trading-floor) | `trading_floor` | `trading_floor-forge-1.20.1-2.0.5.jar` | 0.28 MB |
+| 127 | [**The Twilight Forest** 🔗](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | `twilightforest` | `twilightforest-1.20.1-4.3.2508-universal.jar` | 22.25 MB |
+| 128 | [**Valhelsia Core** 🔗](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) | `valhelsia_core` | `valhelsia_core-forge-1.20.1-1.1.2.jar` | 0.19 MB |
+| 129 | [**Valhelsia Furniture** 🔗](https://www.curseforge.com/minecraft/mc-mods/valhelsia-furniture) | `valhelsia_furniture` | `valhelsia_furniture-forge-1.20.1-1.1.3.jar` | 4.31 MB |
+| 130 | [**Wares** 🔗](https://www.curseforge.com/minecraft/mc-mods/wares) | `wares` | `wares-1.20.1-1.2.10.jar` | 0.45 MB |
+| 131 | [**Waystones** 🔗](https://www.curseforge.com/minecraft/mc-mods/waystones) | `waystones` | `waystones-forge-1.20.1-14.1.20.jar` | 0.51 MB |
+| 132 | [**Xaero's Minimap** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | `xaerominimap` | `xaerominimap-forge-1.20.1-26.4.2.jar` | 2.09 MB |
+| 133 | [**Xaero's World Map** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | `xaeroworldmap` | `xaeroworldmap-forge-1.20.1-1.45.0.jar` | 1.36 MB |
+| 134 | [**YUNG's API** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-api) | `yungsapi` | `YungsApi-1.20-Forge-4.0.6.jar` | 0.35 MB |
+| 135 | [**YUNG's Better Dungeons** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) | `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0.76 MB |
+| 136 | [**Zeta** 🔗](https://www.curseforge.com/minecraft/mc-mods/zeta) | `zeta` | `Zeta-1.0-31.jar` | 0.96 MB |
 
 ---
 
 ## 🔄 동기화 정보
-- **최신 갱신 일시:** 2026-09-26 13:36:33 (KST)
+- **최신 갱신 일시:** 2026-09-26 14:04:47 (KST)
 - **동기화 방식:** 서버 엔진 통합 자동 빌드 & 동기화 파이프라인
