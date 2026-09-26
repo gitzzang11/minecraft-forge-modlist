@@ -940,6 +940,16 @@
         "Authors":  "Scouter456"
     },
     {
+        "Name":  "Open Modular Turrets Reborn",
+        "ModId":  "omtreborn",
+        "Version":  "1.1.0",
+        "FileName":  "omtreborn-1.1.0.jar",
+        "FileSize":  "1.1 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/open-modular-turrets-reborn",
+        "Description":  "Adds modular, upgradeable automated defense turrets. Protect your base with a variety of turret types, ammo, and upgrade modules.",
+        "Authors":  "ShapeShifterDev"
+    },
+    {
         "Name":  "Placebo",
         "ModId":  "placebo",
         "Version":  "8.6.3",
