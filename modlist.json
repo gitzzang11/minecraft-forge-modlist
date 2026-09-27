@@ -1378,5 +1378,45 @@
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/zeta",
         "Description":  "",
         "Authors":  "Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar"
+    },
+    {
+        "Name":  "CreativeCore",
+        "ModId":  "creativecore",
+        "Version":  "2.12.32",
+        "FileName":  "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+        "FileSize":  "1.10 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+        "Description":  "A simple but powerful coremod.",
+        "Authors":  "CreativeMD"
+    },
+    {
+        "Name":  "WATERFrAMES",
+        "ModId":  "waterframes",
+        "Version":  "2.1.22",
+        "FileName":  "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+        "FileSize":  "0.24 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/waterframes",
+        "Description":  "Display custom video and pictures in your world.",
+        "Authors":  "SrRapero720"
+    },
+    {
+        "Name":  "WATERMeDIA",
+        "ModId":  "watermedia",
+        "Version":  "2.1.37",
+        "FileName":  "watermedia-2.1.37.jar",
+        "FileSize":  "35.33 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/watermedia",
+        "Description":  "Library with an API for multimedia integration with Minecraft.",
+        "Authors":  "SrRapero720, Goedix"
+    },
+    {
+        "Name":  "WATERViSION",
+        "ModId":  "watervision",
+        "Version":  "0.1.0-alpha",
+        "FileName":  "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+        "FileSize":  "0.08 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/watervision",
+        "Description":  "Record, watch, and broadcast videos in game.",
+        "Authors":  "SrRapero720"
     }
 ]
