@@ -9,7 +9,7 @@
 </p>
 
 마인크래프트 **Forge 1.20.1** 전용 공식 서버 모드팩 저장소입니다.  
-서버 접속에 필요한 모든 모드가 최신 호환성 검증을 거쳐 동기화되어 있습니다.
+서버 접속에 필요한 공통 모드와 클라이언트 의존성을 포함합니다. 배포 ZIP의 각 JAR는 원본과 SHA-256으로 대조합니다.
 
 ---
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip">
-    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-716MB-10B981?style=for-the-badge" alt="Direct Download" />
+    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-718MB-10B981?style=for-the-badge" alt="Direct Download" />
   </a>
 </p>
 
@@ -28,13 +28,20 @@
 
 > ### 🛠️ 간편 설치 가이드
 > 1. 위 버튼 또는 링크를 눌러 `mods-forge-1.20.1.zip` 파일을 다운로드합니다.
-> 2. 실행 창(Win + R)을 열고 `%appdata%\.minecraft\mods` 폴더로 이동합니다.
-> 3. **기존 mods 폴더 안의 파일들을 모두 비운 뒤**, 압축 해제한 모든 `.jar` 파일들을 넣습니다.
+> 2. 실제 사용하는 Forge/CurseForge 프로필의 게임 폴더를 엽니다. CurseForge에서는 해당 프로필의 **폴더 열기**를 사용하세요.
+> 3. 게임을 종료하고 기존 `mods` 폴더를 프로필 밖에 백업한 뒤, 새 `mods` 폴더에 ZIP의 JAR 전체를 넣습니다. 구버전 JAR와 중복되지 않게 하세요.
 > 4. 마인크래프트 실행기에서 **Forge 1.20.1 (47.4.10 권장)** 프로필로 실행하여 서버에 접속합니다.
 > 
 > 💡 **메모리(RAM) 권장 설정:** 마인크래프트 런처 프로필 설정에서 JVM 메모리를 **6GB ~ 8GB** (예: -Xmx8G) 할당하면 훨씬 부드럽게 플레이할 수 있습니다.
 
 ---
+
+### 2026-11-01 접속 오류 대응 릴리스
+
+- `mismatched mod channel list`가 표시되면 현재 릴리스의 전체 모드팩으로 사용하는 프로필을 동기화하세요.
+- CreativeCore 2.12.32, Open Modular Turrets Reborn 1.1.0, WaterFrames 2.1.22, WaterVision 0.1.0-alpha와 클라이언트 의존성 WATERMeDIA 2.1.37을 포함합니다.
+- 클라이언트용 JAR 142개를 패키징합니다. 서버 전용 Manager Whispers는 제외하고, 클라이언트 전용 WATERMeDIA는 포함합니다.
+- 릴리스의 `SHA256SUMS.txt`와 `mods-manifest-sha256.json`으로 ZIP 및 개별 JAR를 검증할 수 있습니다.
 
 ## ✨ 주요 모드 구성 (Feature Highlights)
 
@@ -202,5 +209,5 @@
 ---
 
 ## 🔄 동기화 정보
-- **최신 갱신 일시:** 2026-09-27 17:33:10 (KST)
+- **최신 갱신 일시:** 2026-11-01 (KST)
 - **동기화 방식:** 서버 엔진 통합 자동 빌드 & 동기화 파이프라인
