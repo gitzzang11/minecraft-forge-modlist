@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.20.1-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.20.1" />
   <img src="https://img.shields.io/badge/Forge-47.4.10-orange?style=for-the-badge" alt="Forge 47.4.10" />
-  <img src="https://img.shields.io/badge/Total_Mods-143개-0284c7?style=for-the-badge" alt="Total Mods" />
-  <img src="https://img.shields.io/badge/Total_Size-719.36_MB-6366f1?style=for-the-badge" alt="Total Size" />
+  <img src="https://img.shields.io/badge/Total_Mods-144개-0284c7?style=for-the-badge" alt="Total Mods" />
+  <img src="https://img.shields.io/badge/Total_Size-720.26_MB-6366f1?style=for-the-badge" alt="Total Size" />
   <img src="https://img.shields.io/badge/Java-17_LTS-b45309?style=for-the-badge" alt="Java 17" />
 </p>
 
@@ -19,29 +19,39 @@
 
 <p align="center">
   <a href="https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip">
-    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-719MB-10B981?style=for-the-badge" alt="Direct Download" />
+    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-720MB-10B981?style=for-the-badge" alt="Direct Download" />
   </a>
 </p>
 
 - 🔗 **최신 릴리즈 페이지:** [GitHub Releases Latest](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest)
 - 💾 **원클릭 다이렉트 다운로드:** [mods-forge-1.20.1.zip](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip)
 
-> ### 🛠️ 간편 설치 가이드
+> ### 🛠️ 간편 설치 가이드 (반드시 필독!)
 > 1. 위 버튼 또는 링크를 눌러 `mods-forge-1.20.1.zip` 파일을 다운로드합니다.
-> 2. 실제 사용하는 Forge/CurseForge 프로필의 게임 폴더를 엽니다. CurseForge에서는 해당 프로필의 **폴더 열기**를 사용하세요.
-> 3. 게임을 종료하고 기존 `mods` 폴더를 프로필 밖에 백업한 뒤, 새 `mods` 폴더에 ZIP의 JAR 전체를 넣습니다. 구버전 JAR와 중복되지 않게 하세요.
-> 4. 마인크래프트 실행기에서 **Forge 1.20.1 (47.4.10 권장)** 프로필로 실행하여 서버에 접속합니다.
+> 2. 실제 사용하는 Forge/CurseForge 프로필의 게임 폴더를 엽니다. CurseForge에서는 해당 프로필의 우측 메뉴 **폴더 열기(Open Folder)**를 사용하세요.
+> 3. **[🚨 필수] 기존 `mods` 폴더를 완전히 비우세요!**
+>    - 기존 `mods` 폴더 안의 모든 파일을 삭제(또는 백업 후 비우기)하여 빈 폴더로 만듭니다.
+>    - **기존 폴더에 그대로 덮어쓰기하면 절대로 안 됩니다!** 구버전 잔여 파일(예: `CreativeCore`, `JEI`, `mezz_config` 등)과 신버전이 공존하여 서버 접속 시 `mismatched mod list` 오류로 즉시 튕깁니다.
+> 4. **[🚨 필수] ZIP 압축을 풀어서 넣으세요!**
+>    - `mods-forge-1.20.1.zip` 파일 통째로 넣으면 게임이 모드를 인식하지 못합니다.
+>    - 압축 해제 후 나온 **144개의 `.jar` 파일들을 `mods` 폴더 안에 직접** 넣습니다.
+> 5. **[🚨 금지] CurseForge에서 '모두 업데이트(Update All)'를 누르지 마세요!**
+>    - 업데이트를 누르면 서버와 모드 채널 규격이 어긋나 접속이 차단됩니다.
+> 6. 마인크래프트 실행기에서 **Forge 1.20.1 (47.4.10 권장)** 프로필로 실행하여 서버에 접속합니다.
 > 
 > 💡 **메모리(RAM) 권장 설정:** 마인크래프트 런처 프로필 설정에서 JVM 메모리를 **6GB ~ 8GB** (예: -Xmx8G) 할당하면 훨씬 부드럽게 플레이할 수 있습니다.
 
 ---
 
-### 2026-11-01 접속 오류 대응 및 YouTube 확장 모드 추가 릴리스
+### 2026-11-01 접속 오류 원인 해결 및 Loot Journal 안정화 릴리스
 
-- `mismatched mod channel list`가 표시되면 현재 릴리스의 전체 모드팩으로 사용하는 프로필을 동기화하세요.
-- CreativeCore 2.12.32, Open Modular Turrets Reborn 1.1.0, WaterFrames 2.1.22, WaterVision 0.1.0-alpha, 클라이언트 의존성 WATERMeDIA 2.1.37 및 WATERMeDIA: Youtube Extension 2.1.2를 포함합니다.
-- 클라이언트용 JAR 143개를 패키징합니다. 서버 전용 Manager Whispers는 제외하고, 클라이언트 전용 WATERMeDIA 및 YouTube Extension은 포함합니다.
-- 릴리스의 `SHA256SUMS.txt`와 `mods-manifest-sha256.json`으로 ZIP 및 개별 JAR를 검증할 수 있습니다.
+- **접속 튕김 원인 완전 해결:**
+  - 서버 접속 시 `Disconnected` 및 `mismatched mod list`가 발생하는 근본 원인(구버전 모드 잔여물 중복, `mezz_config` 채널 충돌, 커스포지 자동 업데이트 불일치)을 해결했습니다.
+  - `Fragmentum 1.5.2`와 호환되는 **Loot Journal 6.2.1 안정화 버전**을 모드팩에 기본 포함하여 클라이언트 구동 시 크래시 문제를 방지했습니다.
+- **모드 구성 (총 144개):**
+  - 서버 구동 모드 142개 + 클라이언트 전용 3개(WATERMeDIA 2.1.37, YouTube Extension 2.1.2, Loot Journal 6.2.1)
+  - CreativeCore 2.12.32, Open Modular Turrets Reborn 1.1.0, WaterFrames 2.1.22, WaterVision 0.1.0-alpha 완벽 동기화
+- 릴리스의 `SHA256SUMS.txt`와 `mods-manifest-sha256.json`으로 ZIP 및 144개 개별 JAR를 검증할 수 있습니다.
 
 ## ✨ 주요 모드 구성 (Feature Highlights)
 
@@ -60,7 +70,7 @@
 
 ---
 
-## 📋 전체 모드 상세 목록 (총 143개)
+## 📋 전체 모드 상세 목록 (총 144개)
 
 | # | 모드 이름 (공식 사이트 링크) | Mod ID | 파일명 (.jar) | 파일 크기 |
 | :-: | :--- | :--- | :--- | :-: |
@@ -207,6 +217,7 @@
 | 141 | [**YUNG's API** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-api) | `yungsapi` | `YungsApi-1.20-Forge-4.0.6.jar` | 0.35 MB |
 | 142 | [**YUNG's Better Dungeons** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) | `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0.76 MB |
 | 143 | [**Zeta** 🔗](https://www.curseforge.com/minecraft/mc-mods/zeta) | `zeta` | `Zeta-1.0-31.jar` | 0.96 MB |
+| 144 | [**Loot Journal** 🔗](https://www.curseforge.com/minecraft/mc-mods/loot-journal) | `loot_journal` | `loot_journal-forge-1.20.1-6.2.1.jar` | 1.42 MB |
 ---
 
 ## 🔄 동기화 정보

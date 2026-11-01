@@ -1,1432 +1,1442 @@
 [
     {
-        "Name":  "Alex\u0027s Caves",
-        "ModId":  "alexscaves",
-        "Version":  "2.0.2",
-        "FileName":  "alexscaves-2.0.2.jar",
-        "FileSize":  "71.4 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/alexs-caves",
-        "Description":  "",
-        "Authors":  "Alexthe668, Noonyeyz"
-    },
-    {
-        "Name":  "Alex\u0027s Mobs",
-        "ModId":  "alexsmobs",
-        "Version":  "1.22.9",
-        "FileName":  "alexsmobs-1.22.9.jar",
-        "FileSize":  "25.13 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
-        "Description":  "",
-        "Authors":  "Alexthe668, Carro1001, Paint_Ninja"
-    },
-    {
-        "Name":  "Amber",
-        "ModId":  "amber",
-        "Version":  "1.3.0-beta.2+1.20.1",
-        "FileName":  "amber-forge-1.20.1-1.3.0-beta.2+1.20.1.jar",
-        "FileSize":  "0.08 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/amber-lib",
-        "Description":  "A library for iamkaf mods.",
-        "Authors":  "iamkaf"
-    },
-    {
-        "Name":  "Amendments",
-        "ModId":  "amendments",
-        "Version":  "1.20-2.2.6",
-        "FileName":  "amendments-1.20-2.2.6.jar",
-        "FileSize":  "1.25 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/amendments",
-        "Description":  "",
-        "Authors":  "MehVahdJukaar"
-    },
-    {
-        "Name":  "Apple Crates",
-        "ModId":  "applecrates",
-        "Version":  "3.2.1",
-        "FileName":  "applecrates-forge-1.20.1-3.2.1.jar",
-        "FileSize":  "0.23 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/apple-crates",
-        "Description":  "",
-        "Authors":  "Absolem Jackdaw"
-    },
-    {
-        "Name":  "AppleSkin",
-        "ModId":  "appleskin",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "appleskin-forge-mc1.20.1-2.5.1.jar",
-        "FileSize":  "0.05 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/appleskin",
-        "Description":  "Adds various food-related HUD improvements",
-        "Authors":  "squeek"
-    },
-    {
-        "Name":  "Aquamirae",
-        "ModId":  "aquamirae",
-        "Version":  "7.1.13",
-        "FileName":  "aquamirae-forge-1.20.1-7.1.13.jar",
-        "FileSize":  "24.72 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/aquamirae",
-        "Description":  "",
-        "Authors":  "Obscuria"
-    },
-    {
-        "Name":  "Architectury",
-        "ModId":  "architectury",
-        "Version":  "9.2.14",
-        "FileName":  "architectury-9.2.14-forge.jar",
-        "FileSize":  "0.55 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
-        "Description":  "",
-        "Authors":  "shedaniel"
-    },
-    {
-        "Name":  "Artifacts",
-        "ModId":  "artifacts",
-        "Version":  "9.5.19",
-        "FileName":  "artifacts-forge-9.5.19.jar",
-        "FileSize":  "0.81 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/artifacts",
-        "Description":  "",
-        "Authors":  "ochotonida"
-    },
-    {
-        "Name":  "Balm",
-        "ModId":  "balm",
-        "Version":  "7.3.42",
-        "FileName":  "balm-forge-1.20.1-7.3.42.jar",
-        "FileSize":  "0.54 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/balm",
-        "Description":  "",
-        "Authors":  "BlayTheNinth"
-    },
-    {
-        "Name":  "Create: Bells \u0026 Whistles",
-        "ModId":  "bellsandwhistles",
-        "Version":  "0.4.3-1.20.x",
-        "FileName":  "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
-        "FileSize":  "0.19 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles",
-        "Description":  "",
-        "Authors":  "lev"
-    },
-    {
-        "Name":  "Better Combat",
-        "ModId":  "bettercombat",
-        "Version":  "1.9.0+1.20.1",
-        "FileName":  "bettercombat-forge-1.9.0+1.20.1.jar",
-        "FileSize":  "1.01 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
-        "Description":  "",
-        "Authors":  "Daedelus"
-    },
-    {
-        "Name":  "Bosses\u0027Rise",
-        "ModId":  "block_factorys_bosses",
-        "Version":  "2.1.2",
-        "FileName":  "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
-        "FileSize":  "22.85 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/bossesrise",
-        "Description":  "",
-        "Authors":  "Block Factory"
-    },
-    {
-        "Name":  "Blue Skies",
-        "ModId":  "blue_skies",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "blue_skies-1.20.1-1.3.31.jar",
-        "FileSize":  "79.69 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/blue-skies",
-        "Description":  "",
-        "Authors":  "KingPhygieBoo, Silver_David, Lachney"
-    },
-    {
-        "Name":  "Blueprint",
-        "ModId":  "blueprint",
-        "Version":  "7.1.3",
-        "FileName":  "blueprint-1.20.1-7.1.4.jar",
-        "FileSize":  "1.11 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/blueprint",
-        "Description":  "",
-        "Authors":  "Team Abnormals"
-    },
-    {
-        "Name":  "Born in Chaos",
-        "ModId":  "born_in_chaos_v1",
-        "Version":  "1.7.5",
-        "FileName":  "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
-        "FileSize":  "11.29 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/born-in-chaos",
-        "Description":  "Adds a lot of hostile mobs, with their own characteristics that can complicate your survival",
-        "Authors":  "Mongoose_artist, MCreator"
-    },
-    {
-        "Name":  "Brewin\u0027 And Chewin\u0027",
-        "ModId":  "brewinandchewin",
-        "Version":  "1.20.1-3.2.1",
-        "FileName":  "BrewinAndChewin-1.20.1-3.2.1.jar",
-        "FileSize":  "1.15 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin",
-        "Description":  "Fermenting addon for Farmer\u0027s Delight.",
-        "Authors":  "Probleyes, Umpaz, MerchantPug"
-    },
-    {
-        "Name":  "Caelus API",
-        "ModId":  "caelus",
-        "Version":  "3.2.0+1.20.1",
-        "FileName":  "caelus-forge-3.2.0+1.20.1.jar",
-        "FileSize":  "0.04 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/caelus",
-        "Description":  "",
-        "Authors":  "C4"
-    },
-    {
-        "Name":  "Carry On",
-        "ModId":  "carryon",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "carryon-forge-1.20.1-2.1.2.7.jar",
-        "FileSize":  "0.42 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/carry-on",
-        "Description":  "",
-        "Authors":  "Tschipp, Purplicious_Cow, cy4n"
-    },
-    {
-        "Name":  "Chalk",
-        "ModId":  "chalk",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "chalk-1.20.1-1.6.7.jar",
-        "FileSize":  "0.31 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/chalk",
-        "Description":  "",
-        "Authors":  "mortuusars"
-    },
-    {
-        "Name":  "Champions Unofficial",
-        "ModId":  "champions",
-        "Version":  "20.1.1.6",
-        "FileName":  "champions-forge-20.1.1.6.jar",
-        "FileSize":  "0.57 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/champions-unofficial",
-        "Description":  "Creates elite mobs with enhanced stats and extra abilities.",
-        "Authors":  "CrychicTeam, TheIllusiveC4"
-    },
-    {
-        "Name":  "Chat Heads",
-        "ModId":  "chat_heads",
-        "Version":  "0.15.7",
-        "FileName":  "chat_heads-0.15.7-forge-1.20.jar",
-        "FileSize":  "0.69 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
-        "Description":  "",
-        "Authors":  "dzwdz, Fourmisain"
-    },
-    {
-        "Name":  "Chimes",
-        "ModId":  "chimes",
-        "Version":  "2.1.1",
-        "FileName":  "Chimes-v2.1.1-1.20.1-Forge.jar",
-        "FileSize":  "11.9 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/chimes",
-        "Description":  "",
-        "Authors":  "CicadaBluw"
-    },
-    {
-        "Name":  "Chunky",
-        "ModId":  "chunky",
-        "Version":  "1.3.146",
-        "FileName":  "Chunky-1.3.146.jar",
-        "FileSize":  "0.33 MB",
-        "Url":  "https://modrinth.com/plugin/chunky",
-        "Description":  "Pre-generates chunks, quickly, efficiently, and safely",
-        "Authors":  "pop4959"
-    },
-    {
-        "Name":  "Citadel",
-        "ModId":  "citadel",
-        "Version":  "2.6.3",
-        "FileName":  "citadel-2.6.3-1.20.1.jar",
-        "FileSize":  "3.04 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/citadel",
-        "Description":  "",
-        "Authors":  "Alexthe666"
-    },
-    {
-        "Name":  "Cloth Config v10 API",
-        "ModId":  "cloth_config",
-        "Version":  "11.1.136",
-        "FileName":  "cloth-config-11.1.136-forge.jar",
-        "FileSize":  "1.13 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Clumps",
-        "ModId":  "clumps",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "Clumps-forge-1.20.1-12.0.0.4.jar",
-        "FileSize":  "0.02 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/clumps",
-        "Description":  "",
-        "Authors":  "Jaredlll08"
-    },
-    {
-        "Name":  "Collective",
-        "ModId":  "collective",
-        "Version":  "8.39",
-        "FileName":  "collective-1.20.1-8.39.jar",
-        "FileSize":  "0.71 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/collective",
-        "Description":  "",
-        "Authors":  "Rick South"
-    },
-    {
-        "Name":  "Collector\u0027s Reap",
-        "ModId":  "collectorsreap",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "collectorsreap-1.20.1-1.5.5.jar",
-        "FileSize":  "1.48 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/collectors-reap",
-        "Description":  "Farmer\u0027s Delight addon with foods scavenged from the wild.",
-        "Authors":  "reNIK03, brdbrn"
-    },
-    {
-        "Name":  "Colytra",
-        "ModId":  "colytra",
-        "Version":  "6.2.2+1.20.1",
-        "FileName":  "colytra-forge-6.2.2+1.20.1.jar",
-        "FileSize":  "0.18 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/colytra",
-        "Description":  "",
-        "Authors":  "Illusive Soulworks"
-    },
-    {
-        "Name":  "Connectivity Mod",
-        "ModId":  "connectivity",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "connectivity-1.20.1-7.6.jar",
-        "FileSize":  "0.12 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/connectivity",
-        "Description":  "",
-        "Authors":  "Someaddons"
-    },
-    {
-        "Name":  "Construction Wand",
-        "ModId":  "constructionwand",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "constructionwand-1.20.1-2.11.jar",
-        "FileSize":  "0.2 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/construction-wand",
-        "Description":  "",
-        "Authors":  "ThetaDev"
-    },
-    {
-        "Name":  "Controlling",
-        "ModId":  "controlling",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "Controlling-forge-1.20.1-12.0.2.jar",
-        "FileSize":  "0.11 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/controlling",
-        "Description":  "",
-        "Authors":  "Jaredlll08"
-    },
-    {
-        "Name":  "Create: Copycats+",
-        "ModId":  "copycats",
-        "Version":  "3.0.8+mc.1.20.1-forge",
-        "FileName":  "copycats-3.0.8+mc.1.20.1-forge.jar",
-        "FileSize":  "1.91 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/copycats",
-        "Description":  "",
-        "Authors":  "Lysine, Bennyboy1695, Redcat_XVIII"
-    },
-    {
-        "Name":  "Corn Delight",
-        "ModId":  "corn_delight",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "corn_delight-1.2.11-1.20.1.jar",
-        "FileSize":  "0.17 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/corn-delight",
-        "Description":  "",
-        "Authors":  "MCMOD Modding Group"
-    },
-    {
-        "Name":  "Corpse",
-        "ModId":  "corpse",
-        "Version":  "1.20.1-1.0.23",
-        "FileName":  "corpse-forge-1.20.1-1.0.23.jar",
-        "FileSize":  "0.23 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/corpse",
-        "Description":  "",
-        "Authors":  "Max Henkel"
-    },
-    {
-        "Name":  "CraftingTweaks",
-        "ModId":  "craftingtweaks",
-        "Version":  "18.2.9",
-        "FileName":  "craftingtweaks-forge-1.20.1-18.2.9.jar",
-        "FileSize":  "0.22 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks",
-        "Description":  "",
-        "Authors":  "BlayTheNinth"
-    },
-    {
-        "Name":  "Create: Central Kitchen",
-        "ModId":  "create_central_kitchen",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
-        "FileSize":  "0.8 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen",
-        "Description":  "",
-        "Authors":  "LimonBlaze, MarbleGate and Etherwood"
-    },
-    {
-        "Name":  "Create: Connected",
-        "ModId":  "create_connected",
-        "Version":  "1.2.3-mc1.20.1",
-        "FileName":  "create_connected-1.2.3-mc1.20.1-all.jar",
-        "FileSize":  "6.48 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-connected",
-        "Description":  "",
-        "Authors":  "Lysine"
-    },
-    {
-        "Name":  "Create: Copper and Zinc",
-        "ModId":  "create_copper_and_zinc",
-        "Version":  "2.0.0",
-        "FileName":  "create_copper_and_zinc-2.0.0-forge-1.20.1.jar",
-        "FileSize":  "0.09 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-copper-zinc",
-        "Description":  "This mod adds recipes for Asurine and Veridium, providing a renewable source of Copper and Zinc to the player.",
-        "Authors":  "robinfrt"
-    },
-    {
-        "Name":  "Create Enchantment Industry",
-        "ModId":  "create_enchantment_industry",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "create_enchantment_industry-1.4.1-for-create-6.0.8.jar",
-        "FileSize":  "0.48 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry",
-        "Description":  "",
-        "Authors":  "MarbleGateKeeper \u0026 LimonBlaze"
-    },
-    {
-        "Name":  "Create Jetpack",
-        "ModId":  "create_jetpack",
-        "Version":  "4.4.6",
-        "FileName":  "create_jetpack-forge-4.4.6.jar",
-        "FileSize":  "0.61 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-jetpack",
-        "Description":  "",
-        "Authors":  "possible_triangle"
-    },
-    {
-        "Name":  "Create: Netherless",
-        "ModId":  "create_netherless",
-        "Version":  "2.0.0",
-        "FileName":  "create_netherless-2.0.0-1.20.1.jar",
-        "FileSize":  "0.03 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-netherless",
-        "Description":  "Adds recipes for nether ressources thanks to the Create mod!",
-        "Authors":  "DariusZeBaguette, Supermarshadow"
-    },
-    {
-        "Name":  "Create: Power Loader",
-        "ModId":  "create_power_loader",
-        "Version":  "2.0.3-mc1.20.1",
-        "FileName":  "create_power_loader-2.0.3-mc1.20.1.jar",
-        "FileSize":  "0.22 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-power-loader",
-        "Description":  "",
-        "Authors":  "Lysine"
-    },
-    {
-        "Name":  "Create",
-        "ModId":  "create",
-        "Version":  "6.0.8",
-        "FileName":  "create-1.20.1-6.0.8.jar",
-        "FileSize":  "18.28 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create",
-        "Description":  "",
-        "Authors":  "simibubi"
-    },
-    {
-        "Name":  "Create Crafts \u0026 Additions",
-        "ModId":  "createaddition",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "createaddition-1.20.1-1.3.3.jar",
-        "FileSize":  "1.5 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/createaddition",
-        "Description":  "",
-        "Authors":  "MRH0"
-    },
-    {
-        "Name":  "Create Goggles",
-        "ModId":  "creategoggles",
-        "Version":  "6.1.1",
-        "FileName":  "creategoggles-1.20.1-6.1.1-FORGE.jar",
-        "FileSize":  "0.37 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-goggles",
-        "Description":  "",
-        "Authors":  "Robocraft999"
-    },
-    {
-        "Name":  "Create Stuff \u0027N Additions",
-        "ModId":  "create_sa",
-        "Version":  "2.1.2",
-        "FileName":  "create-stuff-additions1.20.1_v2.1.2.jar",
-        "FileSize":  "1.3 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
-        "Description":  "Create Stuff \u0026 Additions is a mod that uses the resources of Create to offer a new set of equipment, tools and gadget! Equipmen...",
-        "Authors":  "Furti_Two"
-    },
-    {
-        "Name":  "CreateStuffAdditionsFix",
-        "ModId":  "createstuffadditionsfix",
-        "Version":  "0.0.0.1",
-        "FileName":  "createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar",
-        "FileSize":  "0 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/createstuffadditions-fix",
-        "Description":  "",
-        "Authors":  "Noobanidus"
-    },
-    {
-        "Name":  "Cultural Delights",
-        "ModId":  "culturaldelights",
-        "Version":  "0.16.6",
-        "FileName":  "culturaldelights-0.16.7.jar",
-        "FileSize":  "0.25 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/cultural-delights",
-        "Description":  "",
-        "Authors":  "Developer: Baisylia | Porting: OnesAndZer0s | Art: Baisylia, Raspmary, Bagels"
-    },
-    {
-        "Name":  "Cupboard utilities",
-        "ModId":  "cupboard",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "cupboard-1.20.1-4.1.jar",
-        "FileSize":  "0.03 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/cupboard",
-        "Description":  "",
-        "Authors":  "Someaddon"
-    },
-    {
-        "Name":  "Curios API",
-        "ModId":  "curios",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "curios-forge-5.14.1+1.20.1.jar",
-        "FileSize":  "0.38 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/curios",
-        "Description":  "",
-        "Authors":  "C4"
-    },
-    {
-        "Name":  "Deeper and Darker",
-        "ModId":  "deeperdarker",
-        "Version":  "1.3.3",
-        "FileName":  "deeperdarker-forge-1.20.1-1.3.3.jar",
-        "FileSize":  "17.02 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
-        "Description":  "",
-        "Authors":  "Kyanite Team"
-    },
-    {
-        "Name":  "Default Skill Trees",
-        "ModId":  "default_skill_trees",
-        "Version":  "1.1",
-        "FileName":  "default_skill_trees-1.1.jar",
-        "FileSize":  "0.01 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/default-skill-trees",
-        "Description":  "Adds default skill trees for Pufferfish\u0027s Skills mod.",
-        "Authors":  "Pufferfish"
-    },
-    {
-        "Name":  "Delightful",
-        "ModId":  "delightful",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "Delightful-1.20.1-3.8.1.jar",
-        "FileSize":  "1.69 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/delightful",
-        "Description":  "Farmer\u0027s Delight addon with mod compatibility features and fun new foods.",
-        "Authors":  "brnbrd"
-    },
-    {
-        "Name":  "Drink Beer Refill",
-        "ModId":  "drinkbeer",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "drinkbeer-refill-1.20.1-1.0.5.jar",
-        "FileSize":  "1.45 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill",
-        "Description":  "Add placeable beer mug and drink it!",
-        "Authors":  "MarbleGateKeeper"
-    },
-    {
-        "Name":  "EEEAB\u0027s Mobs",
-        "ModId":  "eeeabsmobs",
-        "Version":  "1.20.1-0.98.1",
-        "FileName":  "eeeabsmobs-1.20.1-0.98.1.jar",
-        "FileSize":  "28.06 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs",
-        "Description":  "",
-        "Authors":  "EEEAB"
-    },
-    {
-        "Name":  "Embeddium",
-        "ModId":  "embeddium",
-        "Version":  "0.3.31+mc1.20.1",
-        "FileName":  "embeddium-0.3.31+mc1.20.1.jar",
-        "FileSize":  "1.26 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/embeddium",
-        "Description":  "",
-        "Authors":  "embeddedt"
-    },
-    {
-        "Name":  "Enchanting Infuser",
-        "ModId":  "enchantinginfuser",
-        "Version":  "8.0.3",
-        "FileName":  "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
-        "FileSize":  "0.17 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser",
-        "Description":  "An all new enchanting table: Choose your enchantments for fair prices! Plus no more randomness!",
-        "Authors":  "Fuzs"
-    },
-    {
-        "Name":  "End\u0027s Delight",
-        "ModId":  "ends_delight",
-        "Version":  "2.6+forge.1.20.1",
-        "FileName":  "ends_delight-2.6+forge.1.20.1.jar",
-        "FileSize":  "0.26 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/ends-delight",
-        "Description":  "",
-        "Authors":  "FoggyHillside"
-    },
-    {
-        "Name":  "ExpandAbility",
-        "ModId":  "expandability",
-        "Version":  "9.0.4",
-        "FileName":  "expandability-forge-9.0.4.jar",
-        "FileSize":  "0.08 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/expandability",
-        "Description":  "",
-        "Authors":  "Florens"
-    },
-    {
-        "Name":  "Farmer\u0027s Delight",
-        "ModId":  "farmersdelight",
-        "Version":  "1.20.1-1.3.3",
-        "FileName":  "FarmersDelight-1.20.1-1.3.3.jar",
-        "FileSize":  "3.16 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
-        "Description":  "A cozy farming and cooking expansion for Minecraft!",
-        "Authors":  "vectorwing"
-    },
-    {
-        "Name":  "FastFurnace",
-        "ModId":  "fastfurnace",
-        "Version":  "8.0.2",
-        "FileName":  "FastFurnace-1.20.1-8.0.2.jar",
-        "FileSize":  "0.01 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/fastfurnace",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Fast Suite",
-        "ModId":  "fastsuite",
-        "Version":  "5.1.2",
-        "FileName":  "FastSuite-1.20.1-5.1.2.jar",
-        "FileSize":  "0.03 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/fastsuite",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Fast Workbench",
-        "ModId":  "fastbench",
-        "Version":  "8.0.4",
-        "FileName":  "FastWorkbench-1.20.1-8.0.4.jar",
-        "FileSize":  "0.03 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/fastworkbench",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Ferrite Core",
-        "ModId":  "ferritecore",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "ferritecore-6.0.1-forge.jar",
-        "FileSize":  "0.12 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
-        "Description":  "",
-        "Authors":  "malte0811"
-    },
-    {
-        "Name":  "Fragmentum",
-        "ModId":  "fragmentum",
-        "Version":  "1.5.2",
-        "FileName":  "fragmentum-forge-1.20.1-1.5.2.jar",
-        "FileSize":  "2.61 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/fragmentum",
-        "Description":  "",
-        "Authors":  "Obscuria"
-    },
-    {
-        "Name":  "Fzzy Config",
-        "ModId":  "fzzy_config",
-        "Version":  "0.7.7+1.20.1+forge",
-        "FileName":  "fzzy_config-0.7.7+1.20.1+forge.jar",
-        "FileSize":  "2.29 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
-        "Description":  "Configuration engine with automatic GUI generation, client-server syncing, powerful validation and error handling, and much more.",
-        "Authors":  "fzzyhmstrs"
-    },
-    {
-        "Name":  "GeckoLib 4",
-        "ModId":  "geckolib",
-        "Version":  "4.8.4",
-        "FileName":  "geckolib-forge-1.20.1-4.8.4.jar",
-        "FileSize":  "0.99 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/geckolib",
-        "Description":  "",
-        "Authors":  "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
-    },
-    {
-        "Name":  "Integrated Dungeons and Structures",
-        "ModId":  "idas",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "idas_forge-1.13.0+1.20.1.jar",
-        "FileSize":  "13.75 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/idas",
-        "Description":  "",
-        "Authors":  "CraisinLord"
-    },
-    {
-        "Name":  "Improved Mobs Mod",
-        "ModId":  "improvedmobs",
-        "Version":  "1.20.1-1.13.7",
-        "FileName":  "improvedmobs-1.20.1-1.13.7-forge.jar",
-        "FileSize":  "0.32 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/improved-mobs",
-        "Description":  "",
-        "Authors":  "Flemmli97"
-    },
-    {
-        "Name":  "Infinite Trading",
-        "ModId":  "infinitetrading",
-        "Version":  "5.0",
-        "FileName":  "infinitetrading-1.20.1-5.0.jar",
-        "FileSize":  "0.03 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/infinite-trading",
-        "Description":  "",
-        "Authors":  "Rick South"
-    },
-    {
-        "Name":  "Integrated API",
-        "ModId":  "integrated_api",
-        "Version":  "1.8.0",
-        "FileName":  "integrated_api-forge-1.20.1-1.8.0.jar",
-        "FileSize":  "0.67 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/integrated-api",
-        "Description":  "",
-        "Authors":  "CraisinLord"
-    },
-    {
-        "Name":  "Iron\u0027s Lib",
-        "ModId":  "irons_lib",
-        "Version":  "1.20.1-2.1.0",
-        "FileName":  "irons_lib-1.20.1-2.1.0.jar",
-        "FileSize":  "0.41 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/irons-library",
-        "Description":  "",
-        "Authors":  "Iron431"
-    },
-    {
-        "Name":  "Iron\u0027s Spells \u0027n Spellbooks",
-        "ModId":  "irons_spellbooks",
-        "Version":  "1.20.1-3.16.3",
-        "FileName":  "irons_spellbooks-1.20.1-3.16.3.jar",
-        "FileSize":  "14.85 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks",
-        "Description":  "",
-        "Authors":  "Iron431, Lab3"
-    },
-    {
-        "Name":  "Jade",
-        "ModId":  "jade",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "Jade-1.20.1-Forge-11.13.3.jar",
-        "FileSize":  "0.53 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/jade",
-        "Description":  "Minecraft mod shows what you are looking at. (Hwyla fork)",
-        "Authors":  "Snownee"
-    },
-    {
-        "Name":  "Jade Addons",
-        "ModId":  "jadeaddons",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "JadeAddons-1.20.1-Forge-5.5.1.jar",
-        "FileSize":  "0.09 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/jade-addons",
-        "Description":  "Jade additional mod supports",
-        "Authors":  "Snownee"
-    },
-    {
-        "Name":  "Just Enough Items",
-        "ModId":  "jei",
-        "Version":  "15.49.0.191",
-        "FileName":  "jei-1.20.1-forge-15.49.0.191.jar",
-        "FileSize":  "1.59 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/jei",
-        "Description":  "",
-        "Authors":  "mezz"
-    },
-    {
-        "Name":  "Just Enough Resources",
-        "ModId":  "jeresources",
-        "Version":  "1.4.0.247",
-        "FileName":  "JustEnoughResources-1.20.1-1.4.0.247.jar",
-        "FileSize":  "0.26 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
-        "Description":  "",
-        "Authors":  "way2muchnoise"
-    },
-    {
-        "Name":  "kotlinforforge-4.12.0-all",
-        "ModId":  "kotlinforforge",
-        "Version":  "",
-        "FileName":  "kotlinforforge-4.12.0-all.jar",
-        "FileSize":  "7.1 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "cataclysm",
-        "ModId":  "cataclysm",
-        "Version":  "3.31",
-        "FileName":  "L_Enders_Cataclysm-3.31.jar",
-        "FileSize":  "70.49 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/l_enders-cataclysm",
-        "Description":  "",
-        "Authors":  "L_Ender"
-    },
-    {
-        "Name":  "Labels",
-        "ModId":  "labels",
-        "Version":  "1.20-2.0.0",
-        "FileName":  "labels-1.20-2.0.0.jar",
-        "FileSize":  "0.24 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/labels",
-        "Description":  "",
-        "Authors":  "MehVahdJukaar"
-    },
-    {
-        "Name":  "LionfishAPI",
-        "ModId":  "lionfishapi",
-        "Version":  "3.0",
-        "FileName":  "lionfishapi-3.0.jar",
-        "FileSize":  "0.1 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/lionfish-api",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Liteminer",
-        "ModId":  "liteminer",
-        "Version":  "1.0.3+1.20.1",
-        "FileName":  "liteminer-forge-1.20.1-1.0.3+1.20.1.jar",
-        "FileSize":  "0.07 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/liteminer",
-        "Description":  "A veinmining mod.",
-        "Authors":  "iamkaf"
-    },
-    {
-        "Name":  "Lithostitched",
-        "ModId":  "lithostitched",
-        "Version":  "1.4.11",
-        "FileName":  "lithostitched-forge-1.20.1-1.4.11.jar",
-        "FileSize":  "0.45 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
-        "Description":  "",
-        "Authors":  "Apollo"
-    },
-    {
-        "Name":  "Lootr",
-        "ModId":  "lootr",
-        "Version":  "0.7.35.94",
-        "FileName":  "lootr-forge-1.20-0.7.35.94.jar",
-        "FileSize":  "0.44 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/lootr",
-        "Description":  "",
-        "Authors":  "Noobanidus"
-    },
-    {
-        "Name":  "ModernFix",
-        "ModId":  "modernfix",
-        "Version":  "5.27.77+mc1.20.1",
-        "FileName":  "modernfix-forge-5.27.77+mc1.20.1.jar",
-        "FileSize":  "0.96 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/modernfix",
-        "Description":  "",
-        "Authors":  "embeddedt"
-    },
-    {
-        "Name":  "MonoLib",
-        "ModId":  "monolib",
-        "Version":  "4.1.0",
-        "FileName":  "monolib-forge-1.20.1-4.1.0.jar",
-        "FileSize":  "0.19 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/monolib",
-        "Description":  "A non-invasive library mod for Fabric and (Neo)Forge.",
-        "Authors":  "Jason13"
-    },
-    {
-        "Name":  "Moonlight Library",
-        "ModId":  "moonlight",
-        "Version":  "1.20-2.16.34",
-        "FileName":  "moonlight-1.20-2.16.34-forge.jar",
-        "FileSize":  "1.35 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/moonlight-lib",
-        "Description":  "",
-        "Authors":  "MehVahdJukaar"
-    },
-    {
-        "Name":  "More Bows and Arrows",
-        "ModId":  "more_bows_and_arrows",
-        "Version":  "5.0.1",
-        "FileName":  "more_bows_and_arrows-merged-1.20.1-5.0.1.jar",
-        "FileSize":  "0.41 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/more-bows-and-arrows",
-        "Description":  "Add new mythical bows and deadly arrows to Minecraft!",
-        "Authors":  "Lupin, Jason13"
-    },
-    {
-        "Name":  "Mouse Tweaks",
-        "ModId":  "mousetweaks",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-        "FileSize":  "0.07 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
-        "Description":  "",
-        "Authors":  "Ivan Molodetskikh (YaLTeR)"
-    },
-    {
-        "Name":  "Mowzie\u0027s Mobs",
-        "ModId":  "mowziesmobs",
-        "Version":  "1.8.2",
-        "FileName":  "mowziesmobs-1.8.2.jar",
-        "FileSize":  "34.36 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
-        "Description":  "Mowzie\u0027s Mobs adds a variety of high-quality fantasy creatures to your Minecraft world.",
-        "Authors":  "BobMowzie, Wadoo, Vakypanda, Noonyez, pau101"
-    },
-    {
-        "Name":  "Multiplayer Boss Attribute Modifier",
-        "ModId":  "multiplayer_boss_fight",
-        "Version":  "1.0.3",
-        "FileName":  "multiplayer_boss_fight-forge1.20.1-1.0.3.jar",
-        "FileSize":  "0.02 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/multiplayer-boss-attribute-modifier",
-        "Description":  "",
-        "Authors":  "P1nero"
-    },
-    {
-        "Name":  "Mysterious Mountain Lib",
-        "ModId":  "mysterious_mountain_lib",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "mysterious_mountain_lib-1.6.34-1.20.1.jar",
-        "FileSize":  "0.31 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib",
-        "Description":  "",
-        "Authors":  "Syameimaru Zheng"
-    },
-    {
-        "Name":  "Narrow Zone",
-        "ModId":  "narrowzone",
-        "Version":  "1.0-1.20.1",
-        "FileName":  "narrowzone-1.0-1.20.1.jar",
-        "FileSize":  "0.09 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/narrow-zone",
-        "Description":  "Adds new bows and crossbows to enhance your Vanilla experience!",
-        "Authors":  "Lucas"
-    },
-    {
-        "Name":  "Nether\u0027s Delight",
-        "ModId":  "nethersdelight",
-        "Version":  "1.20.1-4.0",
-        "FileName":  "nethersdelight-1.20.1-4.0.jar",
-        "FileSize":  "0.35 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/nethers-delight",
-        "Description":  "A nether expansion for the Farmer\u0027s Delight mod!",
-        "Authors":  "Umpaz, SoyTutta"
-    },
-    {
-        "Name":  "Night Lights",
-        "ModId":  "nightlights",
-        "Version":  "1.1",
-        "FileName":  "nightlights-1.20.1-1.1.jar",
-        "FileSize":  "0.36 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/night-lights",
-        "Description":  "",
-        "Authors":  "Joosh and samgj15"
-    },
-    {
-        "Name":  "Ocean\u0027s Delight",
-        "ModId":  "oceansdelight",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "oceansdelight-1.0.2-1.20.jar",
-        "FileSize":  "0.09 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/oceans-delight",
-        "Description":  "",
-        "Authors":  "Scouter456"
-    },
-    {
-        "Name":  "Open Modular Turrets Reborn",
-        "ModId":  "omtreborn",
-        "Version":  "1.1.0",
-        "FileName":  "omtreborn-1.1.0.jar",
-        "FileSize":  "1.1 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/open-modular-turrets-reborn",
-        "Description":  "Adds modular, upgradeable automated defense turrets. Protect your base with a variety of turret types, ammo, and upgrade modules.",
-        "Authors":  "ShapeShifterDev"
-    },
-    {
-        "Name":  "Placebo",
-        "ModId":  "placebo",
-        "Version":  "8.6.3",
-        "FileName":  "Placebo-1.20.1-8.6.3.jar",
-        "FileSize":  "0.27 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/placebo",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Playdate",
-        "ModId":  "playdate",
-        "Version":  "2.0.0",
-        "FileName":  "playdate-2.0.0-forge.jar",
-        "FileSize":  "0.8 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/playdate",
-        "Description":  "",
-        "Authors":  "Frogipher, ThatGravyBoat"
-    },
-    {
-        "Name":  "Player Animator",
-        "ModId":  "playeranimator",
-        "Version":  "1.0.2-rc1+1.20",
-        "FileName":  "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-        "FileSize":  "0.17 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
-        "Description":  "",
-        "Authors":  "KosmX"
-    },
-    {
-        "Name":  "Polymorph",
-        "ModId":  "polymorph",
-        "Version":  "0.49.10+1.20.1",
-        "FileName":  "polymorph-forge-0.49.10+1.20.1.jar",
-        "FileSize":  "0.29 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/polymorph",
-        "Description":  "",
-        "Authors":  "Illusive Soulworks"
-    },
-    {
-        "Name":  "Pufferfish\u0027s Attributes",
-        "ModId":  "puffish_attributes",
-        "Version":  "0.8.2",
-        "FileName":  "puffish_attributes-0.8.2-1.20-forge.jar",
-        "FileSize":  "0.23 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/pufferfishs-attributes",
-        "Description":  "Adds more attributes to the game.",
-        "Authors":  "Pufferfish"
-    },
-    {
-        "Name":  "Pufferfish\u0027s Skills",
-        "ModId":  "puffish_skills",
-        "Version":  "0.18.3",
-        "FileName":  "puffish_skills-0.18.3-1.20-forge.jar",
-        "FileSize":  "0.59 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills",
-        "Description":  "Adds a fully configurable skill system to the game.",
-        "Authors":  "Pufferfish"
-    },
-    {
-        "Name":  "Puzzles Lib",
-        "ModId":  "puzzleslib",
-        "Version":  "8.1.33",
-        "FileName":  "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
-        "FileSize":  "1.28 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
-        "Description":  "Why\u0027s it called Puzzles you ask? That\u0027s the puzzle!",
-        "Authors":  "Fuzs"
-    },
-    {
-        "Name":  "Quark",
-        "ModId":  "quark",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "Quark-4.0-462.jar",
-        "FileSize":  "14.24 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/quark",
-        "Description":  "",
-        "Authors":  "Vazkii, WireSegal, MCVinnyq, Sully"
-    },
-    {
-        "Name":  "Redwolf Music Expansion",
-        "ModId":  "red_exp",
-        "Version":  "2.0.3",
-        "FileName":  "red_exp-2.0.4-forge-1.20.1.jar",
-        "FileSize":  "52.66 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/redwolf-music-expansion",
-        "Description":  "Adds RedWolf\u0027s Music Discs to your world",
-        "Authors":  "Sweetygamer"
-    },
-    {
-        "Name":  "ScalingMobs",
-        "ModId":  "scalingmobs",
-        "Version":  "1.0",
-        "FileName":  "scalingmobs-1.0.jar",
-        "FileSize":  "0.01 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/scaling-mobs",
-        "Description":  "ScalingMobs can adjust the difficulty of bosses and regular mobs added to the list. It works with virtually all mods and mobs.",
-        "Authors":  "24na7"
-    },
-    {
-        "Name":  "Searchables",
-        "ModId":  "searchables",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "Searchables-forge-1.20.1-1.0.3.jar",
-        "FileSize":  "0.07 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/searchables",
-        "Description":  "",
-        "Authors":  "Jaredlll08"
-    },
-    {
-        "Name":  "ServerCore",
-        "ModId":  "servercore",
-        "Version":  "1.5.2+1.20.1",
-        "FileName":  "servercore-forge-1.5.2+1.20.1.jar",
-        "FileSize":  "1.44 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/servercore",
-        "Description":  "",
-        "Authors":  "Wesley1808"
-    },
-    {
-        "Name":  "Simply Bows",
-        "ModId":  "simplybows",
-        "Version":  "0.1.4",
-        "FileName":  "simplybows-forge-neoforge-0.1.4.jar",
-        "FileSize":  "3.86 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/simply-bows",
-        "Description":  "Adds unique bows with powerful abilities.",
-        "Authors":  "Sweenus, Hootea"
-    },
-    {
-        "Name":  "Simply Swords",
-        "ModId":  "simplyswords",
-        "Version":  "1.56.0-1.20.1",
-        "FileName":  "simplyswords-forge-1.56.0-1.20.1.jar",
-        "FileSize":  "14.5 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/simply-swords",
-        "Description":  "",
-        "Authors":  "Sweenus"
-    },
-    {
-        "Name":  "Simply Tooltips",
-        "ModId":  "simplytooltips",
-        "Version":  "0.1.5-1.20.1",
-        "FileName":  "SimplyTooltips-forge-0.1.5-1.20.1.jar",
-        "FileSize":  "5.17 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/simply-tooltips",
-        "Description":  "Modern data driven tooltip renderer for Simply mods. Optionally available for other vanilla and modded items.",
-        "Authors":  "Sweenus"
-    },
-    {
-        "Name":  "Create Slice \u0026 Dice",
-        "ModId":  "sliceanddice",
-        "Version":  "3.6.0",
-        "FileName":  "sliceanddice-forge-3.6.0.jar",
-        "FileSize":  "0.56 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-slice-dice",
-        "Description":  "",
-        "Authors":  "possible_triangle"
-    },
-    {
-        "Name":  "Sooty Chimneys",
-        "ModId":  "sootychimneys",
-        "Version":  "1.3.4",
-        "FileName":  "sootychimneys-forge-1.20.1-1.3.4.jar",
-        "FileSize":  "0.35 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/sooty-chimneys",
-        "Description":  "Spiritual successor to campfires!",
-        "Authors":  "mortuusars"
-    },
-    {
-        "Name":  "Sophisticated Backpacks",
-        "ModId":  "sophisticatedbackpacks",
-        "Version":  "3.24.67.2109",
-        "FileName":  "sophisticatedbackpacks-1.20.1-3.24.67.2109.jar",
-        "FileSize":  "1.11 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Sophisticated Core",
-        "ModId":  "sophisticatedcore",
-        "Version":  "1.3.84.2308",
-        "FileName":  "sophisticatedcore-1.20.1-1.3.84.2308.jar",
-        "FileSize":  "1.56 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Sophisticated Storage",
-        "ModId":  "sophisticatedstorage",
-        "Version":  "1.4.85.2124",
-        "FileName":  "sophisticatedstorage-1.20.1-1.4.85.2124.jar",
-        "FileSize":  "1.78 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage",
-        "Description":  "",
-        "Authors":  ""
-    },
-    {
-        "Name":  "spark",
-        "ModId":  "spark",
-        "Version":  "1.10.53",
-        "FileName":  "spark-1.10.53-forge.jar",
-        "FileSize":  "2.97 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/spark",
-        "Description":  "spark is a performance profiling plugin/mod for Minecraft clients, servers and proxies.",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Create: Steam \u0027n\u0027 Rails",
-        "ModId":  "railways",
-        "Version":  "1.7.2+forge-mc1.20.1",
-        "FileName":  "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
-        "FileSize":  "16.04 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
-        "Description":  "",
-        "Authors":  "The Railways Team"
-    },
-    {
-        "Name":  "Structure Gel API",
-        "ModId":  "structure_gel",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "structure_gel-1.20.1-2.16.2.jar",
-        "FileSize":  "0.92 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/structure-gel-api",
-        "Description":  "",
-        "Authors":  "Silver_David, KingPhygieBoo, Jonathing"
-    },
-    {
-        "Name":  "Supplementaries",
-        "ModId":  "supplementaries",
-        "Version":  "1.20-3.1.43",
-        "FileName":  "supplementaries-1.20-3.1.43-forge.jar",
-        "FileSize":  "13.03 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
-        "Description":  "",
-        "Authors":  "MehVahdJukaar, Plantkillable"
-    },
-    {
-        "Name":  "Tectonic",
-        "ModId":  "tectonic",
-        "Version":  "3.0.17",
-        "FileName":  "tectonic-3.0.17-forge-1.20.1.jar",
-        "FileSize":  "0.31 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/tectonic",
-        "Description":  "Terrain shaping brought to new heights, grander and more varied than ever before!",
-        "Authors":  "Apollo"
-    },
-    {
-        "Name":  "TenshiLib",
-        "ModId":  "tenshilib",
-        "Version":  "1.20.1-1.7.6",
-        "FileName":  "tenshilib-1.20.1-1.7.6-forge.jar",
-        "FileSize":  "0.44 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/tenshilib",
-        "Description":  "",
-        "Authors":  "Flemmli97"
-    },
-    {
-        "Name":  "Terralith",
-        "ModId":  "terralith",
-        "Version":  "2.5.4",
-        "FileName":  "Terralith_1.20.x_v2.5.4.jar",
-        "FileSize":  "3.01 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/terralith",
-        "Description":  "Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several im...",
-        "Authors":  "Stardust Labs"
-    },
-    {
-        "Name":  "Create: Totem Factory",
-        "ModId":  "totemfactory",
-        "Version":  "1.1.2",
-        "FileName":  "TotemFactory-1.1.2+mc1.20.1-Forge.jar",
-        "FileSize":  "0.87 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-totem-factory",
-        "Description":  "The industrial revolution has come to Minecraft, and with it, new knowledge and discoveries both in the field of science and ma...",
-        "Authors":  ""
-    },
-    {
-        "Name":  "Create: Trading Floor",
-        "ModId":  "trading_floor",
-        "Version":  "2.0.5",
-        "FileName":  "trading_floor-forge-1.20.1-2.0.5.jar",
-        "FileSize":  "0.28 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/create-trading-floor",
-        "Description":  "",
-        "Authors":  "Cake, Tazer"
-    },
-    {
-        "Name":  "The Twilight Forest",
-        "ModId":  "twilightforest",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "twilightforest-1.20.1-4.3.2508-universal.jar",
-        "FileSize":  "22.25 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
-        "Description":  "",
-        "Authors":  "Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi"
-    },
-    {
-        "Name":  "Valhelsia Core",
-        "ModId":  "valhelsia_core",
-        "Version":  "1.1.2",
-        "FileName":  "valhelsia_core-forge-1.20.1-1.1.2.jar",
-        "FileSize":  "0.19 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/valhelsia-core",
-        "Description":  "",
-        "Authors":  "Love, Cheese and small house plants"
-    },
-    {
-        "Name":  "Valhelsia Furniture",
-        "ModId":  "valhelsia_furniture",
-        "Version":  "1.1.3",
-        "FileName":  "valhelsia_furniture-forge-1.20.1-1.1.3.jar",
-        "FileSize":  "4.31 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/valhelsia-furniture",
-        "Description":  "",
-        "Authors":  "Love, Cheese and small house plants"
-    },
-    {
-        "Name":  "Wares",
-        "ModId":  "wares",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "wares-1.20.1-1.2.10.jar",
-        "FileSize":  "0.45 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/wares",
-        "Description":  "",
-        "Authors":  "mortuusars"
-    },
-    {
-        "Name":  "Waystones",
-        "ModId":  "waystones",
-        "Version":  "14.1.20",
-        "FileName":  "waystones-forge-1.20.1-14.1.20.jar",
-        "FileSize":  "0.51 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/waystones",
-        "Description":  "",
-        "Authors":  "BlayTheNinth"
-    },
-    {
-        "Name":  "Xaero\u0027s Minimap",
-        "ModId":  "xaerominimap",
-        "Version":  "26.4.2",
-        "FileName":  "xaerominimap-forge-1.20.1-26.4.2.jar",
-        "FileSize":  "2.09 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
-        "Description":  "",
-        "Authors":  "xaero96"
-    },
-    {
-        "Name":  "Xaero\u0027s World Map",
-        "ModId":  "xaeroworldmap",
-        "Version":  "1.45.0",
-        "FileName":  "xaeroworldmap-forge-1.20.1-1.45.0.jar",
-        "FileSize":  "1.36 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
-        "Description":  "",
-        "Authors":  "xaero96"
-    },
-    {
-        "Name":  "YUNG\u0027s API",
-        "ModId":  "yungsapi",
-        "Version":  "1.20-Forge-4.0.6",
-        "FileName":  "YungsApi-1.20-Forge-4.0.6.jar",
-        "FileSize":  "0.35 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
-        "Description":  "API Library for YUNG\u0027s minecraft mods.",
-        "Authors":  "YUNGNICKYOUNG"
-    },
-    {
-        "Name":  "YUNG\u0027s Better Dungeons",
-        "ModId":  "betterdungeons",
-        "Version":  "1.20-Forge-4.0.4",
-        "FileName":  "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-        "FileSize":  "0.76 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
-        "Description":  "A complete redesign of Minecraft\u0027s dungeons",
-        "Authors":  "YUNGNICKYOUNG, Acarii"
-    },
-    {
-        "Name":  "Zeta",
-        "ModId":  "zeta",
-        "Version":  "${file.jarVersion}",
-        "FileName":  "Zeta-1.0-31.jar",
-        "FileSize":  "0.96 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/zeta",
-        "Description":  "",
-        "Authors":  "Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar"
-    },
-    {
-        "Name":  "CreativeCore",
-        "ModId":  "creativecore",
-        "Version":  "2.12.32",
-        "FileName":  "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
-        "FileSize":  "1.10 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/creativecore",
-        "Description":  "A simple but powerful coremod.",
-        "Authors":  "CreativeMD"
-    },
-    {
-        "Name":  "WATERFrAMES",
-        "ModId":  "waterframes",
-        "Version":  "2.1.22",
-        "FileName":  "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
-        "FileSize":  "0.24 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/waterframes",
-        "Description":  "Display custom video and pictures in your world.",
-        "Authors":  "SrRapero720"
-    },
-    {
-        "Name":  "WATERMeDIA",
-        "ModId":  "watermedia",
-        "Version":  "2.1.37",
-        "FileName":  "watermedia-2.1.37.jar",
-        "FileSize":  "35.33 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/watermedia",
-        "Description":  "Library with an API for multimedia integration with Minecraft.",
-        "Authors":  "SrRapero720, Goedix"
-    },
-    {
-        "Name":  "WATERViSION",
-        "ModId":  "watervision",
-        "Version":  "0.1.0-alpha",
-        "FileName":  "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
-        "FileSize":  "0.08 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/watervision",
-        "Description":  "Record, watch, and broadcast videos in game.",
-        "Authors":  "SrRapero720"
-    },
-    {
-        "Name":  "WATERMeDIA: Youtube Extension",
-        "ModId":  "watermedia_youtube_plugin",
-        "Version":  "2.1.2",
-        "FileName":  "watermedia_youtube_plugin-2.1.2.jar",
-        "FileSize":  "3.65 MB",
-        "Url":  "https://www.curseforge.com/minecraft/mc-mods/watermedia-yt-plugin",
-        "Description":  "Plugin for WATERMeDIA that adds YouTube as a media source.",
-        "Authors":  "SrRapero720"
+        "Name": "Alex's Caves",
+        "ModId": "alexscaves",
+        "Version": "2.0.2",
+        "FileName": "alexscaves-2.0.2.jar",
+        "FileSize": "71.4 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/alexs-caves",
+        "Description": "",
+        "Authors": "Alexthe668, Noonyeyz"
+    },
+    {
+        "Name": "Alex's Mobs",
+        "ModId": "alexsmobs",
+        "Version": "1.22.9",
+        "FileName": "alexsmobs-1.22.9.jar",
+        "FileSize": "25.13 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+        "Description": "",
+        "Authors": "Alexthe668, Carro1001, Paint_Ninja"
+    },
+    {
+        "Name": "Amber",
+        "ModId": "amber",
+        "Version": "1.3.0-beta.2+1.20.1",
+        "FileName": "amber-forge-1.20.1-1.3.0-beta.2+1.20.1.jar",
+        "FileSize": "0.08 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/amber-lib",
+        "Description": "A library for iamkaf mods.",
+        "Authors": "iamkaf"
+    },
+    {
+        "Name": "Amendments",
+        "ModId": "amendments",
+        "Version": "1.20-2.2.6",
+        "FileName": "amendments-1.20-2.2.6.jar",
+        "FileSize": "1.25 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/amendments",
+        "Description": "",
+        "Authors": "MehVahdJukaar"
+    },
+    {
+        "Name": "Apple Crates",
+        "ModId": "applecrates",
+        "Version": "3.2.1",
+        "FileName": "applecrates-forge-1.20.1-3.2.1.jar",
+        "FileSize": "0.23 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/apple-crates",
+        "Description": "",
+        "Authors": "Absolem Jackdaw"
+    },
+    {
+        "Name": "AppleSkin",
+        "ModId": "appleskin",
+        "Version": "${file.jarVersion}",
+        "FileName": "appleskin-forge-mc1.20.1-2.5.1.jar",
+        "FileSize": "0.05 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+        "Description": "Adds various food-related HUD improvements",
+        "Authors": "squeek"
+    },
+    {
+        "Name": "Aquamirae",
+        "ModId": "aquamirae",
+        "Version": "7.1.13",
+        "FileName": "aquamirae-forge-1.20.1-7.1.13.jar",
+        "FileSize": "24.72 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/aquamirae",
+        "Description": "",
+        "Authors": "Obscuria"
+    },
+    {
+        "Name": "Architectury",
+        "ModId": "architectury",
+        "Version": "9.2.14",
+        "FileName": "architectury-9.2.14-forge.jar",
+        "FileSize": "0.55 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+        "Description": "",
+        "Authors": "shedaniel"
+    },
+    {
+        "Name": "Artifacts",
+        "ModId": "artifacts",
+        "Version": "9.5.19",
+        "FileName": "artifacts-forge-9.5.19.jar",
+        "FileSize": "0.81 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/artifacts",
+        "Description": "",
+        "Authors": "ochotonida"
+    },
+    {
+        "Name": "Balm",
+        "ModId": "balm",
+        "Version": "7.3.42",
+        "FileName": "balm-forge-1.20.1-7.3.42.jar",
+        "FileSize": "0.54 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/balm",
+        "Description": "",
+        "Authors": "BlayTheNinth"
+    },
+    {
+        "Name": "Create: Bells & Whistles",
+        "ModId": "bellsandwhistles",
+        "Version": "0.4.3-1.20.x",
+        "FileName": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+        "FileSize": "0.19 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/bellsandwhistles",
+        "Description": "",
+        "Authors": "lev"
+    },
+    {
+        "Name": "Better Combat",
+        "ModId": "bettercombat",
+        "Version": "1.9.0+1.20.1",
+        "FileName": "bettercombat-forge-1.9.0+1.20.1.jar",
+        "FileSize": "1.01 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+        "Description": "",
+        "Authors": "Daedelus"
+    },
+    {
+        "Name": "Bosses'Rise",
+        "ModId": "block_factorys_bosses",
+        "Version": "2.1.2",
+        "FileName": "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+        "FileSize": "22.85 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/bossesrise",
+        "Description": "",
+        "Authors": "Block Factory"
+    },
+    {
+        "Name": "Blue Skies",
+        "ModId": "blue_skies",
+        "Version": "${file.jarVersion}",
+        "FileName": "blue_skies-1.20.1-1.3.31.jar",
+        "FileSize": "79.69 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/blue-skies",
+        "Description": "",
+        "Authors": "KingPhygieBoo, Silver_David, Lachney"
+    },
+    {
+        "Name": "Blueprint",
+        "ModId": "blueprint",
+        "Version": "7.1.3",
+        "FileName": "blueprint-1.20.1-7.1.4.jar",
+        "FileSize": "1.11 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/blueprint",
+        "Description": "",
+        "Authors": "Team Abnormals"
+    },
+    {
+        "Name": "Born in Chaos",
+        "ModId": "born_in_chaos_v1",
+        "Version": "1.7.5",
+        "FileName": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+        "FileSize": "11.29 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/born-in-chaos",
+        "Description": "Adds a lot of hostile mobs, with their own characteristics that can complicate your survival",
+        "Authors": "Mongoose_artist, MCreator"
+    },
+    {
+        "Name": "Brewin' And Chewin'",
+        "ModId": "brewinandchewin",
+        "Version": "1.20.1-3.2.1",
+        "FileName": "BrewinAndChewin-1.20.1-3.2.1.jar",
+        "FileSize": "1.15 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin",
+        "Description": "Fermenting addon for Farmer's Delight.",
+        "Authors": "Probleyes, Umpaz, MerchantPug"
+    },
+    {
+        "Name": "Caelus API",
+        "ModId": "caelus",
+        "Version": "3.2.0+1.20.1",
+        "FileName": "caelus-forge-3.2.0+1.20.1.jar",
+        "FileSize": "0.04 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/caelus",
+        "Description": "",
+        "Authors": "C4"
+    },
+    {
+        "Name": "Carry On",
+        "ModId": "carryon",
+        "Version": "${file.jarVersion}",
+        "FileName": "carryon-forge-1.20.1-2.1.2.7.jar",
+        "FileSize": "0.42 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+        "Description": "",
+        "Authors": "Tschipp, Purplicious_Cow, cy4n"
+    },
+    {
+        "Name": "Chalk",
+        "ModId": "chalk",
+        "Version": "${file.jarVersion}",
+        "FileName": "chalk-1.20.1-1.6.7.jar",
+        "FileSize": "0.31 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/chalk",
+        "Description": "",
+        "Authors": "mortuusars"
+    },
+    {
+        "Name": "Champions Unofficial",
+        "ModId": "champions",
+        "Version": "20.1.1.6",
+        "FileName": "champions-forge-20.1.1.6.jar",
+        "FileSize": "0.57 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/champions-unofficial",
+        "Description": "Creates elite mobs with enhanced stats and extra abilities.",
+        "Authors": "CrychicTeam, TheIllusiveC4"
+    },
+    {
+        "Name": "Chat Heads",
+        "ModId": "chat_heads",
+        "Version": "0.15.7",
+        "FileName": "chat_heads-0.15.7-forge-1.20.jar",
+        "FileSize": "0.69 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+        "Description": "",
+        "Authors": "dzwdz, Fourmisain"
+    },
+    {
+        "Name": "Chimes",
+        "ModId": "chimes",
+        "Version": "2.1.1",
+        "FileName": "Chimes-v2.1.1-1.20.1-Forge.jar",
+        "FileSize": "11.9 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/chimes",
+        "Description": "",
+        "Authors": "CicadaBluw"
+    },
+    {
+        "Name": "Chunky",
+        "ModId": "chunky",
+        "Version": "1.3.146",
+        "FileName": "Chunky-1.3.146.jar",
+        "FileSize": "0.33 MB",
+        "Url": "https://modrinth.com/plugin/chunky",
+        "Description": "Pre-generates chunks, quickly, efficiently, and safely",
+        "Authors": "pop4959"
+    },
+    {
+        "Name": "Citadel",
+        "ModId": "citadel",
+        "Version": "2.6.3",
+        "FileName": "citadel-2.6.3-1.20.1.jar",
+        "FileSize": "3.04 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+        "Description": "",
+        "Authors": "Alexthe666"
+    },
+    {
+        "Name": "Cloth Config v10 API",
+        "ModId": "cloth_config",
+        "Version": "11.1.136",
+        "FileName": "cloth-config-11.1.136-forge.jar",
+        "FileSize": "1.13 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "Clumps",
+        "ModId": "clumps",
+        "Version": "${file.jarVersion}",
+        "FileName": "Clumps-forge-1.20.1-12.0.0.4.jar",
+        "FileSize": "0.02 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+        "Description": "",
+        "Authors": "Jaredlll08"
+    },
+    {
+        "Name": "Collective",
+        "ModId": "collective",
+        "Version": "8.39",
+        "FileName": "collective-1.20.1-8.39.jar",
+        "FileSize": "0.71 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/collective",
+        "Description": "",
+        "Authors": "Rick South"
+    },
+    {
+        "Name": "Collector's Reap",
+        "ModId": "collectorsreap",
+        "Version": "${file.jarVersion}",
+        "FileName": "collectorsreap-1.20.1-1.5.5.jar",
+        "FileSize": "1.48 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/collectors-reap",
+        "Description": "Farmer's Delight addon with foods scavenged from the wild.",
+        "Authors": "reNIK03, brdbrn"
+    },
+    {
+        "Name": "Colytra",
+        "ModId": "colytra",
+        "Version": "6.2.2+1.20.1",
+        "FileName": "colytra-forge-6.2.2+1.20.1.jar",
+        "FileSize": "0.18 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/colytra",
+        "Description": "",
+        "Authors": "Illusive Soulworks"
+    },
+    {
+        "Name": "Connectivity Mod",
+        "ModId": "connectivity",
+        "Version": "${file.jarVersion}",
+        "FileName": "connectivity-1.20.1-7.6.jar",
+        "FileSize": "0.12 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+        "Description": "",
+        "Authors": "Someaddons"
+    },
+    {
+        "Name": "Construction Wand",
+        "ModId": "constructionwand",
+        "Version": "${file.jarVersion}",
+        "FileName": "constructionwand-1.20.1-2.11.jar",
+        "FileSize": "0.2 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/construction-wand",
+        "Description": "",
+        "Authors": "ThetaDev"
+    },
+    {
+        "Name": "Controlling",
+        "ModId": "controlling",
+        "Version": "${file.jarVersion}",
+        "FileName": "Controlling-forge-1.20.1-12.0.2.jar",
+        "FileSize": "0.11 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+        "Description": "",
+        "Authors": "Jaredlll08"
+    },
+    {
+        "Name": "Create: Copycats+",
+        "ModId": "copycats",
+        "Version": "3.0.8+mc.1.20.1-forge",
+        "FileName": "copycats-3.0.8+mc.1.20.1-forge.jar",
+        "FileSize": "1.91 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/copycats",
+        "Description": "",
+        "Authors": "Lysine, Bennyboy1695, Redcat_XVIII"
+    },
+    {
+        "Name": "Corn Delight",
+        "ModId": "corn_delight",
+        "Version": "${file.jarVersion}",
+        "FileName": "corn_delight-1.2.11-1.20.1.jar",
+        "FileSize": "0.17 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/corn-delight",
+        "Description": "",
+        "Authors": "MCMOD Modding Group"
+    },
+    {
+        "Name": "Corpse",
+        "ModId": "corpse",
+        "Version": "1.20.1-1.0.23",
+        "FileName": "corpse-forge-1.20.1-1.0.23.jar",
+        "FileSize": "0.23 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+        "Description": "",
+        "Authors": "Max Henkel"
+    },
+    {
+        "Name": "CraftingTweaks",
+        "ModId": "craftingtweaks",
+        "Version": "18.2.9",
+        "FileName": "craftingtweaks-forge-1.20.1-18.2.9.jar",
+        "FileSize": "0.22 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks",
+        "Description": "",
+        "Authors": "BlayTheNinth"
+    },
+    {
+        "Name": "Create: Central Kitchen",
+        "ModId": "create_central_kitchen",
+        "Version": "${file.jarVersion}",
+        "FileName": "create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar",
+        "FileSize": "0.8 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen",
+        "Description": "",
+        "Authors": "LimonBlaze, MarbleGate and Etherwood"
+    },
+    {
+        "Name": "Create: Connected",
+        "ModId": "create_connected",
+        "Version": "1.2.3-mc1.20.1",
+        "FileName": "create_connected-1.2.3-mc1.20.1-all.jar",
+        "FileSize": "6.48 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-connected",
+        "Description": "",
+        "Authors": "Lysine"
+    },
+    {
+        "Name": "Create: Copper and Zinc",
+        "ModId": "create_copper_and_zinc",
+        "Version": "2.0.0",
+        "FileName": "create_copper_and_zinc-2.0.0-forge-1.20.1.jar",
+        "FileSize": "0.09 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-copper-zinc",
+        "Description": "This mod adds recipes for Asurine and Veridium, providing a renewable source of Copper and Zinc to the player.",
+        "Authors": "robinfrt"
+    },
+    {
+        "Name": "Create Enchantment Industry",
+        "ModId": "create_enchantment_industry",
+        "Version": "${file.jarVersion}",
+        "FileName": "create_enchantment_industry-1.4.1-for-create-6.0.8.jar",
+        "FileSize": "0.48 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry",
+        "Description": "",
+        "Authors": "MarbleGateKeeper & LimonBlaze"
+    },
+    {
+        "Name": "Create Jetpack",
+        "ModId": "create_jetpack",
+        "Version": "4.4.6",
+        "FileName": "create_jetpack-forge-4.4.6.jar",
+        "FileSize": "0.61 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-jetpack",
+        "Description": "",
+        "Authors": "possible_triangle"
+    },
+    {
+        "Name": "Create: Netherless",
+        "ModId": "create_netherless",
+        "Version": "2.0.0",
+        "FileName": "create_netherless-2.0.0-1.20.1.jar",
+        "FileSize": "0.03 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-netherless",
+        "Description": "Adds recipes for nether ressources thanks to the Create mod!",
+        "Authors": "DariusZeBaguette, Supermarshadow"
+    },
+    {
+        "Name": "Create: Power Loader",
+        "ModId": "create_power_loader",
+        "Version": "2.0.3-mc1.20.1",
+        "FileName": "create_power_loader-2.0.3-mc1.20.1.jar",
+        "FileSize": "0.22 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-power-loader",
+        "Description": "",
+        "Authors": "Lysine"
+    },
+    {
+        "Name": "Create",
+        "ModId": "create",
+        "Version": "6.0.8",
+        "FileName": "create-1.20.1-6.0.8.jar",
+        "FileSize": "18.28 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create",
+        "Description": "",
+        "Authors": "simibubi"
+    },
+    {
+        "Name": "Create Crafts & Additions",
+        "ModId": "createaddition",
+        "Version": "${file.jarVersion}",
+        "FileName": "createaddition-1.20.1-1.3.3.jar",
+        "FileSize": "1.5 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
+        "Description": "",
+        "Authors": "MRH0"
+    },
+    {
+        "Name": "Create Goggles",
+        "ModId": "creategoggles",
+        "Version": "6.1.1",
+        "FileName": "creategoggles-1.20.1-6.1.1-FORGE.jar",
+        "FileSize": "0.37 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-goggles",
+        "Description": "",
+        "Authors": "Robocraft999"
+    },
+    {
+        "Name": "Create Stuff 'N Additions",
+        "ModId": "create_sa",
+        "Version": "2.1.2",
+        "FileName": "create-stuff-additions1.20.1_v2.1.2.jar",
+        "FileSize": "1.3 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
+        "Description": "Create Stuff & Additions is a mod that uses the resources of Create to offer a new set of equipment, tools and gadget! Equipmen...",
+        "Authors": "Furti_Two"
+    },
+    {
+        "Name": "CreateStuffAdditionsFix",
+        "ModId": "createstuffadditionsfix",
+        "Version": "0.0.0.1",
+        "FileName": "createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar",
+        "FileSize": "0 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/createstuffadditions-fix",
+        "Description": "",
+        "Authors": "Noobanidus"
+    },
+    {
+        "Name": "Cultural Delights",
+        "ModId": "culturaldelights",
+        "Version": "0.16.6",
+        "FileName": "culturaldelights-0.16.7.jar",
+        "FileSize": "0.25 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/cultural-delights",
+        "Description": "",
+        "Authors": "Developer: Baisylia | Porting: OnesAndZer0s | Art: Baisylia, Raspmary, Bagels"
+    },
+    {
+        "Name": "Cupboard utilities",
+        "ModId": "cupboard",
+        "Version": "${file.jarVersion}",
+        "FileName": "cupboard-1.20.1-4.1.jar",
+        "FileSize": "0.03 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+        "Description": "",
+        "Authors": "Someaddon"
+    },
+    {
+        "Name": "Curios API",
+        "ModId": "curios",
+        "Version": "${file.jarVersion}",
+        "FileName": "curios-forge-5.14.1+1.20.1.jar",
+        "FileSize": "0.38 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/curios",
+        "Description": "",
+        "Authors": "C4"
+    },
+    {
+        "Name": "Deeper and Darker",
+        "ModId": "deeperdarker",
+        "Version": "1.3.3",
+        "FileName": "deeperdarker-forge-1.20.1-1.3.3.jar",
+        "FileSize": "17.02 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+        "Description": "",
+        "Authors": "Kyanite Team"
+    },
+    {
+        "Name": "Default Skill Trees",
+        "ModId": "default_skill_trees",
+        "Version": "1.1",
+        "FileName": "default_skill_trees-1.1.jar",
+        "FileSize": "0.01 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/default-skill-trees",
+        "Description": "Adds default skill trees for Pufferfish's Skills mod.",
+        "Authors": "Pufferfish"
+    },
+    {
+        "Name": "Delightful",
+        "ModId": "delightful",
+        "Version": "${file.jarVersion}",
+        "FileName": "Delightful-1.20.1-3.8.1.jar",
+        "FileSize": "1.69 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/delightful",
+        "Description": "Farmer's Delight addon with mod compatibility features and fun new foods.",
+        "Authors": "brnbrd"
+    },
+    {
+        "Name": "Drink Beer Refill",
+        "ModId": "drinkbeer",
+        "Version": "${file.jarVersion}",
+        "FileName": "drinkbeer-refill-1.20.1-1.0.5.jar",
+        "FileSize": "1.45 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill",
+        "Description": "Add placeable beer mug and drink it!",
+        "Authors": "MarbleGateKeeper"
+    },
+    {
+        "Name": "EEEAB's Mobs",
+        "ModId": "eeeabsmobs",
+        "Version": "1.20.1-0.98.1",
+        "FileName": "eeeabsmobs-1.20.1-0.98.1.jar",
+        "FileSize": "28.06 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs",
+        "Description": "",
+        "Authors": "EEEAB"
+    },
+    {
+        "Name": "Embeddium",
+        "ModId": "embeddium",
+        "Version": "0.3.31+mc1.20.1",
+        "FileName": "embeddium-0.3.31+mc1.20.1.jar",
+        "FileSize": "1.26 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
+        "Description": "",
+        "Authors": "embeddedt"
+    },
+    {
+        "Name": "Enchanting Infuser",
+        "ModId": "enchantinginfuser",
+        "Version": "8.0.3",
+        "FileName": "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+        "FileSize": "0.17 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser",
+        "Description": "An all new enchanting table: Choose your enchantments for fair prices! Plus no more randomness!",
+        "Authors": "Fuzs"
+    },
+    {
+        "Name": "End's Delight",
+        "ModId": "ends_delight",
+        "Version": "2.6+forge.1.20.1",
+        "FileName": "ends_delight-2.6+forge.1.20.1.jar",
+        "FileSize": "0.26 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/ends-delight",
+        "Description": "",
+        "Authors": "FoggyHillside"
+    },
+    {
+        "Name": "ExpandAbility",
+        "ModId": "expandability",
+        "Version": "9.0.4",
+        "FileName": "expandability-forge-9.0.4.jar",
+        "FileSize": "0.08 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/expandability",
+        "Description": "",
+        "Authors": "Florens"
+    },
+    {
+        "Name": "Farmer's Delight",
+        "ModId": "farmersdelight",
+        "Version": "1.20.1-1.3.3",
+        "FileName": "FarmersDelight-1.20.1-1.3.3.jar",
+        "FileSize": "3.16 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+        "Description": "A cozy farming and cooking expansion for Minecraft!",
+        "Authors": "vectorwing"
+    },
+    {
+        "Name": "FastFurnace",
+        "ModId": "fastfurnace",
+        "Version": "8.0.2",
+        "FileName": "FastFurnace-1.20.1-8.0.2.jar",
+        "FileSize": "0.01 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "Fast Suite",
+        "ModId": "fastsuite",
+        "Version": "5.1.2",
+        "FileName": "FastSuite-1.20.1-5.1.2.jar",
+        "FileSize": "0.03 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/fastsuite",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "Fast Workbench",
+        "ModId": "fastbench",
+        "Version": "8.0.4",
+        "FileName": "FastWorkbench-1.20.1-8.0.4.jar",
+        "FileSize": "0.03 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "Ferrite Core",
+        "ModId": "ferritecore",
+        "Version": "${file.jarVersion}",
+        "FileName": "ferritecore-6.0.1-forge.jar",
+        "FileSize": "0.12 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+        "Description": "",
+        "Authors": "malte0811"
+    },
+    {
+        "Name": "Fragmentum",
+        "ModId": "fragmentum",
+        "Version": "1.5.2",
+        "FileName": "fragmentum-forge-1.20.1-1.5.2.jar",
+        "FileSize": "2.61 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/fragmentum",
+        "Description": "",
+        "Authors": "Obscuria"
+    },
+    {
+        "Name": "Fzzy Config",
+        "ModId": "fzzy_config",
+        "Version": "0.7.7+1.20.1+forge",
+        "FileName": "fzzy_config-0.7.7+1.20.1+forge.jar",
+        "FileSize": "2.29 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
+        "Description": "Configuration engine with automatic GUI generation, client-server syncing, powerful validation and error handling, and much more.",
+        "Authors": "fzzyhmstrs"
+    },
+    {
+        "Name": "GeckoLib 4",
+        "ModId": "geckolib",
+        "Version": "4.8.4",
+        "FileName": "geckolib-forge-1.20.1-4.8.4.jar",
+        "FileSize": "0.99 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+        "Description": "",
+        "Authors": "Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin"
+    },
+    {
+        "Name": "Integrated Dungeons and Structures",
+        "ModId": "idas",
+        "Version": "${file.jarVersion}",
+        "FileName": "idas_forge-1.13.0+1.20.1.jar",
+        "FileSize": "13.75 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/idas",
+        "Description": "",
+        "Authors": "CraisinLord"
+    },
+    {
+        "Name": "Improved Mobs Mod",
+        "ModId": "improvedmobs",
+        "Version": "1.20.1-1.13.7",
+        "FileName": "improvedmobs-1.20.1-1.13.7-forge.jar",
+        "FileSize": "0.32 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/improved-mobs",
+        "Description": "",
+        "Authors": "Flemmli97"
+    },
+    {
+        "Name": "Infinite Trading",
+        "ModId": "infinitetrading",
+        "Version": "5.0",
+        "FileName": "infinitetrading-1.20.1-5.0.jar",
+        "FileSize": "0.03 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/infinite-trading",
+        "Description": "",
+        "Authors": "Rick South"
+    },
+    {
+        "Name": "Integrated API",
+        "ModId": "integrated_api",
+        "Version": "1.8.0",
+        "FileName": "integrated_api-forge-1.20.1-1.8.0.jar",
+        "FileSize": "0.67 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/integrated-api",
+        "Description": "",
+        "Authors": "CraisinLord"
+    },
+    {
+        "Name": "Iron's Lib",
+        "ModId": "irons_lib",
+        "Version": "1.20.1-2.1.0",
+        "FileName": "irons_lib-1.20.1-2.1.0.jar",
+        "FileSize": "0.41 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/irons-library",
+        "Description": "",
+        "Authors": "Iron431"
+    },
+    {
+        "Name": "Iron's Spells 'n Spellbooks",
+        "ModId": "irons_spellbooks",
+        "Version": "1.20.1-3.16.3",
+        "FileName": "irons_spellbooks-1.20.1-3.16.3.jar",
+        "FileSize": "14.85 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks",
+        "Description": "",
+        "Authors": "Iron431, Lab3"
+    },
+    {
+        "Name": "Jade",
+        "ModId": "jade",
+        "Version": "${file.jarVersion}",
+        "FileName": "Jade-1.20.1-Forge-11.13.3.jar",
+        "FileSize": "0.53 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/jade",
+        "Description": "Minecraft mod shows what you are looking at. (Hwyla fork)",
+        "Authors": "Snownee"
+    },
+    {
+        "Name": "Jade Addons",
+        "ModId": "jadeaddons",
+        "Version": "${file.jarVersion}",
+        "FileName": "JadeAddons-1.20.1-Forge-5.5.1.jar",
+        "FileSize": "0.09 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/jade-addons",
+        "Description": "Jade additional mod supports",
+        "Authors": "Snownee"
+    },
+    {
+        "Name": "Just Enough Items",
+        "ModId": "jei",
+        "Version": "15.49.0.191",
+        "FileName": "jei-1.20.1-forge-15.49.0.191.jar",
+        "FileSize": "1.59 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/jei",
+        "Description": "",
+        "Authors": "mezz"
+    },
+    {
+        "Name": "Just Enough Resources",
+        "ModId": "jeresources",
+        "Version": "1.4.0.247",
+        "FileName": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+        "FileSize": "0.26 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
+        "Description": "",
+        "Authors": "way2muchnoise"
+    },
+    {
+        "Name": "kotlinforforge-4.12.0-all",
+        "ModId": "kotlinforforge",
+        "Version": "",
+        "FileName": "kotlinforforge-4.12.0-all.jar",
+        "FileSize": "7.1 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "cataclysm",
+        "ModId": "cataclysm",
+        "Version": "3.31",
+        "FileName": "L_Enders_Cataclysm-3.31.jar",
+        "FileSize": "70.49 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/l_enders-cataclysm",
+        "Description": "",
+        "Authors": "L_Ender"
+    },
+    {
+        "Name": "Labels",
+        "ModId": "labels",
+        "Version": "1.20-2.0.0",
+        "FileName": "labels-1.20-2.0.0.jar",
+        "FileSize": "0.24 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/labels",
+        "Description": "",
+        "Authors": "MehVahdJukaar"
+    },
+    {
+        "Name": "LionfishAPI",
+        "ModId": "lionfishapi",
+        "Version": "3.0",
+        "FileName": "lionfishapi-3.0.jar",
+        "FileSize": "0.1 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/lionfish-api",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "Liteminer",
+        "ModId": "liteminer",
+        "Version": "1.0.3+1.20.1",
+        "FileName": "liteminer-forge-1.20.1-1.0.3+1.20.1.jar",
+        "FileSize": "0.07 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/liteminer",
+        "Description": "A veinmining mod.",
+        "Authors": "iamkaf"
+    },
+    {
+        "Name": "Lithostitched",
+        "ModId": "lithostitched",
+        "Version": "1.4.11",
+        "FileName": "lithostitched-forge-1.20.1-1.4.11.jar",
+        "FileSize": "0.45 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+        "Description": "",
+        "Authors": "Apollo"
+    },
+    {
+        "Name": "Lootr",
+        "ModId": "lootr",
+        "Version": "0.7.35.94",
+        "FileName": "lootr-forge-1.20-0.7.35.94.jar",
+        "FileSize": "0.44 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/lootr",
+        "Description": "",
+        "Authors": "Noobanidus"
+    },
+    {
+        "Name": "ModernFix",
+        "ModId": "modernfix",
+        "Version": "5.27.77+mc1.20.1",
+        "FileName": "modernfix-forge-5.27.77+mc1.20.1.jar",
+        "FileSize": "0.96 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+        "Description": "",
+        "Authors": "embeddedt"
+    },
+    {
+        "Name": "MonoLib",
+        "ModId": "monolib",
+        "Version": "4.1.0",
+        "FileName": "monolib-forge-1.20.1-4.1.0.jar",
+        "FileSize": "0.19 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/monolib",
+        "Description": "A non-invasive library mod for Fabric and (Neo)Forge.",
+        "Authors": "Jason13"
+    },
+    {
+        "Name": "Moonlight Library",
+        "ModId": "moonlight",
+        "Version": "1.20-2.16.34",
+        "FileName": "moonlight-1.20-2.16.34-forge.jar",
+        "FileSize": "1.35 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/moonlight-lib",
+        "Description": "",
+        "Authors": "MehVahdJukaar"
+    },
+    {
+        "Name": "More Bows and Arrows",
+        "ModId": "more_bows_and_arrows",
+        "Version": "5.0.1",
+        "FileName": "more_bows_and_arrows-merged-1.20.1-5.0.1.jar",
+        "FileSize": "0.41 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/more-bows-and-arrows",
+        "Description": "Add new mythical bows and deadly arrows to Minecraft!",
+        "Authors": "Lupin, Jason13"
+    },
+    {
+        "Name": "Mouse Tweaks",
+        "ModId": "mousetweaks",
+        "Version": "${file.jarVersion}",
+        "FileName": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+        "FileSize": "0.07 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+        "Description": "",
+        "Authors": "Ivan Molodetskikh (YaLTeR)"
+    },
+    {
+        "Name": "Mowzie's Mobs",
+        "ModId": "mowziesmobs",
+        "Version": "1.8.2",
+        "FileName": "mowziesmobs-1.8.2.jar",
+        "FileSize": "34.36 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
+        "Description": "Mowzie's Mobs adds a variety of high-quality fantasy creatures to your Minecraft world.",
+        "Authors": "BobMowzie, Wadoo, Vakypanda, Noonyez, pau101"
+    },
+    {
+        "Name": "Multiplayer Boss Attribute Modifier",
+        "ModId": "multiplayer_boss_fight",
+        "Version": "1.0.3",
+        "FileName": "multiplayer_boss_fight-forge1.20.1-1.0.3.jar",
+        "FileSize": "0.02 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/multiplayer-boss-attribute-modifier",
+        "Description": "",
+        "Authors": "P1nero"
+    },
+    {
+        "Name": "Mysterious Mountain Lib",
+        "ModId": "mysterious_mountain_lib",
+        "Version": "${file.jarVersion}",
+        "FileName": "mysterious_mountain_lib-1.6.34-1.20.1.jar",
+        "FileSize": "0.31 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib",
+        "Description": "",
+        "Authors": "Syameimaru Zheng"
+    },
+    {
+        "Name": "Narrow Zone",
+        "ModId": "narrowzone",
+        "Version": "1.0-1.20.1",
+        "FileName": "narrowzone-1.0-1.20.1.jar",
+        "FileSize": "0.09 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/narrow-zone",
+        "Description": "Adds new bows and crossbows to enhance your Vanilla experience!",
+        "Authors": "Lucas"
+    },
+    {
+        "Name": "Nether's Delight",
+        "ModId": "nethersdelight",
+        "Version": "1.20.1-4.0",
+        "FileName": "nethersdelight-1.20.1-4.0.jar",
+        "FileSize": "0.35 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/nethers-delight",
+        "Description": "A nether expansion for the Farmer's Delight mod!",
+        "Authors": "Umpaz, SoyTutta"
+    },
+    {
+        "Name": "Night Lights",
+        "ModId": "nightlights",
+        "Version": "1.1",
+        "FileName": "nightlights-1.20.1-1.1.jar",
+        "FileSize": "0.36 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/night-lights",
+        "Description": "",
+        "Authors": "Joosh and samgj15"
+    },
+    {
+        "Name": "Ocean's Delight",
+        "ModId": "oceansdelight",
+        "Version": "${file.jarVersion}",
+        "FileName": "oceansdelight-1.0.2-1.20.jar",
+        "FileSize": "0.09 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/oceans-delight",
+        "Description": "",
+        "Authors": "Scouter456"
+    },
+    {
+        "Name": "Open Modular Turrets Reborn",
+        "ModId": "omtreborn",
+        "Version": "1.1.0",
+        "FileName": "omtreborn-1.1.0.jar",
+        "FileSize": "1.1 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/open-modular-turrets-reborn",
+        "Description": "Adds modular, upgradeable automated defense turrets. Protect your base with a variety of turret types, ammo, and upgrade modules.",
+        "Authors": "ShapeShifterDev"
+    },
+    {
+        "Name": "Placebo",
+        "ModId": "placebo",
+        "Version": "8.6.3",
+        "FileName": "Placebo-1.20.1-8.6.3.jar",
+        "FileSize": "0.27 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/placebo",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "Playdate",
+        "ModId": "playdate",
+        "Version": "2.0.0",
+        "FileName": "playdate-2.0.0-forge.jar",
+        "FileSize": "0.8 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/playdate",
+        "Description": "",
+        "Authors": "Frogipher, ThatGravyBoat"
+    },
+    {
+        "Name": "Player Animator",
+        "ModId": "playeranimator",
+        "Version": "1.0.2-rc1+1.20",
+        "FileName": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+        "FileSize": "0.17 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+        "Description": "",
+        "Authors": "KosmX"
+    },
+    {
+        "Name": "Polymorph",
+        "ModId": "polymorph",
+        "Version": "0.49.10+1.20.1",
+        "FileName": "polymorph-forge-0.49.10+1.20.1.jar",
+        "FileSize": "0.29 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/polymorph",
+        "Description": "",
+        "Authors": "Illusive Soulworks"
+    },
+    {
+        "Name": "Pufferfish's Attributes",
+        "ModId": "puffish_attributes",
+        "Version": "0.8.2",
+        "FileName": "puffish_attributes-0.8.2-1.20-forge.jar",
+        "FileSize": "0.23 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/pufferfishs-attributes",
+        "Description": "Adds more attributes to the game.",
+        "Authors": "Pufferfish"
+    },
+    {
+        "Name": "Pufferfish's Skills",
+        "ModId": "puffish_skills",
+        "Version": "0.18.3",
+        "FileName": "puffish_skills-0.18.3-1.20-forge.jar",
+        "FileSize": "0.59 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills",
+        "Description": "Adds a fully configurable skill system to the game.",
+        "Authors": "Pufferfish"
+    },
+    {
+        "Name": "Puzzles Lib",
+        "ModId": "puzzleslib",
+        "Version": "8.1.33",
+        "FileName": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+        "FileSize": "1.28 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+        "Description": "Why's it called Puzzles you ask? That's the puzzle!",
+        "Authors": "Fuzs"
+    },
+    {
+        "Name": "Quark",
+        "ModId": "quark",
+        "Version": "${file.jarVersion}",
+        "FileName": "Quark-4.0-462.jar",
+        "FileSize": "14.24 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/quark",
+        "Description": "",
+        "Authors": "Vazkii, WireSegal, MCVinnyq, Sully"
+    },
+    {
+        "Name": "Redwolf Music Expansion",
+        "ModId": "red_exp",
+        "Version": "2.0.3",
+        "FileName": "red_exp-2.0.4-forge-1.20.1.jar",
+        "FileSize": "52.66 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/redwolf-music-expansion",
+        "Description": "Adds RedWolf's Music Discs to your world",
+        "Authors": "Sweetygamer"
+    },
+    {
+        "Name": "ScalingMobs",
+        "ModId": "scalingmobs",
+        "Version": "1.0",
+        "FileName": "scalingmobs-1.0.jar",
+        "FileSize": "0.01 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/scaling-mobs",
+        "Description": "ScalingMobs can adjust the difficulty of bosses and regular mobs added to the list. It works with virtually all mods and mobs.",
+        "Authors": "24na7"
+    },
+    {
+        "Name": "Searchables",
+        "ModId": "searchables",
+        "Version": "${file.jarVersion}",
+        "FileName": "Searchables-forge-1.20.1-1.0.3.jar",
+        "FileSize": "0.07 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+        "Description": "",
+        "Authors": "Jaredlll08"
+    },
+    {
+        "Name": "ServerCore",
+        "ModId": "servercore",
+        "Version": "1.5.2+1.20.1",
+        "FileName": "servercore-forge-1.5.2+1.20.1.jar",
+        "FileSize": "1.44 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/servercore",
+        "Description": "",
+        "Authors": "Wesley1808"
+    },
+    {
+        "Name": "Simply Bows",
+        "ModId": "simplybows",
+        "Version": "0.1.4",
+        "FileName": "simplybows-forge-neoforge-0.1.4.jar",
+        "FileSize": "3.86 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/simply-bows",
+        "Description": "Adds unique bows with powerful abilities.",
+        "Authors": "Sweenus, Hootea"
+    },
+    {
+        "Name": "Simply Swords",
+        "ModId": "simplyswords",
+        "Version": "1.56.0-1.20.1",
+        "FileName": "simplyswords-forge-1.56.0-1.20.1.jar",
+        "FileSize": "14.5 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/simply-swords",
+        "Description": "",
+        "Authors": "Sweenus"
+    },
+    {
+        "Name": "Simply Tooltips",
+        "ModId": "simplytooltips",
+        "Version": "0.1.5-1.20.1",
+        "FileName": "SimplyTooltips-forge-0.1.5-1.20.1.jar",
+        "FileSize": "5.17 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/simply-tooltips",
+        "Description": "Modern data driven tooltip renderer for Simply mods. Optionally available for other vanilla and modded items.",
+        "Authors": "Sweenus"
+    },
+    {
+        "Name": "Create Slice & Dice",
+        "ModId": "sliceanddice",
+        "Version": "3.6.0",
+        "FileName": "sliceanddice-forge-3.6.0.jar",
+        "FileSize": "0.56 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-slice-dice",
+        "Description": "",
+        "Authors": "possible_triangle"
+    },
+    {
+        "Name": "Sooty Chimneys",
+        "ModId": "sootychimneys",
+        "Version": "1.3.4",
+        "FileName": "sootychimneys-forge-1.20.1-1.3.4.jar",
+        "FileSize": "0.35 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/sooty-chimneys",
+        "Description": "Spiritual successor to campfires!",
+        "Authors": "mortuusars"
+    },
+    {
+        "Name": "Sophisticated Backpacks",
+        "ModId": "sophisticatedbackpacks",
+        "Version": "3.24.67.2109",
+        "FileName": "sophisticatedbackpacks-1.20.1-3.24.67.2109.jar",
+        "FileSize": "1.11 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "Sophisticated Core",
+        "ModId": "sophisticatedcore",
+        "Version": "1.3.84.2308",
+        "FileName": "sophisticatedcore-1.20.1-1.3.84.2308.jar",
+        "FileSize": "1.56 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "Sophisticated Storage",
+        "ModId": "sophisticatedstorage",
+        "Version": "1.4.85.2124",
+        "FileName": "sophisticatedstorage-1.20.1-1.4.85.2124.jar",
+        "FileSize": "1.78 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage",
+        "Description": "",
+        "Authors": ""
+    },
+    {
+        "Name": "spark",
+        "ModId": "spark",
+        "Version": "1.10.53",
+        "FileName": "spark-1.10.53-forge.jar",
+        "FileSize": "2.97 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/spark",
+        "Description": "spark is a performance profiling plugin/mod for Minecraft clients, servers and proxies.",
+        "Authors": ""
+    },
+    {
+        "Name": "Create: Steam 'n' Rails",
+        "ModId": "railways",
+        "Version": "1.7.2+forge-mc1.20.1",
+        "FileName": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+        "FileSize": "16.04 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
+        "Description": "",
+        "Authors": "The Railways Team"
+    },
+    {
+        "Name": "Structure Gel API",
+        "ModId": "structure_gel",
+        "Version": "${file.jarVersion}",
+        "FileName": "structure_gel-1.20.1-2.16.2.jar",
+        "FileSize": "0.92 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/structure-gel-api",
+        "Description": "",
+        "Authors": "Silver_David, KingPhygieBoo, Jonathing"
+    },
+    {
+        "Name": "Supplementaries",
+        "ModId": "supplementaries",
+        "Version": "1.20-3.1.43",
+        "FileName": "supplementaries-1.20-3.1.43-forge.jar",
+        "FileSize": "13.03 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+        "Description": "",
+        "Authors": "MehVahdJukaar, Plantkillable"
+    },
+    {
+        "Name": "Tectonic",
+        "ModId": "tectonic",
+        "Version": "3.0.17",
+        "FileName": "tectonic-3.0.17-forge-1.20.1.jar",
+        "FileSize": "0.31 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/tectonic",
+        "Description": "Terrain shaping brought to new heights, grander and more varied than ever before!",
+        "Authors": "Apollo"
+    },
+    {
+        "Name": "TenshiLib",
+        "ModId": "tenshilib",
+        "Version": "1.20.1-1.7.6",
+        "FileName": "tenshilib-1.20.1-1.7.6-forge.jar",
+        "FileSize": "0.44 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/tenshilib",
+        "Description": "",
+        "Authors": "Flemmli97"
+    },
+    {
+        "Name": "Terralith",
+        "ModId": "terralith",
+        "Version": "2.5.4",
+        "FileName": "Terralith_1.20.x_v2.5.4.jar",
+        "FileSize": "3.01 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/terralith",
+        "Description": "Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several im...",
+        "Authors": "Stardust Labs"
+    },
+    {
+        "Name": "Create: Totem Factory",
+        "ModId": "totemfactory",
+        "Version": "1.1.2",
+        "FileName": "TotemFactory-1.1.2+mc1.20.1-Forge.jar",
+        "FileSize": "0.87 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-totem-factory",
+        "Description": "The industrial revolution has come to Minecraft, and with it, new knowledge and discoveries both in the field of science and ma...",
+        "Authors": ""
+    },
+    {
+        "Name": "Create: Trading Floor",
+        "ModId": "trading_floor",
+        "Version": "2.0.5",
+        "FileName": "trading_floor-forge-1.20.1-2.0.5.jar",
+        "FileSize": "0.28 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/create-trading-floor",
+        "Description": "",
+        "Authors": "Cake, Tazer"
+    },
+    {
+        "Name": "The Twilight Forest",
+        "ModId": "twilightforest",
+        "Version": "${file.jarVersion}",
+        "FileName": "twilightforest-1.20.1-4.3.2508-universal.jar",
+        "FileSize": "22.25 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
+        "Description": "",
+        "Authors": "Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi"
+    },
+    {
+        "Name": "Valhelsia Core",
+        "ModId": "valhelsia_core",
+        "Version": "1.1.2",
+        "FileName": "valhelsia_core-forge-1.20.1-1.1.2.jar",
+        "FileSize": "0.19 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/valhelsia-core",
+        "Description": "",
+        "Authors": "Love, Cheese and small house plants"
+    },
+    {
+        "Name": "Valhelsia Furniture",
+        "ModId": "valhelsia_furniture",
+        "Version": "1.1.3",
+        "FileName": "valhelsia_furniture-forge-1.20.1-1.1.3.jar",
+        "FileSize": "4.31 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/valhelsia-furniture",
+        "Description": "",
+        "Authors": "Love, Cheese and small house plants"
+    },
+    {
+        "Name": "Wares",
+        "ModId": "wares",
+        "Version": "${file.jarVersion}",
+        "FileName": "wares-1.20.1-1.2.10.jar",
+        "FileSize": "0.45 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/wares",
+        "Description": "",
+        "Authors": "mortuusars"
+    },
+    {
+        "Name": "Waystones",
+        "ModId": "waystones",
+        "Version": "14.1.20",
+        "FileName": "waystones-forge-1.20.1-14.1.20.jar",
+        "FileSize": "0.51 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+        "Description": "",
+        "Authors": "BlayTheNinth"
+    },
+    {
+        "Name": "Xaero's Minimap",
+        "ModId": "xaerominimap",
+        "Version": "26.4.2",
+        "FileName": "xaerominimap-forge-1.20.1-26.4.2.jar",
+        "FileSize": "2.09 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+        "Description": "",
+        "Authors": "xaero96"
+    },
+    {
+        "Name": "Xaero's World Map",
+        "ModId": "xaeroworldmap",
+        "Version": "1.45.0",
+        "FileName": "xaeroworldmap-forge-1.20.1-1.45.0.jar",
+        "FileSize": "1.36 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+        "Description": "",
+        "Authors": "xaero96"
+    },
+    {
+        "Name": "YUNG's API",
+        "ModId": "yungsapi",
+        "Version": "1.20-Forge-4.0.6",
+        "FileName": "YungsApi-1.20-Forge-4.0.6.jar",
+        "FileSize": "0.35 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
+        "Description": "API Library for YUNG's minecraft mods.",
+        "Authors": "YUNGNICKYOUNG"
+    },
+    {
+        "Name": "YUNG's Better Dungeons",
+        "ModId": "betterdungeons",
+        "Version": "1.20-Forge-4.0.4",
+        "FileName": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+        "FileSize": "0.76 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
+        "Description": "A complete redesign of Minecraft's dungeons",
+        "Authors": "YUNGNICKYOUNG, Acarii"
+    },
+    {
+        "Name": "Zeta",
+        "ModId": "zeta",
+        "Version": "${file.jarVersion}",
+        "FileName": "Zeta-1.0-31.jar",
+        "FileSize": "0.96 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/zeta",
+        "Description": "",
+        "Authors": "Vazkii, quat, IThundxr, siuol, wiresegal, MehVahdJukaar"
+    },
+    {
+        "Name": "CreativeCore",
+        "ModId": "creativecore",
+        "Version": "2.12.32",
+        "FileName": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+        "FileSize": "1.10 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+        "Description": "A simple but powerful coremod.",
+        "Authors": "CreativeMD"
+    },
+    {
+        "Name": "WATERFrAMES",
+        "ModId": "waterframes",
+        "Version": "2.1.22",
+        "FileName": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+        "FileSize": "0.24 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/waterframes",
+        "Description": "Display custom video and pictures in your world.",
+        "Authors": "SrRapero720"
+    },
+    {
+        "Name": "WATERMeDIA",
+        "ModId": "watermedia",
+        "Version": "2.1.37",
+        "FileName": "watermedia-2.1.37.jar",
+        "FileSize": "35.33 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/watermedia",
+        "Description": "Library with an API for multimedia integration with Minecraft.",
+        "Authors": "SrRapero720, Goedix"
+    },
+    {
+        "Name": "WATERViSION",
+        "ModId": "watervision",
+        "Version": "0.1.0-alpha",
+        "FileName": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+        "FileSize": "0.08 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/watervision",
+        "Description": "Record, watch, and broadcast videos in game.",
+        "Authors": "SrRapero720"
+    },
+    {
+        "Name": "WATERMeDIA: Youtube Extension",
+        "ModId": "watermedia_youtube_plugin",
+        "Version": "2.1.2",
+        "FileName": "watermedia_youtube_plugin-2.1.2.jar",
+        "FileSize": "3.65 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/watermedia-yt-plugin",
+        "Description": "Plugin for WATERMeDIA that adds YouTube as a media source.",
+        "Authors": "SrRapero720"
+    },
+    {
+        "Name": "Loot Journal",
+        "ModId": "loot_journal",
+        "Version": "6.2.1",
+        "FileName": "loot_journal-forge-1.20.1-6.2.1.jar",
+        "FileSize": "1.42 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/loot-journal",
+        "Description": "Item pick-up notifier with smooth animations and themes (Fragmentum 1.5.2 호환 안정 버전).",
+        "Authors": "Obscuria"
     }
 ]
