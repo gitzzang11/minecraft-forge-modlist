@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.20.1-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.20.1" />
   <img src="https://img.shields.io/badge/Forge-47.4.10-orange?style=for-the-badge" alt="Forge 47.4.10" />
-  <img src="https://img.shields.io/badge/Total_Mods-142개-0284c7?style=for-the-badge" alt="Total Mods" />
-  <img src="https://img.shields.io/badge/Total_Size-715.71_MB-6366f1?style=for-the-badge" alt="Total Size" />
+  <img src="https://img.shields.io/badge/Total_Mods-143개-0284c7?style=for-the-badge" alt="Total Mods" />
+  <img src="https://img.shields.io/badge/Total_Size-719.36_MB-6366f1?style=for-the-badge" alt="Total Size" />
   <img src="https://img.shields.io/badge/Java-17_LTS-b45309?style=for-the-badge" alt="Java 17" />
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip">
-    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-718MB-10B981?style=for-the-badge" alt="Direct Download" />
+    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-719MB-10B981?style=for-the-badge" alt="Direct Download" />
   </a>
 </p>
 
@@ -36,11 +36,11 @@
 
 ---
 
-### 2026-11-01 접속 오류 대응 릴리스
+### 2026-11-01 접속 오류 대응 및 YouTube 확장 모드 추가 릴리스
 
 - `mismatched mod channel list`가 표시되면 현재 릴리스의 전체 모드팩으로 사용하는 프로필을 동기화하세요.
-- CreativeCore 2.12.32, Open Modular Turrets Reborn 1.1.0, WaterFrames 2.1.22, WaterVision 0.1.0-alpha와 클라이언트 의존성 WATERMeDIA 2.1.37을 포함합니다.
-- 클라이언트용 JAR 142개를 패키징합니다. 서버 전용 Manager Whispers는 제외하고, 클라이언트 전용 WATERMeDIA는 포함합니다.
+- CreativeCore 2.12.32, Open Modular Turrets Reborn 1.1.0, WaterFrames 2.1.22, WaterVision 0.1.0-alpha, 클라이언트 의존성 WATERMeDIA 2.1.37 및 WATERMeDIA: Youtube Extension 2.1.2를 포함합니다.
+- 클라이언트용 JAR 143개를 패키징합니다. 서버 전용 Manager Whispers는 제외하고, 클라이언트 전용 WATERMeDIA 및 YouTube Extension은 포함합니다.
 - 릴리스의 `SHA256SUMS.txt`와 `mods-manifest-sha256.json`으로 ZIP 및 개별 JAR를 검증할 수 있습니다.
 
 ## ✨ 주요 모드 구성 (Feature Highlights)
@@ -52,7 +52,7 @@
 | ⚙️ **Create 공학 & 기계화** | **Create**, Steam 'n' Rails(고속 철도), Crafts & Additions(전기/발전), Connected, Copycats+, Jetpack, Slice & Dice, Copper and Zinc |
 | 🍳 **농사, 요리 & 라이프** | **Farmer's Delight**, Nether's Delight, End's Delight, Ocean's Delight, Corn Delight, Cultural Delights, Brewin' And Chewin', Drink Beer Refill |
 | ⚔️ **전투, 모험 & 보스** | **L_Ender's Cataclysm**, **Bosses Rise**, **Mowzie's Mobs**, **Born in Chaos**, **EEEAB's Mobs**, **Aquamirae**, Alex's Caves/Mobs, Iron's Spells, Simply Swords, More Bows and Arrows, Simply Bows |
-| 🖼️ **멀티미디어 & 장식** | **WATERFrAMES** (영상·이미지 디스플레이), WaterVision (영상 재생 명령) |
+| 🖼️ **멀티미디어 & 장식** | **WATERFrAMES** (영상·이미지 디스플레이), WaterVision (영상 재생 명령), **WATERMeDIA: Youtube Extension** (유튜브 재생 지원) |
 | 🌌 **차원 탐험 (Dimensions)** | **The Twilight Forest (황혼의 숲)**, **Blue Skies (에버스톤/에버브라이트)**, **Deeper and Darker (딥 다크/워든 차원)** |
 | 📈 **난이도 조절 & 스케일링** | **Scaling Mobs**, **Champions Unofficial (엘리트 몹 챔피언)**, **Multiplayer Boss Attribute Modifier (다인원 보스 체력 보정)**, **Improved Mobs (AI 지능 강화)** |
 | ⚡ **엔진 최적화 & 성능** | **Embeddium**, ModernFix, FerriteCore, Clumps(XP 구슬 렉 방지), FastSuite, FastFurnace, FastWorkbench, ServerCore, spark(성능 진단), Chunky(청크 사전 로딩) |
@@ -60,7 +60,7 @@
 
 ---
 
-## 📋 전체 모드 상세 목록 (총 142개)
+## 📋 전체 모드 상세 목록 (총 143개)
 
 | # | 모드 이름 (공식 사이트 링크) | Mod ID | 파일명 (.jar) | 파일 크기 |
 | :-: | :--- | :--- | :--- | :-: |
@@ -200,12 +200,13 @@
 | 134 | [**WATERFrAMES** 🔗](https://www.curseforge.com/minecraft/mc-mods/waterframes) | `waterframes` | `waterframes-FORGE-mc1.20.1-v2.1.22.jar` | 0.24 MB |
 | 135 | [**WATERMeDIA** 🔗](https://www.curseforge.com/minecraft/mc-mods/watermedia) | `watermedia` | `watermedia-2.1.37.jar` | 35.33 MB |
 | 136 | [**WATERViSION** 🔗](https://www.curseforge.com/minecraft/mc-mods/watervision) | `watervision` | `watervision-FG-mc1.20.1-v0.1.0-alpha.jar` | 0.08 MB |
-| 137 | [**Waystones** 🔗](https://www.curseforge.com/minecraft/mc-mods/waystones) | `waystones` | `waystones-forge-1.20.1-14.1.20.jar` | 0.51 MB |
-| 138 | [**Xaero's Minimap** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | `xaerominimap` | `xaerominimap-forge-1.20.1-26.4.2.jar` | 2.09 MB |
-| 139 | [**Xaero's World Map** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | `xaeroworldmap` | `xaeroworldmap-forge-1.20.1-1.45.0.jar` | 1.36 MB |
-| 140 | [**YUNG's API** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-api) | `yungsapi` | `YungsApi-1.20-Forge-4.0.6.jar` | 0.35 MB |
-| 141 | [**YUNG's Better Dungeons** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) | `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0.76 MB |
-| 142 | [**Zeta** 🔗](https://www.curseforge.com/minecraft/mc-mods/zeta) | `zeta` | `Zeta-1.0-31.jar` | 0.96 MB |
+| 137 | [**WATERMeDIA: Youtube Extension** 🔗](https://www.curseforge.com/minecraft/mc-mods/watermedia-yt-plugin) | `watermedia_youtube_plugin` | `watermedia_youtube_plugin-2.1.2.jar` | 3.65 MB |
+| 138 | [**Waystones** 🔗](https://www.curseforge.com/minecraft/mc-mods/waystones) | `waystones` | `waystones-forge-1.20.1-14.1.20.jar` | 0.51 MB |
+| 139 | [**Xaero's Minimap** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | `xaerominimap` | `xaerominimap-forge-1.20.1-26.4.2.jar` | 2.09 MB |
+| 140 | [**Xaero's World Map** 🔗](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | `xaeroworldmap` | `xaeroworldmap-forge-1.20.1-1.45.0.jar` | 1.36 MB |
+| 141 | [**YUNG's API** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-api) | `yungsapi` | `YungsApi-1.20-Forge-4.0.6.jar` | 0.35 MB |
+| 142 | [**YUNG's Better Dungeons** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) | `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0.76 MB |
+| 143 | [**Zeta** 🔗](https://www.curseforge.com/minecraft/mc-mods/zeta) | `zeta` | `Zeta-1.0-31.jar` | 0.96 MB |
 ---
 
 ## 🔄 동기화 정보

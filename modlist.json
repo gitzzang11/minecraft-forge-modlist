@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "Name":  "Alex\u0027s Caves",
         "ModId":  "alexscaves",
@@ -1417,6 +1417,16 @@
         "FileSize":  "0.08 MB",
         "Url":  "https://www.curseforge.com/minecraft/mc-mods/watervision",
         "Description":  "Record, watch, and broadcast videos in game.",
+        "Authors":  "SrRapero720"
+    },
+    {
+        "Name":  "WATERMeDIA: Youtube Extension",
+        "ModId":  "watermedia_youtube_plugin",
+        "Version":  "2.1.2",
+        "FileName":  "watermedia_youtube_plugin-2.1.2.jar",
+        "FileSize":  "3.65 MB",
+        "Url":  "https://www.curseforge.com/minecraft/mc-mods/watermedia-yt-plugin",
+        "Description":  "Plugin for WATERMeDIA that adds YouTube as a media source.",
         "Authors":  "SrRapero720"
     }
 ]
