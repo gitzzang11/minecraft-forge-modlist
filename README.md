@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.20.1-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.20.1" />
   <img src="https://img.shields.io/badge/Forge-47.4.10-orange?style=for-the-badge" alt="Forge 47.4.10" />
-  <img src="https://img.shields.io/badge/Total_Mods-144개-0284c7?style=for-the-badge" alt="Total Mods" />
-  <img src="https://img.shields.io/badge/Total_Size-720.26_MB-6366f1?style=for-the-badge" alt="Total Size" />
+  <img src="https://img.shields.io/badge/Total_Mods-145개-0284c7?style=for-the-badge" alt="Total Mods" />
+  <img src="https://img.shields.io/badge/Total_Size-722.54_MB-6366f1?style=for-the-badge" alt="Total Size" />
   <img src="https://img.shields.io/badge/Java-17_LTS-b45309?style=for-the-badge" alt="Java 17" />
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip">
-    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-720MB-10B981?style=for-the-badge" alt="Direct Download" />
+    <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-722MB-10B981?style=for-the-badge" alt="Direct Download" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 >    - **기존 폴더에 그대로 덮어쓰기하면 절대로 안 됩니다!** 구버전 잔여 파일(예: `CreativeCore`, `JEI`, `mezz_config` 등)과 신버전이 공존하여 서버 접속 시 `mismatched mod list` 오류로 즉시 튕깁니다.
 > 4. **[🚨 필수] ZIP 압축을 풀어서 넣으세요!**
 >    - `mods-forge-1.20.1.zip` 파일 통째로 넣으면 게임이 모드를 인식하지 못합니다.
->    - 압축 해제 후 나온 **144개의 `.jar` 파일들을 `mods` 폴더 안에 직접** 넣습니다.
+>    - 압축 해제 후 나온 **145개의 `.jar` 파일들을 `mods` 폴더 안에 직접** 넣습니다.
 > 5. **[🚨 금지] CurseForge에서 '모두 업데이트(Update All)'를 누르지 마세요!**
 >    - 업데이트를 누르면 서버와 모드 채널 규격이 어긋나 접속이 차단됩니다.
 > 6. 마인크래프트 실행기에서 **Forge 1.20.1 (47.4.10 권장)** 프로필로 실행하여 서버에 접속합니다.
@@ -43,15 +43,14 @@
 
 ---
 
-### 2026-11-01 접속 오류 원인 해결 및 Loot Journal 안정화 릴리스
+### 2026-11-06 Powah! 에너지 모드 추가 릴리스
 
-- **접속 튕김 원인 완전 해결:**
-  - 서버 접속 시 `Disconnected` 및 `mismatched mod list`가 발생하는 근본 원인(구버전 모드 잔여물 중복, `mezz_config` 채널 충돌, 커스포지 자동 업데이트 불일치)을 해결했습니다.
-  - `Fragmentum 1.5.2`와 호환되는 **Loot Journal 6.2.1 안정화 버전**을 모드팩에 기본 포함하여 클라이언트 구동 시 크래시 문제를 방지했습니다.
-- **모드 구성 (총 144개):**
-  - 서버 구동 모드 142개 + 클라이언트 전용 3개(WATERMeDIA 2.1.37, YouTube Extension 2.1.2, Loot Journal 6.2.1)
-  - CreativeCore 2.12.32, Open Modular Turrets Reborn 1.1.0, WaterFrames 2.1.22, WaterVision 0.1.0-alpha 완벽 동기화
-- 릴리스의 `SHA256SUMS.txt`와 `mods-manifest-sha256.json`으로 ZIP 및 144개 개별 JAR를 검증할 수 있습니다.
+- **신규 모드 추가:** **Powah! (Rerouted)** (`Powah-5.0.11.jar`)
+  - 다양한 방식의 발전기, 고용량 에너지 셀(배터리), 케이블 및 무선 송수전 시스템 제공
+- **모드 구성 (총 145개):**
+  - 서버 구동 모드 143개 + 클라이언트 전용 3개(WATERMeDIA 2.1.37, YouTube Extension 2.1.2, Loot Journal 6.2.1 / 서버 전용 Manager Whispers 제외)
+  - 접속 차단 모드(mezz_config 등) 및 크래시 유발 모드 배제 완료
+- 릴리스의 `SHA256SUMS.txt`와 `mods-manifest-sha256.json`으로 ZIP 및 145개 개별 JAR를 검증할 수 있습니다.
 
 ## ✨ 주요 모드 구성 (Feature Highlights)
 
@@ -59,7 +58,7 @@
 
 | 분류 | 주요 모드 및 콘텐츠 |
 | :--- | :--- |
-| ⚙️ **Create 공학 & 기계화** | **Create**, Steam 'n' Rails(고속 철도), Crafts & Additions(전기/발전), Connected, Copycats+, Jetpack, Slice & Dice, Copper and Zinc |
+| ⚙️ **Create 공학 & 에너지 기계화** | **Create**, **Powah! (Rerouted, 발전/저장/무선송전)**, Steam 'n' Rails(고속 철도), Crafts & Additions(전기/발전), Connected, Copycats+, Jetpack, Slice & Dice, Copper and Zinc |
 | 🍳 **농사, 요리 & 라이프** | **Farmer's Delight**, Nether's Delight, End's Delight, Ocean's Delight, Corn Delight, Cultural Delights, Brewin' And Chewin', Drink Beer Refill |
 | ⚔️ **전투, 모험 & 보스** | **L_Ender's Cataclysm**, **Bosses Rise**, **Mowzie's Mobs**, **Born in Chaos**, **EEEAB's Mobs**, **Aquamirae**, Alex's Caves/Mobs, Iron's Spells, Simply Swords, More Bows and Arrows, Simply Bows |
 | 🖼️ **멀티미디어 & 장식** | **WATERFrAMES** (영상·이미지 디스플레이), WaterVision (영상 재생 명령), **WATERMeDIA: Youtube Extension** (유튜브 재생 지원) |
@@ -70,7 +69,7 @@
 
 ---
 
-## 📋 전체 모드 상세 목록 (총 144개)
+## 📋 전체 모드 상세 목록 (총 145개)
 
 | # | 모드 이름 (공식 사이트 링크) | Mod ID | 파일명 (.jar) | 파일 크기 |
 | :-: | :--- | :--- | :--- | :-: |
@@ -218,6 +217,7 @@
 | 142 | [**YUNG's Better Dungeons** 🔗](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) | `betterdungeons` | `YungsBetterDungeons-1.20-Forge-4.0.4.jar` | 0.76 MB |
 | 143 | [**Zeta** 🔗](https://www.curseforge.com/minecraft/mc-mods/zeta) | `zeta` | `Zeta-1.0-31.jar` | 0.96 MB |
 | 144 | [**Loot Journal** 🔗](https://www.curseforge.com/minecraft/mc-mods/loot-journal) | `loot_journal` | `loot_journal-forge-1.20.1-6.2.1.jar` | 1.42 MB |
+| 145 | [**Powah! (Rerouted)** 🔗](https://modrinth.com/mod/powah) | `powah` | `Powah-5.0.11.jar` | 2.28 MB |
 ---
 
 ## 🔄 동기화 정보

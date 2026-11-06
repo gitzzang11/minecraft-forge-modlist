@@ -1438,5 +1438,15 @@
         "Url": "https://www.curseforge.com/minecraft/mc-mods/loot-journal",
         "Description": "Item pick-up notifier with smooth animations and themes (Fragmentum 1.5.2 호환 안정 버전).",
         "Authors": "Obscuria"
+    },
+    {
+        "Name": "Powah! (Rerouted)",
+        "ModId": "powah",
+        "Version": "5.0.11",
+        "FileName": "Powah-5.0.11.jar",
+        "FileSize": "2.28 MB",
+        "Url": "https://modrinth.com/mod/powah",
+        "Description": "Various ways to generate, store and transmit FE power.",
+        "Authors": "owmii, Technici4n"
     }
 ]
