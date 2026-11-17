@@ -1448,5 +1448,15 @@
         "Url": "https://modrinth.com/mod/powah",
         "Description": "Various ways to generate, store and transmit FE power.",
         "Authors": "owmii, Technici4n"
+    },
+    {
+        "Name": "Countries Delight",
+        "ModId": "countriesdelight",
+        "Version": "1.0.7-korea-lunar",
+        "FileName": "countriesdelight-1.0.7-korea-lunar.jar",
+        "FileSize": "0.37 MB",
+        "Url": "https://www.curseforge.com/minecraft/mc-mods/countries-delight",
+        "Description": "Farmer's Delight addon that introduces iconic, traditional foods and dishes from countries around the world.",
+        "Authors": "FixerLink"
     }
 ]
