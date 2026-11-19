@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.20.1-2ea44f?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.20.1" />
   <img src="https://img.shields.io/badge/Forge-47.4.10-orange?style=for-the-badge" alt="Forge 47.4.10" />
-  <img src="https://img.shields.io/badge/Total_Mods-146개-0284c7?style=for-the-badge" alt="Total Mods" />
-  <img src="https://img.shields.io/badge/Total_Size-722.91_MB-6366f1?style=for-the-badge" alt="Total Size" />
+  <img src="https://img.shields.io/badge/Total_Mods-147개-0284c7?style=for-the-badge" alt="Total Mods" />
+  <img src="https://img.shields.io/badge/Total_Size-723.42_MB-6366f1?style=for-the-badge" alt="Total Size" />
   <img src="https://img.shields.io/badge/Java-17_LTS-b45309?style=for-the-badge" alt="Java 17" />
 </p>
 
@@ -21,10 +21,14 @@
   <a href="https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip">
     <img src="https://img.shields.io/badge/📦_mods--forge--1.20.1.zip_다이렉트_다운로드-723MB-10B981?style=for-the-badge" alt="Direct Download" />
   </a>
+  <a href="https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/KoreanModTranslations-1.20.1.zip">
+    <img src="https://img.shields.io/badge/🎨_KoreanModTranslations--1.20.1.zip_한글패치_다운로드-208KB-3B82F6?style=for-the-badge" alt="Korean Translation Pack" />
+  </a>
 </p>
 
 - 🔗 **최신 릴리즈 페이지:** [GitHub Releases Latest](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest)
-- 💾 **원클릭 다이렉트 다운로드:** [mods-forge-1.20.1.zip](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip)
+- 💾 **모드팩 다이렉트 다운로드:** [mods-forge-1.20.1.zip](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/mods-forge-1.20.1.zip)
+- 🎨 **한국어 번역 리소스팩 다운로드:** [KoreanModTranslations-1.20.1.zip](https://github.com/gitzzang11/minecraft-forge-modlist/releases/latest/download/KoreanModTranslations-1.20.1.zip) (저장소 경로: [`resourcepacks/KoreanModTranslations-1.20.1.zip`](resourcepacks/KoreanModTranslations-1.20.1.zip))
 
 > ### 🛠️ 간편 설치 가이드 (반드시 필독!)
 > 1. 위 버튼 또는 링크를 눌러 `mods-forge-1.20.1.zip` 파일을 다운로드합니다.
@@ -34,12 +38,27 @@
 >    - **기존 폴더에 그대로 덮어쓰기하면 절대로 안 됩니다!** 구버전 잔여 파일(예: `CreativeCore`, `JEI`, `mezz_config` 등)과 신버전이 공존하여 서버 접속 시 `mismatched mod list` 오류로 즉시 튕깁니다.
 > 4. **[🚨 필수] ZIP 압축을 풀어서 넣으세요!**
 >    - `mods-forge-1.20.1.zip` 파일 통째로 넣으면 게임이 모드를 인식하지 못합니다.
->    - 압축 해제 후 나온 **146개의 `.jar` 파일들을 `mods` 폴더 안에 직접** 넣습니다.
+>    - 압축 해제 후 나온 **147개의 `.jar` 파일들을 `mods` 폴더 안에 직접** 넣습니다.
 > 5. **[🚨 금지] CurseForge에서 '모두 업데이트(Update All)'를 누르지 마세요!**
 >    - 업데이트를 누르면 서버와 모드 채널 규격이 어긋나 접속이 차단됩니다.
 > 6. 마인크래프트 실행기에서 **Forge 1.20.1 (47.4.10 권장)** 프로필로 실행하여 서버에 접속합니다.
+> 7. **[🎨 선택/권장] 한국어 번역 리소스팩 적용:**
+>    - `KoreanModTranslations-1.20.1.zip`을 다운로드하여 게임 폴더의 `resourcepacks` 폴더에 넣습니다. (압축 해제 금지)
+>    - 게임 실행 후 **[설정] > [리소스 팩]**에서 활성화하면 80여 개 주요 모드의 한글화가 적용됩니다.
 > 
 > 💡 **메모리(RAM) 권장 설정:** 마인크래프트 런처 프로필 설정에서 JVM 메모리를 **6GB ~ 8GB** (예: -Xmx8G) 할당하면 훨씬 부드럽게 플레이할 수 있습니다.
+
+---
+
+### 2026-11-19 Korean Delight & 한국어 번역 리소스팩 추가 릴리스
+
+- **신규 모드 추가:** **Korean Delight** (`korean-delight-1.0.0-forge-1.20.1.jar`)
+  - 한국 전통 요리, 작물(마늘, 고추, 참깨 등), 양념 및 Farmer's Delight 연계 압착기를 추가하는 한국 요리 모드
+- **한국어 번역 리소스팩 배포:** **`KoreanModTranslations-1.20.1.zip`**
+  - Korean Delight, Countries Delight, Alex's Mobs, Create 애드온 등 80여 개 주요 모드 한국어 번역 통합 패키지 동봉
+- **모드 구성 (총 147개):**
+  - 서버 구동 모드 144개 + 클라이언트 전용 3개(WATERMeDIA 2.1.37, YouTube Extension 2.1.2, Loot Journal 6.2.1 / 서버 전용 Manager Whispers 제외)
+- 릴리스의 `SHA256SUMS.txt`와 `mods-manifest-sha256.json`으로 ZIP, 리소스팩 및 147개 개별 JAR를 검증할 수 있습니다.
 
 ---
 
@@ -59,7 +78,7 @@
 | 분류 | 주요 모드 및 콘텐츠 |
 | :--- | :--- |
 | ⚙️ **Create 공학 & 에너지 기계화** | **Create**, **Powah! (Rerouted, 발전/저장/무선송전)**, Steam 'n' Rails(고속 철도), Crafts & Additions(전기/발전), Connected, Copycats+, Jetpack, Slice & Dice, Copper and Zinc |
-| 🍳 **농사, 요리 & 라이프** | **Farmer's Delight**, **Countries Delight (세계 각국 요리/식재료)**, Nether's Delight, End's Delight, Ocean's Delight, Corn Delight, Cultural Delights, Brewin' And Chewin', Drink Beer Refill |
+| 🍳 **농사, 요리 & 라이프** | **Farmer's Delight**, **Korean Delight (한국 전통 요리/작물/압착기)**, **Countries Delight (세계 각국 요리/식재료)**, Nether's Delight, End's Delight, Ocean's Delight, Corn Delight, Cultural Delights, Brewin' And Chewin', Drink Beer Refill |
 | ⚔️ **전투, 모험 & 보스** | **L_Ender's Cataclysm**, **Bosses Rise**, **Mowzie's Mobs**, **Born in Chaos**, **EEEAB's Mobs**, **Aquamirae**, Alex's Caves/Mobs, Iron's Spells, Simply Swords, More Bows and Arrows, Simply Bows |
 | 🖼️ **멀티미디어 & 장식** | **WATERFrAMES** (영상·이미지 디스플레이), WaterVision (영상 재생 명령), **WATERMeDIA: Youtube Extension** (유튜브 재생 지원) |
 | 🌌 **차원 탐험 (Dimensions)** | **The Twilight Forest (황혼의 숲)**, **Blue Skies (에버스톤/에버브라이트)**, **Deeper and Darker (딥 다크/워든 차원)** |
@@ -69,7 +88,7 @@
 
 ---
 
-## 📋 전체 모드 상세 목록 (총 146개)
+## 📋 전체 모드 상세 목록 (총 147개)
 
 | # | 모드 이름 (공식 사이트 링크) | Mod ID | 파일명 (.jar) | 파일 크기 |
 | :-: | :--- | :--- | :--- | :-: |
@@ -219,8 +238,9 @@
 | 144 | [**Loot Journal** 🔗](https://www.curseforge.com/minecraft/mc-mods/loot-journal) | `loot_journal` | `loot_journal-forge-1.20.1-6.2.1.jar` | 1.42 MB |
 | 145 | [**Powah! (Rerouted)** 🔗](https://modrinth.com/mod/powah) | `powah` | `Powah-5.0.11.jar` | 2.28 MB |
 | 146 | [**Countries Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/countries-delight) | `countriesdelight` | `countriesdelight-1.0.7-korea-lunar.jar` | 0.37 MB |
+| 147 | [**Korean Delight** 🔗](https://www.curseforge.com/minecraft/mc-mods/korean-delight) | `korean_food` | `korean-delight-1.0.0-forge-1.20.1.jar` | 0.51 MB |
 ---
 
 ## 🔄 동기화 정보
-- **최신 갱신 일시:** 2026-11-01 (KST)
+- **최신 갱신 일시:** 2026-11-19 (KST)
 - **동기화 방식:** 서버 엔진 통합 자동 빌드 & 동기화 파이프라인
